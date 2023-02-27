@@ -1,8 +1,7 @@
 site_name: "Chatrix.One: Документация"
 theme:
   name: material
-  icon:
-    logo: material/xmpp
+  logo: assets/logo.png
   features:
     - navigation.tabs
     - navigation.sections
