@@ -1,0 +1,76 @@
+site_name: Chatrix.One | Документация
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: bg
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Тъмна тема
+      primary: blue grey #teal
+      accent: teal #purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Светла тема    
+      primary: blue grey #teal
+      accent: teal #lime
+
+extra:
+  social:
+    - icon: fontawesome/solid/earth-americas
+      link: https://chatrix.one
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ChatrixOne
+    - icon: fontawesome/solid/comment-dots
+      link: xmpp:admin@chatrix.one
+    - icon: fontawesome/solid/envelope
+      link: mailto:admin@chatrix.one
+  generator: false
+      #- icon: fontawesome/brands/twitter
+      #link: https://twitter.com/TheJamesWillett
+      #- icon: fontawesome/brands/linkedin
+      #link: https://www.linkedin.com/in/willettjames/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Начало: 'index.md'
+  - Регистрация: 'регистрация.md'
+  - Клиенти: 'клиенти.md'
+  - ЧЗВ: 'често-задавани-въпроси.md'
+  - Статус: 'статус.md'
+  - Поверителност: 'поверителност.md'
+  - За Мен: 'за-мен.md'
+
+copyright: |
+  &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://github.com/ChatrixOne"  target="_blank" rel="noopener">Chatrix.One - Всички права запазени.</a>
