@@ -1,6 +1,8 @@
 site_name: "Chatrix.One: Документация"
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/book
   features:
     - navigation.tabs
     - navigation.sections
