@@ -1,4 +1,4 @@
-site_name: Chatrix.One | Документация
+site_name: "Chatrix.One: Документация"
 theme:
   name: material
   icon:
@@ -18,14 +18,14 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Тъмна тема
       primary: blue grey #teal
-      accent: teal #purple 
-    - scheme: slate 
+      accent: teal #purple
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Светла тема    
+        name: Светла тема
       primary: blue grey #teal
       accent: teal #lime
 
