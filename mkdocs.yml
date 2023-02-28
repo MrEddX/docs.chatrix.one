@@ -17,13 +17,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Тъмна тема
       primary: blue grey
       accent: teal
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Светла тема
       primary: blue grey
       accent: teal
