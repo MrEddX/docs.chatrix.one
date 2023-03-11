@@ -17,16 +17,16 @@
 
 [^1]: *"Съгласен съм с правилата и условията за ползване"* **е [най-голямата лъжа в Интернет](https://www.biggestlieonline.com/)**!
 
-[^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://blog.chatrix.one/posts/faq/#какво-представлява-omemo) във Вашия **XMPP** клиент.
+[^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/често-задавани-въпроси/#omemo) във Вашия **XMPP** клиент.
 
 ## Как да използвам **Chatrix.One**?
 
 За удобство на потребителите са достъпни следните статии:
 
-- [Регистрация](https://blog.chatrix.one/posts/registrations/)
+- [Регистрация](https://docs.chatrix.one/регистрация/)
 
-- [Необходим софтуер (клиенти)](https://blog.chatrix.one/posts/clients/)
+- [Необходим софтуер (клиенти)](https://docs.chatrix.one/клиенти/)
 
-- [Често задавани въпроси](https://blog.chatrix.one/posts/faq/)
+- [Често задавани въпроси](https://docs.chatrix.one/често-задавани-въпроси/)
 
-- [Поверителност](https://blog.chatrix.one/posts/privacy/)
+- [Поверителност](https://docs.chatrix.one/поверителност/)
