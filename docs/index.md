@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Добре дошли
 
 ![Добре дошли](resources/img/welcome-wh.jpeg#only-light){ width="800" }
