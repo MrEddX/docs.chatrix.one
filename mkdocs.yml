@@ -33,7 +33,7 @@ theme:
       primary: blue grey
       accent: teal
 
-repo_name: ChatrixOne/docs.chatrix.one
+repo_name: https://github.com/ChatrixOne/docs.chatrix.one
 
 extra:
   social:
