@@ -43,6 +43,13 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:admin@chatrix.one
   generator: false
+  consent:
+    title: Cookie consent
+    description: >- 
+      Използваме "*бисквитки*", за да разпознаваме повторните ви посещения
+      и предпочитания, както и за измерване на ефективността на нашата документация
+      и дали потребителите намират това, което търсят. С вашето съгласие ни помагате
+      да  направим документацията си по-добра.
 
 markdown_extensions:
   - pymdownx.highlight:
