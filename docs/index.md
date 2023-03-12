@@ -1,7 +1,8 @@
 # Добре дошли
 
 <figure markdown>
-  ![Добре дошли](resources/img/welcome.jpeg){ width="800" }
+  ![Добре дошли](resources/img/chatrix-logo-white.jpeg#only-light){ width="800" }
+  ![Добре дошли](resources/img/chatrix-logo-white.jpeg#only-dark){ width="800" }
   <figcaption>Комуникирайте свободно, без телеметрия и без реклами!</figcaption>
 </figure>
 
