@@ -43,7 +43,9 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:admin@chatrix.one
   generator: false
-  
+  version:
+    provider: mike
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
