@@ -2,7 +2,7 @@ site_name: "Chatrix.One | Документация"
 theme:
   icon:
     logo: material/library-outline
-  favicon: assets/images/favicon.png
+  favicon: resources/favicon/favicon.png
   name: material
   features:
     - navigation.tabs
