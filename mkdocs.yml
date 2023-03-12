@@ -47,6 +47,9 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - admonition
   - pymdownx.arithmatex:
       generic: true
