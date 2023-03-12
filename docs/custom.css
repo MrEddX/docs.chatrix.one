@@ -1,9 +1,9 @@
 img {
-    border-radius: 10%;
+    border-radius: 20%;
 }
 
-figcaption {
-    border-radius: 10%;
+figure {
+    border-radius: 20%;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
