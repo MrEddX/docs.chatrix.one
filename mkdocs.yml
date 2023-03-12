@@ -2,8 +2,8 @@
 site_name: "Chatrix.One | Документация"
 
 # Repository
-repo_url: https://github.com/ChatrixOne/docs.chatrix.one
-repo_name: ChatrixOne/docs.chatrix.one
+# repo_url: https://github.com/ChatrixOne/docs.chatrix.one
+# repo_name: ChatrixOne/docs.chatrix.one
 
 # Configuration
 theme:
