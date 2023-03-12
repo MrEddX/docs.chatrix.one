@@ -14,7 +14,8 @@ theme:
     - content.code.annotate
     - content.code.copy
   language: bg
-  extra_css: [custom.css]
+  extra_css:
+    - css/custom.css
   palette:
     - scheme: default
       toggle:
