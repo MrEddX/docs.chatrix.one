@@ -2,6 +2,7 @@ site_name: "Chatrix.One | Документация"
 theme:
   icon:
     logo: material/library-outline
+    repo: fontawesome/brands/github
   favicon: resources/favicon/favicon.png
   name: material
   features:
@@ -32,11 +33,13 @@ theme:
       primary: blue grey
       accent: teal
 
+repo_name: ChatrixOne/docs.chatrix.one
+
 extra:
   social:
     - icon: fontawesome/solid/earth-americas
       link: https://chatrix.one
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/ChatrixOne
     - icon: fontawesome/solid/comment-dots
       link: xmpp:admin@chatrix.one
