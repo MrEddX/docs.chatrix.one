@@ -1,10 +1,7 @@
-img {
+.round {
     border-radius: 20%;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
-figure {
-    border-radius: 20%;
+.shadow {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
-
