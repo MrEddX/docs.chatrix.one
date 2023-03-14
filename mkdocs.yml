@@ -8,7 +8,7 @@ site_name: "Chatrix.One | Документация"
 # Theme Configuration
 theme:
   icon:
-    logo: material/library-outline
+    logo: material/book-open-page-variant
   favicon: resources/favicon/favicon.png
   name: material
   features:
