@@ -56,22 +56,23 @@ extra_css:
 
 # Theme Extensions
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
+  - admonition
+  - footnotes
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
+  - pymdownx.keys
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
   - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
