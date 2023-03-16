@@ -58,15 +58,18 @@ extra_css:
 markdown_extensions:
   - admonition
   - footnotes
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - def_list
-  - pymdownx.keys
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
   - attr_list
   - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.tasklist:
