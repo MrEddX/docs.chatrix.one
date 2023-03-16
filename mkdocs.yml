@@ -70,6 +70,8 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.tasklist:
@@ -89,6 +91,7 @@ nav:
   - Регистрация: 'регистрация.md'
   - Клиенти: 'клиенти.md'
   - ЧЗВ: 'често-задавани-въпроси.md'
+  - Правила: 'правила.md'
   - Поверителност: 'поверителност.md'
   - Статус: 'статус.md'
   - За Мен: 'за-мен.md'
