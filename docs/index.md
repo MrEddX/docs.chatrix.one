@@ -22,7 +22,7 @@
 
 [^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/често-задавани-въпроси/#omemo) във Вашия **XMPP** клиент.
 
-[^3]: [Сорс кодът](https://bg.wikipedia.org/wiki/Изходен_код) е публично достъпен в [**Github**](https://github.com/processone/ejabberd).
+[^3]: [**Сорс кодът**](https://bg.wikipedia.org/wiki/Изходен_код) е публично достъпен в [**Github**](https://github.com/processone/ejabberd).
 
 ## Как да използвам **Chatrix.One**?
 
