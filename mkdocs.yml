@@ -87,8 +87,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # Plugins
-# plugins:
-#   - glightbox
+plugins:
+  - glightbox
 
 # Page tree
 nav:
