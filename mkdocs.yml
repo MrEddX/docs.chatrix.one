@@ -137,7 +137,7 @@ plugins:
           Поверителност: Privacy
           Статус: Status
           За Мен: About
-#  - glightbox
+# - glightbox
 
 # Page tree
 nav:
