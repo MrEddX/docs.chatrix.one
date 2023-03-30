@@ -1,5 +1,8 @@
 # Project Name
 site_name: "Chatrix.One | Документация"
+site_description: >-
+  Български XMPP сървър за свободна комуникация без телеметрия и реклами!
+  Chatrix.One - Skip the Tracking, Keep the Chatting!
 
 # Repository
 # repo_url: https://github.com/ChatrixOne/docs.chatrix.one
@@ -7,10 +10,14 @@ site_name: "Chatrix.One | Документация"
 
 # Theme Configuration
 theme:
+  name: material
+  language: bg
+  favicon: resources/favicon/favicon.png
+  custom_dir: overrides
+  font:
+    text: false
   icon:
     logo: material/book-open-page-variant
-  favicon: resources/favicon/favicon.png
-  name: material
   features:
     - navigation.tabs
     - navigation.sections
@@ -22,7 +29,12 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
-  language: bg
+    - search.highlight
+    - search.share
+    - search.suggest
+    - announce.dismiss
+  # - content.action.edit
+  # - content.action.view
   palette:
     - scheme: default
       toggle:
@@ -48,6 +60,20 @@ extra:
       link: xmpp:admin@chatrix.one
     - icon: fontawesome/solid/envelope
       link: mailto:admin@chatrix.one
+  # consent:
+  #   title: Съгласие за използване на бисквитки
+  #   description: >- 
+  #     Използваме "бисквитки", за да разпознаваме повторните ви посещения и предпочитания, както и
+  #     за измерване на ефективността на нашата документация и дали потребителите намират това,
+  #     което търсят. С вашето съгласие ни помагате да направим документацията си по-добра.
+  #   cookies:
+  #     analytics:
+  #       name: Google Analytics
+  #       checked: false
+  #   actions:
+  #    - accept
+  #     - manage
+  #     - reject
   generator: false
 
 # Extra CSS code
@@ -69,15 +95,15 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.highlight:
-      anchor_linenums: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
@@ -88,7 +114,30 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  - glightbox
+  - search
+  - i18n:
+      default_language: bg
+      material_alternate: true
+      search_reconfigure: false
+      languages:
+        bg:
+          name: Български
+          build: true
+        en:
+          name: English
+          site_name: Chatrix.One | Documentation
+          build: true
+      nav_translations:
+        en:
+          Начало: Home
+          Регистрация: Registration
+          Клиенти: Clients
+          ЧЗВ: FAQ
+          Правила: Rules
+          Поверителност: Privacy
+          Статус: Status
+          За Мен: About
+#  - glightbox
 
 # Page tree
 nav:
@@ -103,4 +152,4 @@ nav:
 
 # Footer Copyright
 copyright: |
-  &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://github.com/ChatrixOne"  target="_blank" rel="noopener">Chatrix.One - Всички права запазени.</a>
+  &copy; 2018 - <script>document.write(new Date().getFullYear())</script> <a href="https://github.com/ChatrixOne"  target="_blank" rel="noopener">Chatrix.One - Всички права запазени.</a>
