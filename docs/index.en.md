@@ -3,7 +3,7 @@
 ![Welcome](resources/img/welcome-wh.jpeg#only-light){ width="800" }
 ![Welcome](resources/img/welcome-bk.jpeg#only-dark){ width="800" }
 
-Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and ads. Send messages, emojis, pictures and files freely. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
+Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures and files. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
 
 ## Why **Chatrix.One?**
 
@@ -15,12 +15,12 @@ Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to
 - [x] **DOES NOT** serve to you advertisements, banners and offers;
 - [x] **DOES NOT** require consent and acceptance of insane policies[^1];
 - [x] **RESPECTS** your privacy;
-- [x] Allows for **end-to-end encryption**[^2];
-- [x] Uses **Ejabberd**, an [**open source**](https://bg.wikipedia.org/wiki/Софтуер_с_отворен_код) platform[^3].
+- [x] Provides **end-to-end encryption**[^2];
+- [x] Uses **Ejabberd**, an [**open source**](https://en.wikipedia.org/wiki/Open_source) platform[^3].
 
 [^1]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
 
-[^2]: For end-to-end encryption, you need to enable [**OMEMO**](https://docs.chatrix.one/често-задавани-въпроси/#omemo) in your **XMPP** client.
+[^2]: For end-to-end encryption, you need to enable [**OMEMO**](https://docs.chatrix.one/en/често-задавани-въпроси/#what-is-omemo) in your **XMPP** client.
 
 [^3]: [**The Source Code**](https://en.wikipedia.org/wiki/Source_code) is publicly available on [**Github**](https://github.com/processone/ejabberd).
 
@@ -28,12 +28,12 @@ Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to
 
 The following articles are available for user convenience:
 
-- [Register](https://docs.chatrix.one/регистрация/)
+- [Register an account](https://docs.chatrix.one/en/регистрация/)
 
-- [Required Software (Clients)](https://docs.chatrix.one/клиенти/)
+- [Required Software (Clients)](https://docs.chatrix.one/en/клиенти/)
 
-- [FAQ](https://docs.chatrix.one/често-задавани-въпроси/)
+- [Frequently Asked Questions](https://docs.chatrix.one/en/често-задавани-въпроси/)
 
-- [Terms of Use](https://docs.chatrix.one/правила/)
+- [Terms of Use](https://docs.chatrix.one/en/правила/)
 
-- [Privacy](https://docs.chatrix.one/поверителност/)
+- [Privacy](https://docs.chatrix.one/en/поверителност/)
