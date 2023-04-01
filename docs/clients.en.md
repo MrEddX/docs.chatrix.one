@@ -5,7 +5,7 @@
    <figcaption>The communication software for <b>Chatrix.One</b> is called client</figcaption>
 </figure>
 
-If you already have an account on **Chatrix.One**, the next step is to install the necessary communication software. In case you do not yet have a registration and wish to obtain one, see the [**Registration**](https://docs.chatrix.one/en/registration/) section.
+If you already have an account on **Chatrix.One**, the next step is to install the necessary communication software. In case you do not yet have a registration and wish to obtain one, see the [Registration](https://docs.chatrix.one/en/registration/) section.
 
 ## What is a Client?
 
@@ -17,21 +17,21 @@ Client is the application (software) through which we use the service. It is imp
 
 | Client |Free | Open Source | Link |
 |:---------|:------------------:|:---------------- --:|:-------------------------------------------:|
-|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download) |
+|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
 
 ### :fontawesome-brands-linux: Linux
 
 | Client | Free | Open Source | Link |
 |:---------|:------------------:|:---------------- --:|:---------------------------------------------------------: |
-|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download) |
-|**Dino** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Dino.im**](https://dino.im/#download) |
+|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
+|**Dino** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Dino.im](https://dino.im/#download) |
 
 ### :fontawesome-brands-apple: macOS
 
 | Client | Free | Open Source | Link |
 |:---------|:------------------:|:---------------- --:|:------------------------------------------------ ----------------------------------:|
-|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS) |
-|**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Mac App Store**](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494)|
+|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS) |
+|**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Mac App Store](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494)|
 
 !!! warning "Caution"
 
@@ -41,8 +41,8 @@ Client is the application (software) through which we use the service. It is imp
 
 | Client | Free | Open Source | Link |
 |:-----------------|:------------------:|:-------- ----------:|:-------------------------------------- ------------------------------:|
-|**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**F-droid**](https://f-droid.org/packages/eu.siacs.conversations/) |
-|**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
+|**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [F-droid](https://f-droid.org/packages/eu.siacs.conversations/) |
+|**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
 
 !!! tip "Tip"
 
@@ -53,13 +53,13 @@ Client is the application (software) through which we use the service. It is imp
 
 | Client | Free | Open Source | Link |
 |:---------|:------------------:|:---------------- --:|:------------------------------------------------ -----------------------------:|
-|**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**App Store**](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) |
+|**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [App Store](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) |
 
 ### :fontawesome-brands-firefox: Web based
 
 | Client | Free | Open Source | Link |
 |:--------------|:------------------:|:---------- --------:|:---------------------------------------- ---------------------:|
-|**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Conversejs.org**](https://conversejs.org/fullscreen.html) |
+|**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Conversejs.org](https://conversejs.org/fullscreen.html) |
 
 !!! info "Information"
 
@@ -69,16 +69,16 @@ Client is the application (software) through which we use the service. It is imp
 
 | Client | Free | Open Source | Link |
 |:-------------|:------------------:|:------------ ------:|:-------------------------------------------------- ----------:|
-|**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Profanity-IM**](https://profanity-im.github.io/) |
+|**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Profanity-IM](https://profanity-im.github.io/) |
 
 !!! info "Information"
 
      The **Profanity** terminal client is available for: **Linux, FreeBSD, OpenBSD, OSX, Windows, and Android**[^1].
 
-[^1]: On **Android** this is done via the [**Termux**](https://play.google.com/store/apps/details?id=com.termux) app.
+[^1]: On **Android** this is done via the [Termux](https://play.google.com/store/apps/details?id=com.termux) app.
 
-A list of clients, for various operating systems, is available on the official page of [**XMPP**](https://xmpp.org/software/). Note that not all clients are fully compliant with the latest protocol standards. Up-to-date information on client compatibility with the **OMEMO** encryption method is available on the page [**Are we OMEMO yet?**](https://omemo.top/)
+A list of clients, for various operating systems, is available on the official page of [XMPP](https://xmpp.org/software/). Note that not all clients are fully compliant with the latest protocol standards. Up-to-date information on client compatibility with the **OMEMO** encryption method is available on the page [Are we OMEMO yet?](https://omemo.top/)
 
 * * *
 
-The article [**Frequently Asked Questions**](https://docs.chatrix.one/en/faq/) is an additional resource for users wishing to learn more about the **XMPP** service offered by **Chatrix .One**.
+The article [Frequently Asked Questions](https://docs.chatrix.one/en/faq/) is an additional resource for users wishing to learn more about the **XMPP** service offered by **Chatrix .One**.

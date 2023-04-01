@@ -16,7 +16,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Illegal access to the service;
 - Messages containing offensive and obscene phrases, racist or other similar definitions, leading to harassment of other users of the service;
 - The publication of advertising articles and materials without the approval of an administrator;
-- Sending [**Spam**](https://en.wikipedia.org/wiki/Spam) messages;
+- Sending [Spam](https://en.wikipedia.org/wiki/Spam) messages;
 - Registration of more than one profile for one individual, without permission from an administrator;
 - Publication of pornographic content - especially that involving minors[^1];
 - Publication of Internet links to articles and photo material containing scenes of child pornography and violence[^1];
@@ -24,7 +24,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 
 ## Reporting a violation
 
-In case you wish to report a violation, please send an email or **XMPP** message to an administrator. The report must be accompanied by proof in the form of a screenshot - [**Screenshot**](https://en.wikipedia.org/wiki/Screenshot), which unequivocally shows the violation you described.
+In case you wish to report a violation, please send an email or **XMPP** message to an administrator. The report must be accompanied by proof in the form of a screenshot - [Screenshot](https://en.wikipedia.org/wiki/Screenshot), which unequivocally shows the violation you described.
 
 !!! warning "Caution"
 
@@ -32,4 +32,4 @@ In case you wish to report a violation, please send an email or **XMPP** message
 
 [^1]: Upon reporting a violation accompanied by proof, the account distributing the content will be closed **without** warning!
 
-I recommend that you familiarize yourself with the [**Privacy policy**](https://docs.chatrix.one/en/privacy/) of **Chatrix.One**.
+I recommend that you familiarize yourself with the [Privacy policy](https://docs.chatrix.one/en/privacy/) of **Chatrix.One**.
