@@ -220,7 +220,7 @@ The ones listed above have been tested with the exception of **Monal** and **Cha
 
 * * *
 
-## how do I know if I'm using  **OMEMO**?
+## How do I know if I'm using  **OMEMO**?
 
 If messages in **Conversations** are accompanied by a *"checked shield"* indicator :material-shield-check: this is a sure sign that you are using **OMEMO**. In **Gajim**, check for a green colored *"shield"* symbol :material-shield: next to the date and time of the messages. It will be fully colored when you have trusted the device. In case you have not added the device to the list of trusted devices, the "shield" symbol will be half colored green. The situation is similar for all other applications.
 
@@ -640,7 +640,7 @@ You can use **Chatrix.One** from anywhere in the world. There are currently no [
 
 ## Where can I track incidents?
 
-Information about incidents, service interruptions and upcoming preventive maintenance will be published in the [**Status**](https://docs.chatrix.one/en/status/#_4) section.
+Information about incidents, service interruptions and upcoming preventive maintenance will be published in the [**Status**](https://docs.chatrix.one/en/status/#information-about-occurred-incidents) section.
 
 * * *
 
@@ -652,4 +652,4 @@ Check in the [**Status**](https://docs.chatrix.one/en/status/#technical-data) se
 
 ## How can I contact you?
 
-Contacts are available at the bottom of the page, as well as in the [**About Me**](https://docs.chatrix.one/en/about/#contacts) tab. If you are using a mobile device please check the :material-menu: menu.
+Contacts are available at the bottom of the page, as well as in the [**About**](https://docs.chatrix.one/en/about/#contacts) tab. If you are using a mobile device please check the :material-menu: menu.
