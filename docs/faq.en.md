@@ -310,7 +310,7 @@ You have virtually no limits. Just keep in mind that adding each new device lead
 
 * * *
 
-## What does "Blind Trust" or "**Blind Trust**" mean?
+## What does **Blind Trust** mean?
 
 In short, it's a way to trust a device owned by the person you're communicating with, without being 100% sure that it's really them on the other end. The most secure way to trust is by scanning the **QR** code from the screen of a device owned by your correspondent. It is enough to scan only one of the devices. You'll notice that the more devices you own, the more complex the **QR** code becomes. This is because it contains the IDs of all the devices on your account. Detailed information can be found in the publication [**Blind Trust Before Verification**](https://gultsch.de/trust.html) by **Daniel Gultsch**.
 
