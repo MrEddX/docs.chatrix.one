@@ -304,7 +304,7 @@ You can write in any language you want, as long as you follow the [**Terms**](ht
 
 * * *
 
-## How many devices can I use the service on?
+## On how many devices can I use the service?
 
 You have virtually no limits. Just keep in mind that adding each new device leads to a loss of trust in your correspondents. In other words, they will have to trust you again, either by "blind trust" or by scanning a [**QR**](https://en.wikipedia.org/wiki/QR_code) code from the screen of one of your active devices.
 
