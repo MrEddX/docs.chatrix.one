@@ -111,6 +111,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
 
 # Plugins
 plugins:
@@ -138,6 +140,7 @@ plugins:
           Статус: Status
           За Мен: About
 # - glightbox
+  - git-revision-date-localized
 
 # Page tree
 nav:

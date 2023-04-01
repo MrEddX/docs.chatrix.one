@@ -80,5 +80,6 @@
         ```
         Благодаря.
         ```
+[Форма за регистрация](http://docs.chatrix.one/registration-form){ .md-button }
 
 Следващата стъпка е да инсталирате [необходимия софтуер (клиент)](https://docs.chatrix.one/clients/) за комуникация.

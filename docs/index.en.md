@@ -3,7 +3,7 @@
 ![Welcome](resources/img/welcome-wh.jpeg#only-light){ width="800" }
 ![Welcome](resources/img/welcome-bk.jpeg#only-dark){ width="800" }
 
-Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures and files. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
+Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
 
 ## Why **Chatrix.One?**
 
