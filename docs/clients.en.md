@@ -11,6 +11,8 @@ If you already have an account on **Chatrix.One**, the next step is to install t
 
 Client is the application (software) through which we use the service. It is important to know what operating system we are working with, as it depends on what software we will choose. Below you will find a list of tested and **100% OMEMO** compatible variants, according to the operating system used.
 
+## Installation
+
 ### :fontawesome-brands-windows: Windows
 
 | Client |Free | Open Source | Link |
