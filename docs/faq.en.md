@@ -28,7 +28,7 @@ In case of technical problems, as well as if you need help in connection with th
 
      **XMPP** - **Ex**tensible **M**essaging and **P**resence **P**rotocol
 
-The easiest way to explain the principle and advantages of the **XMPP**, is to compare it to email. If you want to create your own e-mail address, it is enough to choose a provider (server) and register a profile (account). For example, in *yahoo.com*, *gmail.com*, *hotmail.com* or another. The name of your chosen profile together with the address of the provider connected by the symbol :fontawesome-solid-at: forms your email address. For example *james@yahoo.com*. From now on, you can now exchange emails with users registered on different servers without a problem. A user of *yahoo.com* can write an email to a user of *gmail.com* or any other provider. This is possible because providers exchange messages with each other without the user being involved in any way. The advantages are obvious. Users are free to choose their provider and yet anyone can communicate with anyone. Sending messages requires nothing more than an email account with any provider and a recipient address. **XMPP** also works on a similar principle. You choose a server and get the freedom to communicate with users from other servers. In addition to being able to create multiple accounts with one provider, it is also possible to create multiple accounts with different providers. Whether it makes sense is another matter. It is possible for the **XMPP** service to be limited only within an organization's internal network. Direct access via the Internet to such a server is not possible. Communication takes place only between employees and if they are connected to the internal network, either directly or via [**VPN**](https://en.wikipedia.org/wiki/Virtual_private_network).
+The easiest way to explain the principle and advantages of the **XMPP**, is to compare it to email. If you want to create your own email address, it is enough to choose a provider (server) and register a profile (account). For example, in *yahoo.com*, *gmail.com*, *hotmail.com* or another. The name of your chosen profile together with the address of the provider connected by the symbol :fontawesome-solid-at: forms your email address. For example *james@yahoo.com*. From now on, you can now exchange emails with users registered on different servers without a problem. A user of *yahoo.com* can write an email to a user of *gmail.com* or any other provider. This is possible because providers exchange messages with each other without the user being involved in any way. The advantages are obvious. Users are free to choose their provider and yet anyone can communicate with anyone. Sending messages requires nothing more than an email account with any provider and a recipient address. **XMPP** also works on a similar principle. You choose a server and get the freedom to communicate with users from other servers. In addition to being able to create multiple accounts with one provider, it is also possible to create multiple accounts with different providers. Whether it makes sense is another matter. It is possible for the **XMPP** service to be limited only within an organization's internal network. Direct access via the Internet to such a server is not possible. Communication takes place only between employees and if they are connected to the internal network, either directly or via [**VPN**](https://en.wikipedia.org/wiki/Virtual_private_network).
 
 The diagram below shows the working principle of **XMPP** communication.
 
@@ -242,7 +242,7 @@ Support for the **OTR** encryption method has been discontinued due to its vulne
 
 * * *
 
-## Is voice communication encrypted?
+## Is the voice communication encrypted?
 
 In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the audio communication will also be encrypted. In the **Conversations** app, this will be marked with a green *"checked shield"* :material-shield-check: symbol in the upper left corner of the screen.
 
@@ -364,7 +364,7 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 * * *
 
-## Why am I not receiving notifications (notifications) on the mobile device?
+## Why am I not receiving notifications on my mobile device?
 
 === ":fontawesome-brands-android: Android"
 
@@ -418,7 +418,7 @@ If you do not want the messages to be stored for the specified period, you have 
 
 - **Conversations**
 
-``Manage Accounts'' → ``Choose an Account'' → ``The Three Dots'' → `Backup Options' → `Never'
+`Manage Accounts` → `Choose an Account` → `The Three Dots` → `Backup Options` → `Never`
 
 - **Gajim**
 
@@ -462,7 +462,7 @@ Administrator access alone is not sufficient to decrypt communication and files 
 
 * * *
 
-## Will the service be available in "**X**" years?
+## Will the service be available after "**X**" years?
 
 This service is not currently scheduled to be discontinued. Until I run into financial difficulties or other serious reasons arise, I will offer the **XMPP** service. Termination will of course be announced in due course.
 
@@ -508,7 +508,8 @@ My observations on **XMPP** based service since 2018. to date show that the serv
 
 * * *
 
-## Are you up to date with the latest in **XMPP**?
+## Are you up to date with the latest developments 
+in **XMPP**?
 
 As soon as it is technically possible and reasonable, new **XMPP** extensions and best practices will be implemented on this server. For me, full compatibility with the flagship **Conversations** project, which has undoubtedly helped **XMPP** reach new heights in recent years, is important. **Chatrix.One** test result can be seen online [**XMPP Compliance Report**](https://compliance.conversations.im/server/chatrix.one/).
 
@@ -589,6 +590,7 @@ At the moment, the following services are functioning on this domain:
 - [x] **XMPP**
 - [ ] Email
 - [ ] **Matrix** server
+- [ ] Nextcloud
 
 !!! info "Information"
 
@@ -598,15 +600,21 @@ At the moment, the following services are functioning on this domain:
 
      Please do not send emails or messages inquiring about dates and deadlines for public access to services other than **XMPP**. Inquiries of this nature **will not** be answered.
 
-## Do you still plan on having a free **Matrix** server with public access?
+## Are you planning to have a a free **Matrix** server with public access?
 
-Currently [**Matrix**](https://en.wikipedia.org/wiki/Matrix_(protocol)) is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the cause.
+Currently [**Matrix**](https://en.wikipedia.org/wiki/Matrix_(protocol)) is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
 
 * * *
 
-## Are you still planning on having a free, publicly accessible e-mail?
+## Are you planning to have a free, publicly accessible email service?
 
-Email is currently functional but not publicly accessible. The maintenance of this type of service is associated with a significantly greater responsibility to the end user. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. It is complex to integrate, but maintenance is even more complex and time-consuming, and therefore costs much more personal time. It requires a large hardware and financial resource. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the cause.
+Email is currently functional but not publicly accessible. The maintenance of this type of service is associated with a significantly greater responsibility to the end user. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. It is complex to integrate, but maintenance is even more complex and time-consuming, and therefore costs much more personal time. It requires a large hardware and financial resource. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
+
+* * *
+
+## Are you planning to have a free publicly accessible file storage cloud?
+
+Currently, cloud file storage is operational, but not publicly accessible. The maintenance of this type of service is related to the provision of an array to store a significant amount of data. Responsibility to the end user is a serious part of this business. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. Maintenance is labor-intensive, and therefore costs much more personal time. It requires a serious investment in hardware. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
 
 * * *
 
