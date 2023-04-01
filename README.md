@@ -1,4 +1,4 @@
-# docs.chatrixone.github.io
+# Chatrix.One | Documentation
 
 Documentation Site For Chatrix.One
 
