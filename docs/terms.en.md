@@ -32,4 +32,4 @@ In case you wish to report a violation, please send an email or **XMPP** message
 
 [^1]: Upon reporting a violation accompanied by proof, the account distributing the content will be closed **without** warning!
 
-I recommend that you familiarize yourself with the [**Privacy policy**](https://docs.chatrix.one/en/поверителност/) of **Chatrix.One**.
+I recommend that you familiarize yourself with the [**Privacy policy**](https://docs.chatrix.one/en/privacy/) of **Chatrix.One**.

@@ -31,8 +31,8 @@ To test the strength of your password, you can use online tools such as [**How S
 
 - :material-pencil: - On your own by completing the online registration form;
 - :material-apps: - Through your installed application - client;
-- :material-email-check: - By sending an email to the address located at the the bottom of this website. Contacts are also available in the [**About Me**](https://docs.chatrix.one/en/за-мен/#contacts) tab. If you are using a mobile device, please check the menu :material-menu:;
-- :material-message-check: - By sending an **XMPP** message to an administrator. An active **XMPP** profile is required, the server you send from is irrelevant. For an up-to-date admin address, please see the [**About Me**](https://docs.chatrix.one/en/за-мен/#contacts) section;
+- :material-email-check: - By sending an email to the address located at the the bottom of this website. Contacts are also available in the [**About Me**](https://docs.chatrix.one/en/about/#contacts) tab. If you are using a mobile device, please check the menu :material-menu:;
+- :material-message-check: - By sending an **XMPP** message to an administrator. An active **XMPP** profile is required, the server you send from is irrelevant. For an up-to-date admin address, please see the [**About Me**](https://docs.chatrix.one/en/about/#contacts) section;
 - :material-phone-check: - Phone call if you have a phone number to contact an administrator. It will not be published on the website;
 - :material-eye-check-outline: - Meets eye to eye.
 
@@ -81,4 +81,4 @@ To get registration in **Chatrix.One** it is not necessary to use any of the men
          Thanks.
          ```
 
-The next step is to install the [necessary software (client)](https://docs.chatrix.one/en/клиенти/) for communication.
+The next step is to install the [**necessary software (client)**](https://docs.chatrix.one/en/clients/) for communication.

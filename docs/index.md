@@ -20,7 +20,7 @@
 
 [^1]: *"Съгласен съм с правилата и условията за ползване"* **е [най-голямата лъжа в Интернет](https://www.biggestlieonline.com/)**!
 
-[^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/често-задавани-въпроси/#omemo) във Вашия **XMPP** клиент.
+[^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/faq/#omemo) във Вашия **XMPP** клиент.
 
 [^3]: [**Сорс кодът**](https://bg.wikipedia.org/wiki/Изходен_код) е публично достъпен в [**Github**](https://github.com/processone/ejabberd).
 
@@ -28,12 +28,12 @@
 
 За удобство на потребителите са достъпни следните статии:
 
-- [Регистрация](https://docs.chatrix.one/регистрация/)
+- [Регистрация](https://docs.chatrix.one/registration/)
 
-- [Необходим софтуер (клиенти)](https://docs.chatrix.one/клиенти/)
+- [Необходим софтуер (клиенти)](https://docs.chatrix.one/clients/)
 
-- [Често задавани въпроси](https://docs.chatrix.one/често-задавани-въпроси/)
+- [Често задавани въпроси](https://docs.chatrix.one/faq/)
 
-- [Правила за ползване](https://docs.chatrix.one/правила/)
+- [Правила за ползване](https://docs.chatrix.one/terms/)
 
-- [Поверителност](https://docs.chatrix.one/поверителност/)
+- [Поверителност](https://docs.chatrix.one/privacy/)

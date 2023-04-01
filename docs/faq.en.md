@@ -119,19 +119,19 @@ For more details, see [**RST Software**](https://www.rst.software/blog/22-compan
 
 ## How can I register an account?
 
-Full information about registering a **Chatrix.One** account is available in the [**Registration**](https://docs.chatrix.one/en/регистрация/) section.
+Full information about registering a **Chatrix.One** account is available in the [**Registration**](https://docs.chatrix.one/en/registration/) section.
 
 * * *
 
 ## Is there a registration email template posted?
 
-A sample registration email template is available in the [**Registration**](https://docs.chatrix.one/en/регистрация/#example-templates-when-registering-an-account) tab.
+A sample registration email template is available in the [**Registration**](https://docs.chatrix.one/en/registration/#example-templates-when-registering-an-account) tab.
 
 * * *
 
 ## Is there a **XMPP** registration message template published?
 
-A sample **XMPP** registration message template is available in the [**Registration**](https://docs.chatrix.one/en/регистрация/#example-templates-when-registering-an-account) tab.
+A sample **XMPP** registration message template is available in the [**Registration**](https://docs.chatrix.one/en/registration/#example-templates-when-registering-an-account) tab.
 
 * * *
 
@@ -149,7 +149,7 @@ Personally, I have chosen the paid version of **Conversations** because in this 
 
 ## Where can I download a client for my operating system?
 
-Detailed information about the clients available for working with **Chatrix.One** depending on the operating system you use, can be found in the section [**Clients**](https://docs.chatrix.one/en/клиенти/). For your convenience, the download links are also posted in the lines below.
+Detailed information about the clients available for working with **Chatrix.One** depending on the operating system you use, can be found in the section [**Clients**](https://docs.chatrix.one/en/clients/). For your convenience, the download links are also posted in the lines below.
 
 === ":fontawesome-brands-windows: Windows"
 
@@ -282,7 +282,7 @@ For other customers, the procedure is similar.
 
 ## Is two-factor authentication supported?
 
-[**Second Factor Authentication**](https://en.wikipedia.org/wiki/Multi-factor_authentication), also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [**Registration**](https://docs.chatrix.one/en/регистрация/) section.
+[**Second Factor Authentication**](https://en.wikipedia.org/wiki/Multi-factor_authentication), also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [**Registration**](https://docs.chatrix.one/en/registration/) section.
 
 * * *
 
@@ -294,13 +294,13 @@ Yes. The steps are similar to changing your password. In the account setup secti
 
 ## Are there any rules I need to follow?
 
-Of course. There are rules and they are mandatory for everyone. Please familiarize yourself with them in the [**Terms**](https://docs.chatrix.one/en/правила/) section.
+Of course. There are rules and they are mandatory for everyone. Please familiarize yourself with them in the [**Terms**](https://docs.chatrix.one/en/terms/) section.
 
 * * *
 
 ## Do I have to write only in Cyrillic?
 
-You can write in any language you want, as long as you follow the [**Terms**](https://docs.chatrix.one/en/правила/) for using the service.
+You can write in any language you want, as long as you follow the [**Terms**](https://docs.chatrix.one/en/terms/) for using the service.
 
 * * *
 
@@ -392,7 +392,7 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 ## Why do I get an error message when trying to register?
 
-At the moment, registering an account, through the registration form or through the applications, is prohibited! More information can be found in the [**Registration**](https://docs.chatrix.one/en/регистрация/#ways-to-register-an-account) article.
+At the moment, registering an account, through the registration form or through the applications, is prohibited! More information can be found in the [**Registration**](https://docs.chatrix.one/en/registration/#ways-to-register-an-account) article.
 
 * * *
 
@@ -430,7 +430,7 @@ For other customers, the procedure is similar.
 
 ## What data do you store on the server?
 
-Detailed information can be found in the [**Privacy**](https://docs.chatrix.one/en/поверителност/#overview-of-the-stored-data) article.
+Detailed information can be found in the [**Privacy**](https://docs.chatrix.one/en/privacy/#overview-of-the-stored-data) article.
 
 * * *
 
@@ -458,7 +458,7 @@ Administrator access alone is not sufficient to decrypt communication and files 
 
 !!! info "Information"
 
-     One of the things that I am extremely responsible for is that personal communication remains truly personal. For more information, see the [**Privacy**](https://docs.chatrix.one/en/поверителност/) section.
+     One of the things that I am extremely responsible for is that personal communication remains truly personal. For more information, see the [**Privacy**](https://docs.chatrix.one/en/privacy/) section.
 
 * * *
 
@@ -612,13 +612,13 @@ Email is currently functional but not publicly accessible. The maintenance of th
 
 ## Are there terms and conditions for using the service?
 
-The rules for using the service are published in the [**Terms**](https://docs.chatrix.one/en/правила/) section.
+The rules for using the service are published in the [**Terms**](https://docs.chatrix.one/en/terms/) section.
 
 * * *
 
 ## Can I report a violation of the terms of service?
 
-See the [**Terms**](https://docs.chatrix.one/en/правила/) section and specifically the [**Reporting a violation**](https://docs.chatrix.one/en/правила/#reporting-a-violation) section.
+See the [**Terms**](https://docs.chatrix.one/en/terms/) section and specifically the [**Reporting a violation**](https://docs.chatrix.one/en/terms/#reporting-a-violation) section.
 
 * * *
 
@@ -640,16 +640,16 @@ You can use **Chatrix.One** from anywhere in the world. There are currently no [
 
 ## Where can I track incidents?
 
-Information about incidents, service interruptions and upcoming preventive maintenance will be published in the [**Status**](https://docs.chatrix.one/en/статус/#_4) section.
+Information about incidents, service interruptions and upcoming preventive maintenance will be published in the [**Status**](https://docs.chatrix.one/en/status/#_4) section.
 
 * * *
 
 ## Is technical information available for the service?
 
-Check in the [**Status**](https://docs.chatrix.one/en/статус/#technical-data) section.
+Check in the [**Status**](https://docs.chatrix.one/en/status/#technical-data) section.
 
 * * *
 
 ## How can I contact you?
 
-Contacts are available at the bottom of the page, as well as in the [**About Me**](https://docs.chatrix.one/en/за-мен/#contacts) tab. If you are using a mobile device please check the :material-menu: menu.
+Contacts are available at the bottom of the page, as well as in the [**About Me**](https://docs.chatrix.one/en/about/#contacts) tab. If you are using a mobile device please check the :material-menu: menu.

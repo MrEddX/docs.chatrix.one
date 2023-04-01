@@ -5,7 +5,7 @@
    <figcaption>The communication software for <b>Chatrix.One</b> is called client</figcaption>
 </figure>
 
-If you already have an account on **Chatrix.One**, the next step is to install the necessary communication software. In case you do not yet have a registration and wish to obtain one, see the [**Registration**](https://docs.chatrix.one/en/регистрация/) section.
+If you already have an account on **Chatrix.One**, the next step is to install the necessary communication software. In case you do not yet have a registration and wish to obtain one, see the [**Registration**](https://docs.chatrix.one/en/registration/) section.
 
 ## What is a Client?
 
@@ -79,4 +79,4 @@ A list of clients, for various operating systems, is available on the official p
 
 * * *
 
-The article [**Frequently Asked Questions**](https://docs.chatrix.one/en/често-задавани-въпроси/) is an additional resource for users wishing to learn more about the **XMPP** service offered by **Chatrix .One**.
+The article [**Frequently Asked Questions**](https://docs.chatrix.one/en/faq/) is an additional resource for users wishing to learn more about the **XMPP** service offered by **Chatrix .One**.

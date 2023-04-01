@@ -20,7 +20,7 @@ Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to
 
 [^1]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
 
-[^2]: For end-to-end encryption, you need to enable [**OMEMO**](https://docs.chatrix.one/en/често-задавани-въпроси/#what-is-omemo) in your **XMPP** client.
+[^2]: For end-to-end encryption, you need to enable [**OMEMO**](https://docs.chatrix.one/en/faq/#what-is-omemo) in your **XMPP** client.
 
 [^3]: [**The Source Code**](https://en.wikipedia.org/wiki/Source_code) is publicly available on [**Github**](https://github.com/processone/ejabberd).
 
@@ -28,12 +28,12 @@ Hello and welcome to **Chatrix.One**! Bulgarian **XMPP** server for free, end-to
 
 The following articles are available for user convenience:
 
-- [Register an account](https://docs.chatrix.one/en/регистрация/)
+- [Register an account](https://docs.chatrix.one/en/registration/)
 
-- [Required Software (Clients)](https://docs.chatrix.one/en/клиенти/)
+- [Required Software (Clients)](https://docs.chatrix.one/en/clients/)
 
-- [Frequently Asked Questions](https://docs.chatrix.one/en/често-задавани-въпроси/)
+- [Frequently Asked Questions](https://docs.chatrix.one/en/faq/)
 
-- [Terms of Use](https://docs.chatrix.one/en/правила/)
+- [Terms of Use](https://docs.chatrix.one/en/terms/)
 
-- [Privacy](https://docs.chatrix.one/en/поверителност/)
+- [Privacy](https://docs.chatrix.one/en/privacy/)
