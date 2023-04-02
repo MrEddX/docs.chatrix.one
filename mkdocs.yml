@@ -5,9 +5,9 @@ site_description: >-
   Chatrix.One - Skip the Tracking, Keep the Chatting!
 
 # Repository
-repo_url: https://github.com/ChatrixOne/docs.chatrix.one
-repo_name: ChatrixOne/docs.chatrix.one
-edit_uri: 'docs/'
+# repo_url: https://github.com/ChatrixOne/docs.chatrix.one
+# repo_name: ChatrixOne/docs.chatrix.one
+# edit_uri: 'docs/'
 
 # Theme Configuration
 theme:
