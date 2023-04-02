@@ -16,9 +16,9 @@ In case of technical problems, as well as if you need help in connection with th
      * ++enter++ - select result
      * ++esc++ - disables search mode
 
-## What is the service?
+## Would you describe the service?
 
-**Chatrix.One** is a Bulgarian server offering communication based on the **XMPP**. You can send messages, emoticons, photos, voice and video messages, location and files. Voice and video connection are also available.
+**Chatrix.One** is a Bulgarian server offering free communication based on the **XMPP**. You can send messages, emoticons, photos, voice and video messages, location and files. Voice and video connection are also available.
 
 * * *
 
