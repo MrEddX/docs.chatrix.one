@@ -24,6 +24,6 @@
 
 !!! quote ""
 
-    *Repeat Password:*
+    *Re-type Password:*
 
 [Register](https://docs.chatrix.one/en/registration/#ways-to-register-an-account){ .md-button }
