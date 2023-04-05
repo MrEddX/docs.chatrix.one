@@ -15,8 +15,7 @@ theme:
   language: bg
   favicon: resources/favicon/favicon.png
   custom_dir: overrides
-  font:
-    text: false
+  font: false
   icon:
     logo: material/book-open-page-variant
   features:
@@ -25,8 +24,6 @@ theme:
     - navigation.footer
     - toc.integrate
     - navigation.top
-    - search.suggest
-    - search.highlight
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
@@ -63,7 +60,7 @@ extra:
       link: mailto:admin@chatrix.one
   # consent:
   #   title: Съгласие за използване на бисквитки
-  #   description: >- 
+  #   description: >-
   #     Използваме "бисквитки", за да разпознаваме повторните ви посещения и предпочитания, както и
   #     за измерване на ефективността на нашата документация и дали потребителите намират това,
   #     което търсят. С вашето съгласие ни помагате да направим документацията си по-добра.

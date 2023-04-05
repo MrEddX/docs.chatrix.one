@@ -9,7 +9,7 @@
 !!! info "Information"
 
     - The username (**Jabber ID**, **JID**) is not case sensitive. Please use only lower case letters. Usernames `TestUser@chatrix.one`, `testUser@chatrix.one`, `TESTuser@chatrix.one`, etc. will be interpreted as: `testuser@chatrix.one`.
-    - The use of special characters such as: `!` `@` `#` `$` `%` `&` `^` `/` `:` `'` `"` `<` `>` `(` `)` `+` `*` `=` is not allowed.
+    - The use of special characters such as: `!` `@` `#` `$` `%` `&` `^` `/` `:` `'` `"` `<` `>` `(` `)` `*` `=` is not allowed.
     - You can use the characters `.` `_` `-` to separate names. For example: `test.user@chatrix.one` or `test_user@chatrix.one`.
 
 ## Registering a profile
