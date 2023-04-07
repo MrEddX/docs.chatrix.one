@@ -1,0 +1,30 @@
+# Change password
+
+<figure markdown>
+    ![Registration](../resources/img/change.jpeg){: width="800" }
+    <figcaption>Change password in <b>Chatrix.One</b></figcaption>
+</figure>
+
+This page allows you to change the password of an existing account. Please read the instructions carefully to fill in the fields correctly.
+
+## Username
+
+Only the username is entered, without the server part. For example: `john'.
+
+## Server
+
+This field will be filled in automatically. No action on your part is required here.
+
+## Old password
+
+Enter the old password here.
+
+## New password
+
+Enter the new password.
+
+## Password verification
+
+Here you will need to re-enter your chosen password. It must match what you entered in the **New Password** field.
+
+[Change Password](https://chatrix.one:5280/register/change_password/){ .md-button }

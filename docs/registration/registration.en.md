@@ -1,7 +1,7 @@
 # Registration
 
 <figure markdown>
-   ![Registration](resources/img/registration.jpeg){: width="800" }
+   ![Registration](../resources/img/registration.jpeg){: width="800" }
    <figcaption>Account registration on <b>Chatrix.One</b></figcaption>
 </figure>
 
@@ -36,9 +36,9 @@ To test the strength of your password, you can use online tools such as [How Sec
 - :material-phone-check: - Phone call if you have a phone number to contact an administrator. It will not be published on the website;
 - :material-eye-check-outline: - Meets eye to eye.
 
-!!! failure "Important"
+<!-- !!! failure "Important"
 
-     At the moment, account registration, through the registration form and applications, is temporarily **suspended**! This is done in order to protect the service from bots and unscrupulous users creating multiple invalid spam profiles, which negatively affects the overall user experience.
+     At the moment, account registration, through the registration form and applications, is temporarily **suspended**! This is done in order to protect the service from bots and unscrupulous users creating multiple invalid spam profiles, which negatively affects the overall user experience. -->
 
 ## Example templates when registering an account
 

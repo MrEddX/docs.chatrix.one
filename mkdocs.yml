@@ -130,7 +130,11 @@ plugins:
       nav_translations:
         en:
           Начало: Home
-          Регистрация: Registration
+          Профил: Account
+          Регистрация: Account Registration
+          Форма за регистрация: Registration Form
+          Смяна на парола: Change Password
+          Дерегистрация: Unregister Account
           Клиенти: Clients
           ЧЗВ: FAQ
           Правила: Terms
@@ -143,7 +147,11 @@ plugins:
 # Page tree
 nav:
   - Начало: 'index.md'
-  - Регистрация: 'registration.md'
+  - Профил:
+    - Регистрация: 'registration/registration.md'
+    - Форма за регистрация: 'registration/registration-form.md'
+    - Смяна на парола: 'registration/change-password.md'
+    - Дерегистрация: 'registration/delete-account.md'
   - Клиенти: 'clients.md'
   - ЧЗВ: 'faq.md'
   - Правила: 'terms.md'
