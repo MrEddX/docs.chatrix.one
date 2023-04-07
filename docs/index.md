@@ -28,7 +28,7 @@
 
 За удобство на потребителите са достъпни следните статии:
 
-- [Регистрация](https://docs.chatrix.one/registration/)
+- [Регистрация](https://docs.chatrix.one/registration/registration/)
 
 - [Необходим софтуер (клиенти)](https://docs.chatrix.one/clients/)
 

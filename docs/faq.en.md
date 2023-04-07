@@ -119,19 +119,19 @@ For more details, see [RST Software](https://www.rst.software/blog/22-companies-
 
 ## How can I register an account?
 
-Full information about registering a **Chatrix.One** account is available in the [Registration](https://docs.chatrix.one/en/registration/) section.
+Full information about registering a **Chatrix.One** account is available in the [Registration](https://docs.chatrix.one/en/registration/registration/) section.
 
 * * *
 
 ## Is there a registration email template posted?
 
-A sample registration email template is available in the [Registration](https://docs.chatrix.one/en/registration/#example-templates-when-registering-an-account) tab.
+A sample registration email template is available in the [Registration](https://docs.chatrix.one/en/registration/registration/#example-templates-when-registering-an-account) tab.
 
 * * *
 
 ## Is there a **XMPP** registration message template published?
 
-A sample **XMPP** registration message template is available in the [Registration](https://docs.chatrix.one/en/registration/#example-templates-when-registering-an-account) tab.
+A sample **XMPP** registration message template is available in the [Registration](https://docs.chatrix.one/en/registration/registration/#example-templates-when-registering-an-account) tab.
 
 * * *
 
@@ -282,7 +282,7 @@ For other customers, the procedure is similar.
 
 ## Is two-factor authentication supported?
 
-[Second Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication), also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [Registration](https://docs.chatrix.one/en/registration/) section.
+[Second Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication), also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [Registration](https://docs.chatrix.one/en/registration/registration/) section.
 
 * * *
 
