@@ -58,4 +58,4 @@ In order to protect against bots, you will need to enter the code generated in t
 
     *Re-type Password:* -->
 
-[Register](https://docs.chatrix.one/en/registration/#ways-to-register-an-account){ .md-button }
+[Account Registration](https://chatrix.one:5280/register/new/){ .md-button }

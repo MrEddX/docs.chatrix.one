@@ -1,8 +1,8 @@
 # Remove profile
 
 <figure markdown>
-    ![Registration](../resources/img/delete.jpeg){: width="800" }
-    <figcaption>Remove a profile in <b>Chatrix.One</b></figcaption>
+   ![Registration](../resources/img/delete.jpeg){: width="800" }
+   <figcaption>Remove a Profile in <b>Chatrix.One</b></figcaption>
 </figure>
 
 This page allows you to **irreversibly** delete your account and the information associated with it. Please read the instructions carefully to fill in the fields correctly.

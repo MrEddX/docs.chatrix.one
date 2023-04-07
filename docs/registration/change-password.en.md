@@ -1,8 +1,8 @@
 # Change password
 
 <figure markdown>
-    ![Registration](../resources/img/change.jpeg){: width="800" }
-    <figcaption>Change password in <b>Chatrix.One</b></figcaption>
+   ![Registration](../resources/img/change.jpeg){: width="800" }
+   <figcaption>Change Password in <b>Chatrix.One</b></figcaption>
 </figure>
 
 This page allows you to change the password of an existing account. Please read the instructions carefully to fill in the fields correctly.
