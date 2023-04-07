@@ -148,10 +148,10 @@ plugins:
 nav:
   - Начало: 'index.md'
   - Профил:
-    - Регистрация: 'registration/registration.md'
-    - Форма за регистрация: 'registration/registration-form.md'
-    - Смяна на парола: 'registration/change-password.md'
-    - Дерегистрация: 'registration/delete-account.md'
+    - Регистрация: 'account/registration.md'
+    - Форма за регистрация: 'account/registration-form.md'
+    - Смяна на парола: 'account/change-password.md'
+    - Дерегистрация: 'account/delete-account.md'
   - Клиенти: 'clients.md'
   - ЧЗВ: 'faq.md'
   - Правила: 'terms.md'
