@@ -13,7 +13,7 @@ This page allows you to **irreversibly** delete your account and the information
 
 ## Username
 
-Only the username is entered, without the server. For example: `john'.
+Only the username is entered, without the server part. For example: If the user is `john@chatrix.one` you enter just `john`.
 
 ## Server
 

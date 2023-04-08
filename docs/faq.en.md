@@ -278,6 +278,8 @@ Check in the profile settings section of the app you are using. For example:
 
 For other customers, the procedure is similar.
 
+You can also change your password using the online password change form [here](https://docs.chatrix.one/en/account/change-password/).
+
 * * *
 
 ## Is two-factor authentication supported?
@@ -289,6 +291,11 @@ For other customers, the procedure is similar.
 ## Can I delete a profile?
 
 Yes. The steps are similar to changing your password. In the account setup section, you have an option to delete it. For mobile apps, tap and hold on the profile itself. You will see a delete option.
+You can also delete your account using the online form [here](https://docs.chatrix.one/en/account/delete-account/).
+
+!!! warning "Warning"
+
+     Not all applications delete the profile from the server! For some, like **Conversations**, the profile is only removed from the app, but remains on the server. I advise you to check the instructions of the software itself.
 
 * * *
 

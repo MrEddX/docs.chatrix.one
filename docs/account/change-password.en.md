@@ -9,7 +9,7 @@ This page allows you to change the password of an existing account. Please read 
 
 ## Username
 
-Only the username is entered, without the server part. For example: `john'.
+Only the username is entered, without the server part. For example: If the user is `john@chatrix.one` you enter just `john`.
 
 ## Server
 
