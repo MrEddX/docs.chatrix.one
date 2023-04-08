@@ -1,5 +1,5 @@
 <figure markdown>
-   ![Terms](resources/img/rules.jpeg){: width="800" }
+   ![Terms](resources/img/tos.jpeg){: width="800" }
    <figcaption>Terms and Conditions of <b>Chatrix.One</b></figcaption>
 </figure>
 
@@ -21,6 +21,18 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Publication of pornographic content - especially that involving minors[^1];
 - Publication of Internet links to articles and photo material containing scenes of child pornography and violence[^1];
 - Use of the service for organizing and carrying out activities prohibited by the law.
+
+## Additional
+
+Your account will be marked for deletion if any of the following events occur:
+
+- Only registered and not used for more than 14 days
+- It was last used more than 365 days ago
+- Violation warning received
+
+!!! info "Information"
+
+     In the event that your profile is marked for deletion, you will receive a system message warning you of the upcoming event. You will be given an opportunity to take action if you wish to have the deletion canceled.
 
 ## Reporting a violation
 

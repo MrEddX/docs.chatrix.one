@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 Over the years, the service has migrated multiple times across different hardware. The aim has always been minimal power consumption and maximum service stability.
 

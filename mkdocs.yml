@@ -137,7 +137,7 @@ plugins:
           Дерегистрация: Unregister Account
           Клиенти: Clients
           ЧЗВ: FAQ
-          Правила: Terms
+          Условия: Terms
           Поверителност: Privacy
           Статус: Status
           За Мен: About
@@ -154,7 +154,7 @@ nav:
     - Дерегистрация: 'account/delete-account.md'
   - Клиенти: 'clients.md'
   - ЧЗВ: 'faq.md'
-  - Правила: 'terms.md'
+  - Условия: 'terms.md'
   - Поверителност: 'privacy.md'
   - Статус: 'status.md'
   - За Мен: 'about.md'

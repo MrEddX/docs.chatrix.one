@@ -34,6 +34,6 @@
 
 - [Често задавани въпроси](https://docs.chatrix.one/faq/)
 
-- [Правила за ползване](https://docs.chatrix.one/terms/)
+- [Условия за ползване](https://docs.chatrix.one/terms/)
 
 - [Поверителност](https://docs.chatrix.one/privacy/)

@@ -1,4 +1,4 @@
-# Status of services
+# Status Of Services
 
 ???- bug "Planned maintenance"
 
