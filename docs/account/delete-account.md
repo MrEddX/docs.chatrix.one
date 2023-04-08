@@ -1,7 +1,7 @@
 # Премахване на профил
 
 <figure markdown>
-   ![Registration](../resources/img/delete.jpeg){: width="800" }
+   ![Delete Account](../resources/img/delete.jpeg){: width="800" }
    <figcaption>Премахване на профил в <b>Chatrix.One</b></figcaption>
 </figure>
 

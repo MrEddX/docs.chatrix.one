@@ -1,7 +1,7 @@
 # Online Registration
 
 <figure markdown>
-   ![Registration](../resources/img/password.jpeg){: width="800" }
+   ![Register New Account](../resources/img/register.jpeg){: width="800" }
    <figcaption>Online registration form for <b>Chatrix.One</b></figcaption>
 </figure>
 

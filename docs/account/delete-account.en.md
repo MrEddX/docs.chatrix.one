@@ -1,7 +1,7 @@
 # Remove profile
 
 <figure markdown>
-   ![Registration](../resources/img/delete.jpeg){: width="800" }
+   ![Delete Account](../resources/img/delete.jpeg){: width="800" }
    <figcaption>Remove a Profile in <b>Chatrix.One</b></figcaption>
 </figure>
 
