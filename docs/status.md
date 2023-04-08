@@ -6,14 +6,21 @@
     |:------------|:----------------:|:------------------------------------------------------:|
     | 11.04.2023  |05:30 - 6:30 EET  | Възможни са временни прекъсвания на **XMPP** услугата  |
 
+## Регистрация на профил
+
+| Тип               | Предизвикателство |Статус                                |
+|:------------------|:----------:|:------------------------------------:|
+| Онлайн            | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА)         |
+| Инсталиран клиент | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
+
 ## Достъпност - **XMPP**
 
 | Показател                  |Стойност                                             |
 |:---------------------------|:---------------------------------------------------:|
-| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/120/ping) |
-| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-| Достъпност за последните 7 дни  |<a href='https://uptime.tinyserver.eu'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/168?label=Uptime 7d&labelSuffix=d' /></a>|
-| Достъпност за последните 30 дни  |<a href='https://uptime.tinyserver.eu'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=Uptime 30d&labelSuffix=d' /></a>|
+| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/120/ping?label=) |
+| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24?label=)|
+| Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/168?label=)|
+| Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=)|
 
 ## Съответствие и съвместимост - **XMPP**
 
@@ -26,10 +33,10 @@
 
 | Показател                  |Стойност                                             |
 |:---------------------------|:---------------------------------------------------:|
-| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/135/ping) |
-| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/24)|
-| Достъпност за последните 7 дни  |<a href='https://uptime.tinyserver.eu'><img src='https://uptime.tinyserver.eu/api/badge/135/uptime/168?label=Uptime 7d&labelSuffix=d' /></a>|
-| Достъпност за последните 30 дни  |<a href='https://uptime.tinyserver.eu'><img src='https://uptime.tinyserver.eu/api/badge/135/uptime/720?label=Uptime 30d&labelSuffix=d' /></a>|
+| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/135/ping?label=) |
+| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/24?label=)|
+| Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/135/uptime/168?label=)|
+| Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/135/uptime/720?label=)|
 
 ## Технически данни
 
