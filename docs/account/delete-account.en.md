@@ -1,4 +1,4 @@
-# Remove profile
+# Unregister Account
 
 <figure markdown>
    ![Delete Account](../resources/img/delete.jpeg){: width="800" }
