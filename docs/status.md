@@ -8,10 +8,10 @@
 
 ## Регистрация на профил
 
-| Тип               | Предизвикателство |Статус                                |
+| Тип               | Ограния |Статус                                |
 |:------------------|:----------:|:------------------------------------:|
-| Онлайн            | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА)         |
-| Инсталиран клиент | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
+| Онлайн            | Само от България |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА)         |
+| Инсталиран клиент | Няма |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
 
 ## Достъпност - **XMPP**
 

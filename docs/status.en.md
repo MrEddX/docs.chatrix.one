@@ -8,10 +8,10 @@
 
 ## Account Registrations
 
-| Тype              | Challenge |Status                                |
+| Тype              | Restrictions |Status                                |
 |:------------------|:-----------:|:------------------------------------:|
-| Online            | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
-| Installed Client  | **CAPTCHA** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Online            | Only From Bulgaria |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Installed Client  | None |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 
 ## Accessibility - **XMPP**
 

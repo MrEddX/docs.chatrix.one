@@ -27,4 +27,4 @@
 
 Тук ще трябва отново да въведете избраната от Вас парола. Задължително е тя да съвпада с въведеното от Вас в полето **Нова Парола**.
 
-[Смяна на парола](https://chatrix.one:5280/register/change_password/){ .md-button }
+[Смяна на парола](https://my.chatrix.one/register/change_password/){ .md-button }

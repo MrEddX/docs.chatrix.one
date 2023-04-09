@@ -23,4 +23,4 @@ This field will be filled in automatically. No action on your part is required h
 
 Enter your current password.
 
-[Delete profile](https://chatrix.one:5280/register/delete/){ .md-button }
+[Delete profile](https://my.chatrix.one/register/delete/){ .md-button }
