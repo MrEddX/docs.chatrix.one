@@ -8,10 +8,10 @@
 
 ## Регистрация на профил
 
-| Тип               | Разрешена от |Огранияеня в честота  |Статус                    |
-|:------------------|:------------:|:--------------------:|-------------------------:|
-| Онлайн форма      | България     |До една на час от **IP**  |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
-| Инсталиран клиент | Цял свят     |One per hour from an **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Тип               | Огранияеня в честота  |Статус                    |
+|:------------------|:--------------------:|-------------------------:|
+| Онлайн форма      |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Инсталиран клиент |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 ## Достъпност - **XMPP**
 
 | Показател                  |Стойност                                             |
