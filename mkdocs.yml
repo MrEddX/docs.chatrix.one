@@ -142,6 +142,7 @@ plugins:
           Статус: Status
           За Мен: About
 # - glightbox
+# - tags
   - git-revision-date-localized
 
 # Page tree
