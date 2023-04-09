@@ -18,7 +18,7 @@ The username **JID** (**Jabber ID**) is not case sensitive. It is recommended to
 
 ## Server
 
-You enter the server name: `chatrix.one`
+This field should be automatically filled in. Check if it says: `chatrix.one`
 
 ## Password
 

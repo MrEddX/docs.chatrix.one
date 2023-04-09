@@ -17,7 +17,7 @@ Only the username is entered, without the server part. For example: If the user 
 
 ## Server
 
-You enter the server name: `chatrix.one`
+This field should be automatically filled in. Check if it says: `chatrix.one`
 
 ## Password
 
