@@ -13,7 +13,7 @@ Only the username is entered, without the server part. For example: If the user 
 
 ## Server
 
-This field will be filled in automatically. No action on your part is required here.
+You enter the server name: `chatrix.one`
 
 ## Old password
 
