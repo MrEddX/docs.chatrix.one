@@ -27,4 +27,4 @@ Enter the new password.
 
 Here you will need to re-enter your chosen password. It must match what you entered in the **New Password** field.
 
-[Change Password](https://my.chatrix.one/register/change_password/){ .md-button }
+[Change Password](https://chatrix.one/user/change_password/){ .md-button }

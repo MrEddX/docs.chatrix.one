@@ -23,4 +23,4 @@ You enter the server name: `chatrix.one`
 
 Enter your current password.
 
-[Delete profile](https://my.chatrix.one/register/delete/){ .md-button }
+[Delete profile](https://chatrix.one/user/delete/){ .md-button }
