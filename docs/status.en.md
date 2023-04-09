@@ -8,10 +8,10 @@
 
 ## Account Registrations
 
-| Тype              | Restrictions |Status                                |
-|:------------------|:-----------:|:------------------------------------:|
-| Online            | Only From Bulgaria |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
-| Installed Client  | None |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Тype              | Allowed From |Rate Limit |Status                           |
+|:------------------|:-----------:|:-----------------:|-------------------------:|
+| Online            | Bulgaria    |One per hour from an IP |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Installed Client  | Worldwide |One per hour from an IP |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 
 ## Accessibility - **XMPP**
 
