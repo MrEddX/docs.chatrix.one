@@ -10,8 +10,9 @@
 
 | Тип               | Огранияеня в честота  |Статус                    |
 |:------------------|:--------------------:|-------------------------:|
-| Онлайн форма      |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
-| Инсталиран клиент |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
+| Онлайн форма      |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
+| Инсталиран клиент |До една на час от **IP** |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
+
 ## Достъпност - **XMPP**
 
 | Показател                  |Стойност                                             |
