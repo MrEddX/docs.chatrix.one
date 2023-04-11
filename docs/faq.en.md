@@ -401,9 +401,9 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 You may fall under any of the restrictions listed below:
 
-- Currently, registration via online form or from an installed client is NOT [status](https://docs.chatrix.one/status/#_2) OPEN;
+- Currently, registration via online form or from an installed client is NOT [status](https://docs.chatrix.one/en/status/#_2) OPEN;
 - Only one registration is allowed within one hour from the same **IP** address;
-- Because of multiple attempts to illegally access the service, the **IP** address is blocked for a certain period of time.
+- Because of multiple attempts to illegally access the service, the **IP** address is blocked for six hours.
 
 * * *
 
