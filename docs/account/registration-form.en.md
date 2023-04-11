@@ -6,15 +6,14 @@
 </figure>
 
 This page allows you to self-register an **XMPP** account on this server. Your **JID** (**Jabber ID**) will be in the format `username@chatrix.one`. Please read the instructions carefully to fill in the fields correctly.
-<!-- !!! failure "Important"
-
-     At the moment, account registration, through the registration form and applications, is temporarily **suspended**! This is done in order to protect the service from bots and unscrupulous users creating multiple invalid spam profiles, which negatively affects the overall user experience. -->
-
-<!-- <a href="javascript:history.go(-1)">Go Back</a> -->
 
 ## Username
 
 The username **JID** (**Jabber ID**) is not case sensitive. It is recommended to use only lowercase letters. The usernames `TestUser@chatrix.one`, `testUser@chatrix.one`, `TESTuser@chatrix.one`, etc. will be interpreted as: `testuser@chatrix.one`. Special characters `"` `&` `'` `/` `:` `<` `>` `@` are not allowed in the profile name. To separate the names, you can use the characters: `.` `_` `-`. For example: `test.user@chatrix.one` or `test_user@chatrix.one` etc.
+
+!!! failure "Warning!"
+
+     Usernames like `administrator@chatrix.one`, `xmppadmin@chatrix.one`, `admin_team@chatrix.one`, `moderator@chatrix.one` and similar are prohibited. Any accounts whose names resemble an admin account will be deleted **WITHOUT** warning!
 
 ## Server
 
@@ -38,24 +37,10 @@ Here you will need to re-enter your chosen password. It must match what you ente
 
 ## Challenge - **CAPTCHA**
 
-In order to protect against bots, you will need to enter the code generated in the form of an image. If your task seems too complicated, you can refresh the page to generate a new challenge.
+In order to protect against bots, you need to enter a six-digit code. You will see a math problem generated as a picture. If the task seems too difficult for you, you can refresh the page with ++F5++ to generate a new challenge.
 
 !!! info "Information"
 
      In case you don't see a **CAPTCHA** code, you may have a browser extension installed that is blocking the preview. In this case, temporarily disable the extension or use a different web browser.
-
-<!-- ## Registering a profile
-
-!!! quote ""
-
-    *Username:*
-
-!!! quote ""
-
-    *Password:*
-
-!!! quote ""
-
-    *Re-type Password:* -->
 
 [Account Registration](https://chatrix.one/user/new/){ .md-button }
