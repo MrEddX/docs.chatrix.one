@@ -23,4 +23,4 @@
 
 Въвеждате текущата парола.
 
-[Изтриване на профил](https://my.chatrix.one/delete/){ .md-button }
+[Изтриване на профил](https://chatrix.one/user/delete/){ .md-button }

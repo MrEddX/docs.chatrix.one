@@ -24,7 +24,7 @@ This field should be automatically filled in. Check if it says: `chatrix.one`
 
 By default, the server does not allow the use of weak passwords of the type `123456`, `abc123`, etc. I advise you to use password management software (**Password Manager**) to generate a password that is difficult to crack.
 
-Do not tell anyone your password, not even the administrators of this **XMPP** server. You will later be able to change your password using your **XMPP** client or from the [change password page](https://my.chatrix.one/change_password/).
+Do not tell anyone your password, not even the administrators of this **XMPP** server. You will later be able to change your password using your **XMPP** client or from the [change password page](https://chatrix.one/user/change_password/).
 
 !!! tip "Tip"
 
@@ -58,4 +58,4 @@ In order to protect against bots, you will need to enter the code generated in t
 
     *Re-type Password:* -->
 
-[Account Registration](https://my.chatrix.one/new/){ .md-button }
+[Account Registration](https://chatrix.one/user/new/){ .md-button }

@@ -399,7 +399,11 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 ## Why do I get an error message when trying to register?
 
-At the moment, registering an account, through the registration form or through the applications, is prohibited! More information can be found in the [Registration](https://docs.chatrix.one/en/account/registration/#ways-to-register-an-account) article.
+You may fall under any of the restrictions listed below:
+
+- Currently, registration via online form or from an installed client is NOT [status](https://docs.chatrix.one/status/#_2) OPEN;
+- Only one registration is allowed within one hour from the same **IP** address;
+- Because of multiple attempts to illegally access the service, the **IP** address is blocked for a certain period of time.
 
 * * *
 

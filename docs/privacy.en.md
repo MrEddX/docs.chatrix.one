@@ -31,10 +31,11 @@ As an operator of service representing an alternative to the available methods o
 
 - If I am required to cooperate with authorities under applicable law, the information will be disclosed in accordance with applicable law.
 
-## Overview of the stored data
+## View stored data
 
-- **IP** addresses: Only for the incorrect access attempts;
-- Message history: four weeks, but you can disable from your application (software) settings. For more information, see [How do I turn off message archiving?](https://docs.chatrix.one/en/faq/#how-do-i-turn-off-message-archiving);
+- **IP** addresses: for newly registered customers (one hour in order to limit the number of registrations);
+- **IP** addresses: for incorrect access attempts (up to six hours);
+- Message history: four weeks, but you can disable from your application (software) settings. For more information, see [How do I turn off message archiving?](https://docs.chatrix.one/faq/#_28);
 - Time of the last login to the system (to detect inactive users);
 - Profile information and avatar;
 - Contacts and **MUC** added to profile;
