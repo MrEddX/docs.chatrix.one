@@ -80,6 +80,4 @@ To get registration in **Chatrix.One** it is not necessary to use any of the men
          ```
          Thanks.
          ```
-<!-- [Online Registration](http://docs.chatrix.one/en/registration-form){ .md-button } -->
-
-The next step is to install the [necessary software (client)](https://docs.chatrix.one/en/clients/) for communication.
+If you already have an account, the next step is to install the [necessary software (client)](https://docs.chatrix.one/clients/) for communication.
