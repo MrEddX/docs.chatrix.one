@@ -13,11 +13,11 @@ The username **JID** (**Jabber ID**) is not case sensitive. It is recommended to
 
 !!! failure "Important"
 
-     Usernames like `administrator@chatrix.one`, `xmppadmin@chatrix.one`, `admin_team@chatrix.one`, `moderator@chatrix.one` and similar are prohibited. Any accounts whose names resemble an admin account will be deleted **WITHOUT** warning!
+    Usernames like `administrator@chatrix.one`, `xmppadmin@chatrix.one`, `admin_team@chatrix.one`, `moderator@chatrix.one` and similar are prohibited. Any accounts whose names resemble an admin account will be deleted **WITHOUT** warning!
 
-     !!! quote ""
+    !!! quote ""
 
-          Currently, the server has only one administrator with the address: admin:simple-maildotru:chatrix.one
+        Currently, the server has only one administrator with the address: admin:simple-maildotru:chatrix.one
 
 ## Server
 
