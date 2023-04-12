@@ -154,46 +154,46 @@ Detailed information about the clients available for working with **Chatrix.One*
 === ":fontawesome-brands-windows: Windows"
 
      | Client |Free | Open Source | Link |
-     |:---------|:------------------:|:---------------- --:|:-------------------------------------------:|
+     |:---------|:------------------:|:------------------:|:-------------------------------------------:|
      |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
 
 === ":fontawesome-brands-linux: Linux"
 
      | Client | Free | Open Source | Link |
-     |:---------|:------------------:|:---------------- --:|:---------------------------------------------------------: |
+     |:---------|:------------------:|:------------------:|:---------------------------------------------------------: |
      |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
      |**Dino** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Dino.im](https://dino.im/#download) |
 
 === ":fontawesome-brands-apple: macOS"
 
      | Client | Free | Open Source | Link |
-     |:---------|:------------------:|:---------------- --:|------------------------------------------------ ---------------------------:|
+     |:---------|:------------------:|:------------------:|------------------------------------------------ ---------------------------:|
      |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS) |
      |**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Mac App Store](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494) |
 
 === ":fontawesome-brands-google-play: Android"
 
      | Client | Free | Open Source | Link |
-     |:-----------------|:------------------:|:-------- ----------:|:-------------------------------------- ------------------------------:|
+     |:-----------------|:------------------:|:------------------:|:-------------------------------------- ------------------------------:|
      |**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [F-droid](https://f-droid.org/packages/eu.siacs.conversations/) |
      |**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
 
 === ":fontawesome-brands-apple: iOS"
 
      | Client | Free | Open Source | Link |
-     |:---------|:------------------:|:---------------- --:|:------------------------------------------------ -----------------------------:|
+     |:---------|:------------------:|:------------------:|:------------------------------------------------ -----------------------------:|
      |**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [App Store](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) |
 
 === ":fontawesome-brands-firefox: Web"
 
      | Client | Free | Open Source | Link |
-     |:--------------|:------------------:|:---------- --------:|:---------------------------------------- ---------------------:|
+     |:--------------|:------------------:|:------------------:|:---------------------------------------- ---------------------:|
      |**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Conversejs.org](https://conversejs.org/fullscreen.html) |
 
 === ":fontawesome-solid-terminal: CLI"
 
      | Client | Free | Open Source | Link |
-     |:-------------|:------------------:|:------------ ------:|:-------------------------------------------------- ----------:|
+     |:-------------|:------------------:|:------------------:|:-------------------------------------------------- ----------:|
      |**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Profanity-IM](https://profanity-im.github.io/) |
 
 * * *
