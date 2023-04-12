@@ -17,7 +17,7 @@ The username **JID** (**Jabber ID**) is not case sensitive. It is recommended to
 
      !!! quote ""
 
-         Currently, the server has only one administrator with the address: admin:simple-maildotru:chatrix.one
+          Currently, the server has only one administrator with the address: admin:simple-maildotru:chatrix.one
 
 ## Server
 
