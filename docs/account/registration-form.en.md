@@ -41,7 +41,7 @@ Here you will need to re-enter your chosen password. It must match what you ente
 
 ## Challenge - **CAPTCHA**
 
-In order to protect against bots, you need to enter a six-digit code. You will see a math problem generated as a picture. If the task seems too difficult for you, you can refresh the page with ++f5++ to generate a new challenge.
+In order to protect against bots, you need to enter a six-digit code. You will see a challenge generated as a picture. If the task seems too difficult for you, you can refresh the page with ++f5++ to generate a new challenge.
 
 !!! info "Information"
 

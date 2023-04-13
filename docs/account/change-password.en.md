@@ -25,6 +25,6 @@ Enter the new password.
 
 ## Password verification
 
-Here you will need to re-enter your chosen password. It must match what you entered in the **New Password** field.
+Here you will need to re-enter your chosen new password. It must match what you entered in the **New Password** field.
 
 [Change Password](https://chatrix.one/user/change_password/){ .md-button }
