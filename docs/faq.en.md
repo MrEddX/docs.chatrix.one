@@ -399,11 +399,15 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 ## Why do I get an error message when trying to register?
 
-You may fall under any of the restrictions listed below:
+In order to protect the service from bots and abuse, the following restrictions have been introduced:
 
-- Currently, registration via online form or from an installed client is NOT [status](https://docs.chatrix.one/en/status/#_2) OPEN;
-- Only one registration is allowed within one hour from the same **IP** address;
-- Because of multiple attempts to illegally access the service, the **IP** address is blocked for six hours.
+- It is possible that the registration is temporarily prohibited at the moment. Please check [status](https://docs.chatrix.one/status/#_2). In the "Account Registration" section, it must be marked as **OPEN**;
+- Only one registration per hour is allowed through the online registration form regardless of the **IP** address;
+- Only one registration is allowed through the installed applications within one hour from the same **IP** address;
+- With a large number of requests to generate **CAPTCHA** codes, the page blocks access for about a minute. This protects the service from a **CAPTCHA DoS** attack;
+- With multiple attempts to illegally access the service, the **IP** address is blocked for six hours.
+
+If the status of the registrations is marked as **CLOSED**, you will need to use one of the other possible methods of registering an account described in the section "Registration" and precisely the part [Ways to register an account](https://docs.chatrix.one/en/account/registration/#ways-to-register-an-account). For all other cases, the solution is to try again later.
 
 * * *
 

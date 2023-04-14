@@ -11,7 +11,7 @@
 | Тип               | Ограничения                               |Статус                     |
 |:------------------|:-----------------------------------------:|:-------------------------:|
 | Онлайн форма      |До една регистрация на час                 |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
-| Инсталиран клиент |До една регистрация на час за **IP** адрес |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
+| Инсталиран клиент |До една регистрация на час от **IP** адрес |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
 
 ## Достъпност - **XMPP**
 
