@@ -69,3 +69,23 @@
 !!! abstract "Инциденти"
 
     Към момента няма документирани инциденти.
+
+## История на актуализациите
+
+### 26.04.2023
+
+Обновяване на Ejabberd до версия [23.04](https://github.com/processone/ejabberd/releases/tag/23.04).
+
+- Много подобрения в **SQL** базата данни
+- Ново: `mod_mam` поддръжка на **[XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html)**
+- Ново: `mod_muc_rtbl` поддръжка на **Real-Time Block List for MUC rooms**
+
+### 20.01.2023
+
+Обновяване на Ejabberd до версия [23.01](https://github.com/processone/ejabberd/releases/tag/23.01).
+
+- Ново: Отворена е регистрацията, посредством онлайн формата или инсталиран клиент, защитена чрез **CAPTCHA** предизвикателство
+
+### 30.10.2022
+
+Обновяване на Ejabberd до версия [22.10](https://github.com/processone/ejabberd/releases/tag/22.10).

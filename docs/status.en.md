@@ -69,3 +69,23 @@
 !!! abstract "Incidents"
 
      There are currently no documented incidents.
+
+## Update history
+
+### 26.04.2023
+
+Update Ejabberd to version [23.04](https://github.com/processone/ejabberd/releases/tag/23.04).
+
+- Many improvements in SQL databases
+- New: `mod_mam` support for [XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html)
+- New: `mod_muc_rtbl` support for **Real-Time Block List for MUC rooms**
+
+### 20.01.2023
+
+Update Ejabberd to version [23.01](https://github.com/processone/ejabberd/releases/tag/23.01).
+
+- New: Registrations are open, using the online form or an installed client, protected by a **CAPTCHA** challenge
+
+### 30.10.2022
+
+Update Ejabberd to version [22.10](https://github.com/processone/ejabberd/releases/tag/22.10).
