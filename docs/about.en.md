@@ -22,5 +22,7 @@ The most significant transition to date took place in 2022, when the service mig
 You can contact me using:
 
 :material-email-edit-outline: Mail: admin:simple-maildotru:chatrix.one<br>
-:simple-xmpp: XMPP: admin:simple-maildotru:chatrix.one<br>
+:simple-xmpp: XMPP: admin:simple-maildotru:chatrix.one[^1]<br>
 :simple-github: GitHub: [ChatrixOne](https://github.com/ChatrixOne)
+
+[^1]: When contacting me on XMPP please don't just send a subscription request but start messaging me directly. I won't blindly accept subscription requests from strangers.

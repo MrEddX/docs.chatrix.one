@@ -22,5 +22,7 @@
 За връзка с мен можете да използвате:
 
 :material-email-edit-outline: Поща: admin:simple-maildotru:chatrix.one<br>
-:simple-xmpp: XMPP: admin:simple-maildotru:chatrix.one<br>
+:simple-xmpp: XMPP: admin:simple-maildotru:chatrix.one[^1]<br>
 :simple-github: GitHub: [ChatrixOne](https://github.com/ChatrixOne)
+
+[^1]: Когато се свързвате с мен по XMPP, не изпращайте заявка за абонамент. Изпратете директно Вашето съобщение, т.к. не приемам заявки за абонамент от непознати.

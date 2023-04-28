@@ -11,6 +11,10 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Respect other users and be tolerant;
 - Do not use the service to organize and carry out illegal activities.
 
+!!! warning "Warning"
+
+     Please be aware that this site is not responsible for the actions of its registered users. Each user is solely responsible for their own actions and behavior while using the site.
+
 ## They are forbidden
 
 - Illegal access to the service;
