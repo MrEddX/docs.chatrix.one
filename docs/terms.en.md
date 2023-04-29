@@ -13,7 +13,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 
 !!! warning "Warning"
 
-     Please be aware that this site is not responsible for the actions of its registered users. Each user is solely responsible for their own actions and behavior while using the site.
+     Please be aware that Chatrix.One is not responsible for the actions of its registered users. Each user is solely responsible for their own actions and behavior while using the service.
 
 ## They are forbidden
 
