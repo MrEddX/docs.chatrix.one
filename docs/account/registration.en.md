@@ -29,7 +29,7 @@ To test the strength of your password, you can use online tools such as [How Sec
 
 ## Ways to register an account
 
-- :material-pencil: - On your own by completing the online registration form;
+- :material-pencil: - On your own by completing the online [registration form](https://docs.chatrix.one/en/account/registration-form/);
 - :material-apps: - Through your installed application - client;
 - :material-email-check: - By sending an email to the address located at the the bottom of this website. Contacts are also available in the [About](https://docs.chatrix.one/en/about/#contacts) section. If you are using a mobile device, please check the menu :material-menu:;
 - :material-message-check: - By sending an **XMPP** message to an administrator. An active **XMPP** profile is required, the server you send from is irrelevant. For an up-to-date admin address, please see the [About](https://docs.chatrix.one/en/about/#contacts) section;
