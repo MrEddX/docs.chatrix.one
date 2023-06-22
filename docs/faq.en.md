@@ -603,7 +603,7 @@ Do not get me wrong. I still see in **Prosody** a wonderful opportunity to creat
 At the moment, the following services are functioning on this domain:
 
 - [x] **XMPP**
-- [x] **DNS**
+- [ ] **DNS**
 - [ ] Email
 - [ ] **Matrix** server
 - [ ] Nextcloud
