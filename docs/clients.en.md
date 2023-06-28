@@ -46,7 +46,7 @@ Client is the application (software) through which we use the service. It is imp
 
 !!! tip "Tip"
 
-     In case you have decided to install **Conversations** from the **F-droid** free store, you can first install their free open source app. That way, you'll not only know when a new version is available, but you'll also be able to install the updates automatically.
+     In case you have decided to install **Conversations** from the **F-droid** free store, you can first install their free open source app from [here](https://f-droid.org/F-Droid.apk). That way, you'll not only know when a new version is available, but you'll also be able to install the updates automatically.
 
 
 ### :fontawesome-brands-apple: iOS
