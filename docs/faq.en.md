@@ -604,9 +604,9 @@ At the moment, the following services are functioning on this domain:
 
 - [x] **XMPP**
 - [ ] **DNS**
-- [ ] Email
+- [ ] **Email**
 - [ ] **Matrix** server
-- [ ] Nextcloud
+- [ ] **Nextcloud**
 
 !!! info "Information"
 
