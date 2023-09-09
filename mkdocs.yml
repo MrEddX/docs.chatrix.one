@@ -116,31 +116,33 @@ markdown_extensions:
 plugins:
   - search
   - i18n:
-      default_language: bg
-      material_alternate: true
-      search_reconfigure: false
-      languages:
-        bg:
-          name: Български
-          build: true
-        en:
-          name: English
-          site_name: Chatrix.One | Documentation
-          build: true
-      nav_translations:
-        en:
+    docs_structure: suffix
+    fallback_to_default: true
+    languages:
+      - build: true
+        default: true
+        locale: bg
+        name: Български
+      - build: true
+        default: false
+        locale: en
+        name: English
+        nav_translations:
+          Дерегистрация: Unregister Account
+          За Мен: About
+          Клиенти: Clients
           Начало: Home
+          Поверителност: Privacy
           Профил: Account
           Регистрация: Account Registration
-          Форма за регистрация: Registration Form
           Смяна на парола: Change Password
-          Дерегистрация: Unregister Account
-          Клиенти: Clients
-          ЧЗВ: FAQ
-          Условия: Terms
-          Поверителност: Privacy
           Статус: Status
-          За Мен: About
+          Условия: Terms
+          Форма за регистрация: Registration Form
+          ЧЗВ: FAQ
+        site_name: Chatrix.One | Documentation
+    reconfigure_material: true
+    reconfigure_search: false
 # - glightbox
 # - tags
   - git-revision-date-localized
