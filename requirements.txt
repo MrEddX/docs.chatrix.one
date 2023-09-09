@@ -2,5 +2,5 @@
 
 mkdocs==1.5.2
 mkdocs-material==9.2.8
-mkdocs-static-i18n==0.56
+mkdocs-static-i18n==1.0.3
 mkdocs-git-revision-date-localized-plugin==1.2.0
