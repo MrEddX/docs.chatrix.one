@@ -119,28 +119,28 @@ plugins:
     docs_structure: suffix
     fallback_to_default: true
     languages:
-      - build: true
-        default: true
-        locale: bg
-        name: Български
-      - build: true
-        default: false
-        locale: en
-        name: English
-        nav_translations:
-          Дерегистрация: Unregister Account
-          За Мен: About
-          Клиенти: Clients
-          Начало: Home
-          Поверителност: Privacy
-          Профил: Account
-          Регистрация: Account Registration
-          Смяна на парола: Change Password
-          Статус: Status
-          Условия: Terms
-          Форма за регистрация: Registration Form
-          ЧЗВ: FAQ
-        site_name: Chatrix.One | Documentation
+        - locale: bg
+          name: Български
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
+          default: false
+          nav_translations:
+            Дерегистрация: Unregister Account
+            За Мен: About
+            Клиенти: Clients
+            Начало: Home
+            Поверителност: Privacy
+            Профил: Account
+            Регистрация: Account Registration
+            Смяна на парола: Change Password
+            Статус: Status
+            Условия: Terms
+            Форма за регистрация: Registration Form
+            ЧЗВ: FAQ
+            site_name: Chatrix.One | Documentation
     reconfigure_material: true
     reconfigure_search: false
 # - glightbox
