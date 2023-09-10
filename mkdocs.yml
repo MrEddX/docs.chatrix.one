@@ -112,41 +112,6 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# Plugins
-plugins:
-  - search
-  - i18n:
-    docs_structure: suffix
-    fallback_to_default: true
-    languages:
-        - locale: bg
-          name: Български
-          build: true
-          default: true
-        - locale: en
-          name: English
-          build: true
-          default: false
-          nav_translations:
-            Дерегистрация: Unregister Account
-            За Мен: About
-            Клиенти: Clients
-            Начало: Home
-            Поверителност: Privacy
-            Профил: Account
-            Регистрация: Account Registration
-            Смяна на парола: Change Password
-            Статус: Status
-            Условия: Terms
-            Форма за регистрация: Registration Form
-            ЧЗВ: FAQ
-            site_name: Chatrix.One | Documentation
-    reconfigure_material: true
-    reconfigure_search: false
-# - glightbox
-# - tags
-  - git-revision-date-localized
-
 # Page tree
 nav:
   - Начало: 'index.md'
@@ -161,6 +126,43 @@ nav:
   - Поверителност: 'privacy.md'
   - Статус: 'status.md'
   - За Мен: 'about.md'
+
+# Plugins
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: false
+      languages:
+        - locale: bg
+          default: true
+          name: Български
+          build: true
+          site_name: "Chatrix.One | Документация"
+        - locale: en
+          name: English
+          build: true
+          site_name: "Chatrix.One | Documentation"
+          default: false
+          nav_translations:
+            Дерегистрация: Unregister Account
+            За Мен: About
+            Клиенти: Clients
+            Начало: Home
+            Поверителност: Privacy
+            Профил: Account
+            Регистрация: Account Registration
+            Смяна на парола: Change Password
+            Статус: Status
+            Условия: Terms
+            Форма за регистрация: Registration Form
+            ЧЗВ: FAQ
+
+# - glightbox
+# - tags
+# - git-revision-date-localized
 
 # Footer Copyright
 copyright: |
