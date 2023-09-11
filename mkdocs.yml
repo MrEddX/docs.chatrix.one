@@ -159,10 +159,12 @@ plugins:
             Условия: Terms
             Форма за регистрация: Registration Form
             ЧЗВ: FAQ
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
 
 # - glightbox
 # - tags
-# - git-revision-date-localized
 
 # Footer Copyright
 copyright: |
