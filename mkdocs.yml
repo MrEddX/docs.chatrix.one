@@ -161,8 +161,6 @@ plugins:
             ЧЗВ: FAQ
   - git-revision-date-localized:
       type: date
-      enable_creation_date: true
-
 # - glightbox
 # - tags
 
