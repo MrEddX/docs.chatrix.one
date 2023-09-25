@@ -5,6 +5,17 @@
 
 Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
 
+## Features
+
+- [x] End-to-end encryption with **OMEMO** or **OpenPGP**;
+- [x] Send and receive images as well as other file types;
+- [x] Encrypted audio and video calls (**DTLS-SRTP**);
+- [x] Location sharing;
+- [x] Send voice messages;
+- [x] Indication when your contact has read your message;
+- [x] Photos/Avatars for your contacts;
+- [x] Synchronization with desktop client.
+
 ## Why **Chatrix.One?**
 
 - [x] Uses proven [XMPP](https://xmpp.org/about/technology-overview/) technology;
