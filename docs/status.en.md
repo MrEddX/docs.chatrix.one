@@ -1,6 +1,6 @@
 # Status Of Services
 
-???- bug "Planned maintenance"
+???- bug "Scheduled maintenance"
 
      | Date        | Time interval    | Note                                        |
      |:------------|:----------------:|:-------------------------------------------:|
