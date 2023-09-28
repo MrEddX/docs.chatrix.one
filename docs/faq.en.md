@@ -222,7 +222,7 @@ The ones listed above have been tested with the exception of **Monal** and **Cha
 
 ## How do I know if I'm using  **OMEMO**?
 
-If messages in **Conversations** are accompanied by a *"checked shield"* indicator :material-shield-check: this is a sure sign that you are using **OMEMO**. In **Gajim**, check for a green colored *"shield"* symbol :material-shield: next to the date and time of the messages. It will be fully colored when you have trusted the device. In case you have not added the device to the list of trusted devices, the "shield" symbol will be half colored green. The situation is similar for all other applications.
+If messages in **Conversations** are accompanied by *"shield with a checkmark"* indicator :material-shield-check: this is a sure sign that you are using **OMEMO**. In **Gajim**, check for a green colored *"shield"* symbol :material-shield: next to the date and time of the messages. It will be fully colored when you have trusted the device. In case you have not added the device to the list of trusted devices, the "shield" symbol will be half colored green. The situation is similar for all other applications.
 
 !!! warning "Caution"
 
@@ -244,13 +244,13 @@ Support for the **OTR** encryption method has been discontinued due to its vulne
 
 ## Is the voice communication encrypted?
 
-In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the audio communication will also be encrypted. In the **Conversations** app, this will be marked with a green *"checked shield"* :material-shield-check: symbol in the upper left corner of the screen.
+In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the audio communication will also be encrypted. In the **Conversations** app, this will be marked with green *"shield with a checkmark"* :material-shield-check: symbol in the upper left corner of the screen.
 
 * * *
 
 ## Is the video communication encrypted?
 
-In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the video communication will also be encrypted. In the **Conversations** app, this will be marked with a green *"checked shield"* :material-shield-check: symbol in the upper left corner of the screen.
+In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the video communication will also be encrypted. In the **Conversations** app, this will be marked with green *"shield with a checkmark"* :material-shield-check: symbol in the upper left corner of the screen.
 
 * * *
 
