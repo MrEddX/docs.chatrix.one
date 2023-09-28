@@ -1,7 +1,9 @@
 # Добре дошли
 
-![Добре дошли](resources/img/welcome-wh.jpeg#only-light){ width="800" }
-![Добре дошли](resources/img/welcome-bk.jpeg#only-dark){ width="800" }
+<figure markdown>
+  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="450" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="450" }
+</figure>
 
 Здравейте и добре дошли в **Chatrix.One**! Български **XMPP** сървър за безплатна, криптирана от край до край комуникация, без телеметрия и без реклами. Изпращайте свободно съобщения, емотикони, снимки, файлове и локации. Насладете се на качествена гласова комуникация и видео в реално време. Пожелавам Ви приятни мигове с вашето семейство, близки и приятели!
 
@@ -16,7 +18,9 @@
 - [x] Снимки/Аватари за Вашите контакти;
 - [x] Синхронизация с десктоп клиент.
 
-![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+<figure markdown>
+  ![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+</figure>
 
 ## Защо **Chatrix.One?**
 
@@ -36,6 +40,10 @@
 [^2]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/faq/#omemo) във Вашия **XMPP** клиент.
 
 [^3]: [**Сорс кодът**](https://bg.wikipedia.org/wiki/Изходен_код) е публично достъпен в [**Github**](https://github.com/processone/ejabberd).
+
+<figure markdown>
+  ![Gajim Demo](resources/img/gajim.png){ width=600}
+</figure>
 
 ## Как да използвам **Chatrix.One**?
 

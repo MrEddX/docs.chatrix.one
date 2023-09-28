@@ -1,7 +1,9 @@
 # Welcome
 
-![Welcome](resources/img/welcome-wh.jpeg#only-light){ width="800" }
-![Welcome](resources/img/welcome-bk.jpeg#only-dark){ width="800" }
+<figure markdown>
+  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="450" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="450" }
+</figure>
 
 Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
 
@@ -16,7 +18,9 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] Photos/Avatars for your contacts;
 - [x] Synchronization with desktop client.
 
-![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+<figure markdown>
+  ![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+</figure>
 
 ## Why **Chatrix.One?**
 
@@ -36,6 +40,10 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 [^2]: For end-to-end encryption, you need to enable [OMEMO](https://docs.chatrix.one/en/faq/#what-is-omemo) in your **XMPP** client.
 
 [^3]: [The Source Code](https://en.wikipedia.org/wiki/Source_code) is publicly available on [Github](https://github.com/processone/ejabberd).
+
+<figure markdown>
+  ![Gajim Demo](resources/img/gajim.png){ width=600}
+</figure>
 
 ## How do I use **Chatrix.One**?
 
