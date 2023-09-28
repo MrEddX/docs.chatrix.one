@@ -16,6 +16,8 @@
 - [x] Снимки/Аватари за Вашите контакти;
 - [x] Синхронизация с десктоп клиент.
 
+![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+
 ## Защо **Chatrix.One?**
 
 - [x] Използва утвърдена [**XMPP**](https://xmpp.org/about/technology-overview/) технология;

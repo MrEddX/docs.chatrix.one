@@ -16,6 +16,8 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] Photos/Avatars for your contacts;
 - [x] Synchronization with desktop client.
 
+![Conversations Demo](resources/img/conversations-demo.png){ width=600}
+
 ## Why **Chatrix.One?**
 
 - [x] Uses proven [XMPP](https://xmpp.org/about/technology-overview/) technology;
