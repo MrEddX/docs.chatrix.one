@@ -10,13 +10,14 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 ## Features
 
 - [x] End-to-end encryption with **OMEMO** or **OpenPGP**;
-- [x] Send and receive images as well as other file types;
+- [x] Send and receive images and files;
 - [x] Encrypted audio and video calls (**DTLS-SRTP**);
 - [x] Location sharing;
-- [x] Send voice messages;
-- [x] Indication when your contact has read your message;
+- [x] Sending voice messages;
+- [x] Read message indication;
 - [x] Photos/Avatars for your contacts;
-- [x] Synchronization with desktop client.
+- [x] Synchronization with desktop;
+- [x] Compatible with most used operating systems.
 
 <figure markdown>
   ![Conversations Demo](resources/img/conversations-demo.png){ width=600}
