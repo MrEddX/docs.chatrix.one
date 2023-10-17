@@ -61,7 +61,7 @@
 | RAM | 64GB |
 | Disk Space | 5TB |
 | File System | ZFS (RAIDZ-1) |
-| Operating System | Debian 11 (Bullseye) |
+| Operating System | Debian 12 (Bookworm) |
 | Location | Bulgaria |
 
 ## Information about occurred incidents
