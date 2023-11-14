@@ -42,27 +42,27 @@
 
 ### XMPP Server
 
-| Parameter           | Value                 |
-|:--------------------|:-------------------------------:|
-| Processor       | ARM Ampere    |
-| RAM | 12GB |
-| Disk Space | 64GB |
-| File System | ext4 |
+| Parameter        | Value                          |
+|:-----------------|:------------------------------:|
+| Processor        | ARM Ampere                     |
+| RAM              | 12GB                           |
+| Disk Space       | 64GB                           |
+| File System      | ext4                           |
 | Operating System | Ubuntu 22.04 (Jammy Jellyfish) |
-| Ejabberd version | 23.1.0 |
-| Backup | Weekly |
-| Location | Switzerland |
+| Ejabberd version | 23.10.0                        |
+| Backup           | Weekly                         |
+| Location         | Switzerland                    |
 
 ### Backup server
 
-| Parameter | Value |
-|:--------------------|:-------------------------------:|
-| Processor | AMD EPYC 3251 |
-| RAM | 64GB |
-| Disk Space | 5TB |
-| File System | ZFS (RAIDZ-1) |
+| Parameter        | Value                |
+|:-----------------|:--------------------:|
+| Processor        | AMD EPYC 3251        |
+| RAM              | 64GB                 |
+| Disk Space       | 5TB                  |
+| File System      | ZFS (RAIDZ-1)        |
 | Operating System | Debian 12 (Bookworm) |
-| Location | Bulgaria |
+| Location         | Bulgaria             |
 
 ## Information about occurred incidents
 
