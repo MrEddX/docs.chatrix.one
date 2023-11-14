@@ -4,7 +4,7 @@
 
      | Date        | Time interval    | Note                                        |
      |:------------|:----------------:|:-------------------------------------------:|
-     | 20.11.2023.2023.2023  |05:30 - 6:30 EET  | **XMPP** service interruptions are possible |
+     | 20.12.2023.2023.2023  |05:30 - 6:30 EET  | **XMPP** service interruptions are possible |
 
 ## Account Registrations
 
@@ -72,9 +72,15 @@
 
 ## Update history
 
+#### Update Ejabberd to version [23.10](https://github.com/processone/ejabberd/releases/tag/23.10).
+
+- Added support for XEP-0402: PEP Native Bookmarks, which is a significant improvement over XEP-0048: Bookmark Storage. Defines how bookmarks are stored.
+- New: `mod_muc_occupantid` with support for XEP-0421: Occupant Id. Used for MUC anonymous rooms, fixing messages and withdrawing messages. Currently, the only client found to support XEP-0421 is Dino - version 0.4 and above.
+- Many new options and features. For more information, see the official article on the [ProcessOne](https://www.process-one.net/) web site about what's new in version [23.10](https://www.process-one.net/blog/ejabberd-23-10/)
+
 ### 26.04.2023
 
-Update Ejabberd to version [23.04](https://github.com/processone/ejabberd/releases/tag/23.04).
+#### Update Ejabberd to version [23.04](https://github.com/processone/ejabberd/releases/tag/23.04).
 
 - Many improvements in SQL databases
 - New: `mod_mam` support for [XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html)
@@ -82,10 +88,10 @@ Update Ejabberd to version [23.04](https://github.com/processone/ejabberd/releas
 
 ### 20.01.2023
 
-Update Ejabberd to version [23.01](https://github.com/processone/ejabberd/releases/tag/23.01).
+#### Update Ejabberd to version [23.01](https://github.com/processone/ejabberd/releases/tag/23.01).
 
 - New: Registrations are open, using the online form or an installed client, protected by a **CAPTCHA** challenge
 
 ### 30.10.2022
 
-Update Ejabberd to version [22.10](https://github.com/processone/ejabberd/releases/tag/22.10).
+#### Update Ejabberd to version [22.10](https://github.com/processone/ejabberd/releases/tag/22.10).
