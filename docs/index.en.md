@@ -10,6 +10,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 ## Features
 
 - [x] End-to-end encryption with **OMEMO** or **OpenPGP**;
+- [x] Send and receive push messages;
 - [x] Send and receive images and files;
 - [x] Encrypted audio and video calls (**DTLS-SRTP**);
 - [x] Location sharing;
