@@ -35,6 +35,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] **DOES NOT** require consent and acceptance of insane policies[^1];
 - [x] **RESPECTS** your privacy;
 - [x] Provides **end-to-end encryption**[^2];
+- [x] **Decentralized** architecture;
 - [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^3].
 
 [^1]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
