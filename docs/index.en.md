@@ -9,15 +9,14 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
 ## Features
 
-- [x] Send and receive instant messages;
-- [x] Send and receive images and files of any type;
-- [x] Audio and video calls;
+- [x] Instant messages with emoji support;
+- [x] Share images and files of different types;
 - [x] Location sharing;
-- [x] Emojis;
-- [x] Sending and receive voice messages;
+- [x] Audio and video calls;
+- [x] Voice messages;
 - [x] Group chat;
 - [x] Read message indication;
-- [x] Photos/Avatars for your contacts;
+- [x] Photos (Avatars) for your contacts;
 - [x] Synchronization with desktop;
 - [x] Compatibility with the most used operating systems.
 
