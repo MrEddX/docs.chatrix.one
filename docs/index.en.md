@@ -9,12 +9,11 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
 ## Features
 
-- [x] End-to-end encryption with **OMEMO** or **OpenPGP**;
 - [x] Send and receive instant messages;
 - [x] Send and receive images and files;
-- [x] Encrypted audio and video calls (**DTLS-SRTP**);
+- [x] Audio and video calls;
 - [x] Location sharing;
-- [x] Sending voice messages;
+- [x] Sending and receive voice messages;
 - [x] Read message indication;
 - [x] Photos/Avatars for your contacts;
 - [x] Synchronization with desktop;
@@ -27,22 +26,22 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 ## Why **Chatrix.One?**
 
 - [x] Uses proven [XMPP](https://xmpp.org/about/technology-overview/) technology;
+- [x] Provides End-to-end encryption with **OMEMO** or **OpenPGP**;[^1]
+- [x] Encrypted audio and video calls (**DTLS-SRTP**);
+- [x] **RESPECTS** your privacy;[^2]
 - [x] **DOES NOT** require personal information upon registration;
-- [x] **IS NOT** interested in your personal communication;
-- [x] **DOES NOT** analyze your messages, photos and files;
-- [x] **DOES NOT** trade with your communication and personal data;
 - [x] **DOES NOT** serve to you advertisements, banners and offers;
-- [x] **DOES NOT** require consent and acceptance of insane policies[^1];
-- [x] **RESPECTS** your privacy;
-- [x] Provides **end-to-end encryption**[^2];
+- [x] **DOES NOT** require consent and acceptance of insane policies[^3];
 - [x] **Decentralized** architecture;
-- [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^3].
+- [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^4].
 
-[^1]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
+[^1]: For end-to-end encryption, you need to enable [OMEMO](https://docs.chatrix.one/en/faq/#what-is-omemo) or [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) in your **XMPP** client.
 
-[^2]: For end-to-end encryption, you need to enable [OMEMO](https://docs.chatrix.one/en/faq/#what-is-omemo) in your **XMPP** client.
+[^2]: Chatrix.One does **NOT** analyze your messages, photos and files and does **NOT** trade with your communication and personal data.
 
-[^3]: [The Source Code](https://en.wikipedia.org/wiki/Source_code) is publicly available on [Github](https://github.com/processone/ejabberd).
+[^3]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
+
+[^4]: [The Source Code](https://en.wikipedia.org/wiki/Source_code) is publicly available on [Github](https://github.com/processone/ejabberd).
 
 <figure markdown>
   ![Gajim Demo](resources/img/gajim.png){ width=600}
