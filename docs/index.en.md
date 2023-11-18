@@ -5,7 +5,7 @@
   ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="450" }
 </figure>
 
-Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice communication and real-time video. Wishing you pleasant moments with your family, friends and loved ones!
+Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice and video calls in real time. Wishing you pleasant moments with your family, friends and loved ones!
 
 ## Features
 
@@ -32,7 +32,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] **RESPECTS** your privacy;[^2]
 - [x] **DOES NOT** require personal information upon registration;
 - [x] **DOES NOT** serve to you advertisements, banners and offers;
-- [x] **DOES NOT** require consent and acceptance of insane policies[^3];
+- [x] **DOES NOT** require consent and acceptance of insane policy[^3];
 - [x] **Decentralized** architecture;
 - [x] Service based in **Switzerland** - accessible from all over the world;
 - [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^4].
@@ -41,7 +41,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
 [^2]: Chatrix.One does **NOT** analyze your messages, photos and files and does **NOT** trade with your communication and personal data.
 
-[^3]: *"I agree to the terms and conditions of use "* **is [the biggest lie on the Internet](https://www.biggestlieonline.com/)**!
+[^3]: *"I agree to the terms and conditions of use "* is [the biggest lie on the Internet](https://www.biggestlieonline.com/)!
 
 [^4]: [The Source Code](https://en.wikipedia.org/wiki/Source_code) is publicly available on [Github](https://github.com/processone/ejabberd).
 
