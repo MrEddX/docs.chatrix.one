@@ -53,7 +53,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
 The following articles are available for user convenience:
 
-- [Register an account](https://docs.chatrix.one/en/account/registration/)
+- [Account Registration](https://docs.chatrix.one/en/account/registration/)
 
 - [Required Software (Clients)](https://docs.chatrix.one/en/clients/)
 
