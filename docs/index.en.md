@@ -34,7 +34,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] **DOES NOT** serve to you advertisements, banners and offers;
 - [x] **DOES NOT** require consent and acceptance of insane policy[^3];
 - [x] **Decentralized** architecture;
-- [x] Service based in **Switzerland** - accessible from all over the world;
+- [x] Server located in **Switzerland** - accessible from all over the world;
 - [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^4].
 
 [^1]: For end-to-end encryption, you need to enable [OMEMO](https://docs.chatrix.one/en/faq/#what-is-omemo) or [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) in your **XMPP** client.
