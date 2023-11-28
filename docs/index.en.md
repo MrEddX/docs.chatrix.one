@@ -35,7 +35,8 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 - [x] **DOES NOT** require consent and acceptance of insane policy[^3];
 - [x] **Decentralized** architecture;
 - [x] Server located in **Switzerland** - accessible from all over the world;
-- [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^4].
+- [x] Uses **Ejabberd**, an [open source](https://en.wikipedia.org/wiki/Open_source) platform[^4];
+- [x] 100% compatibility with the available XEPs[^5].
 
 [^1]: For end-to-end encryption, you need to enable [OMEMO](https://docs.chatrix.one/en/faq/#what-is-omemo) or [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) in your **XMPP** client.
 
@@ -44,6 +45,8 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 [^3]: *"I agree to the terms and conditions of use "* is [the biggest lie on the Internet](https://www.biggestlieonline.com/)!
 
 [^4]: [The Source Code](https://en.wikipedia.org/wiki/Source_code) is publicly available on [Github](https://github.com/processone/ejabberd).
+
+[^5]: XMPP Extension Protocols.
 
 <figure markdown>
   ![Gajim Demo](resources/img/gajim.png){ width=600}
