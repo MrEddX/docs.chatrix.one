@@ -33,17 +33,16 @@
 На графиката по-долу е представен принципът на на работа на **XMPP** комуникацията.
 
 ```mermaid
-
 flowchart RL
-    subgraph <b>ИНТЕРНЕТ</b>
-        subgraph Потребители на <b>Chatrix.One</b>
+    subgraph ИНТЕРНЕТ
+        subgraph Потребители на Chatrix.One
         CHATRIX[(<b>XMPP</b> Сървър <br><br> <b>chatrix.one</b>)]
         a((Потребител A)) <-.-> |5222| CHATRIX
         b((Потребител B)) <-.-> |5222| CHATRIX
         c((Потребител C)) <-.-> |5222| CHATRIX
         end
 
-        subgraph Потребители на <b>abc.tld</b>
+        subgraph Потребители на abc.tld
         ABC[(<b>XMPP</b> Сървър <br>fa:fa-server<br> <b>abc.tld</b>)]
         d((Потребител D)) <-..-> |port<br>5222| ABC
         e((Потребител E)) <-..-> |5222| ABC
@@ -58,7 +57,7 @@ flowchart RL
         end
     end
 
-    subgraph <b>ВЪТРЕШНА МРЕЖА</b>
+    subgraph ВЪТРЕШНА МРЕЖА
     LOCAL[(<b>XMPP</b> Сървър <br><br> <b>local.net</b>)]
     i((Потребител I)) <-.-> |5222| LOCAL
     j((Потребител J)) <-.-> |5222| LOCAL
@@ -66,7 +65,6 @@ flowchart RL
     l((Потребител L)) <-.-> |5222| LOCAL
     m((Потребител M)) <-.-> |5222| LOCAL
     end
-
 ```
 
 !!! quote ""

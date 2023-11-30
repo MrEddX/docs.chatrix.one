@@ -33,17 +33,16 @@ The easiest way to explain the principle and advantages of the **XMPP**, is to c
 The diagram below shows the working principle of **XMPP** communication.
 
 ```mermaid
-
 flowchart RL
-     subgraph <b>INTERNET</b>
-         subgraph Users of <b>Chatrix.One</b>
+     subgraph INTERNET
+         subgraph Users of Chatrix.One
          CHATRIX[(<b>XMPP</b> Server <br><br> <b>chatrix.one</b>)]
          a((User A)) <-.-> |5222| CHATRIX
          b((User B)) <-.-> |5222| CHATRIX
          c((User C)) <-.-> |5222| CHATRIX
          end
 
-         subgraph Users of <b>abc.tld</b>
+         subgraph Users of abc.tld
          ABC[(<b>XMPP</b> Server <br>fa:fa-server<br> <b>abc.tld</b>)]
          d((User D)) <-..-> |port<br>5222| ABC
          e((User E)) <-..-> |5222| ABC
@@ -58,7 +57,7 @@ flowchart RL
          end
      end
 
-     subgraph <b>INTERNAL NETWORK</b>
+     subgraph INTERNAL NETWORK
      LOCAL[(<b>XMPP</b> Server <br><br> <b>local.net</b>)]
      i((User I)) <-.-> |5222| LOCAL
      j((User J)) <-.-> |5222| LOCAL
@@ -66,7 +65,6 @@ flowchart RL
      l((User L)) <-.-> |5222| LOCAL
      m((User M)) <-.-> |5222| LOCAL
      end
-
 ```
 
 !!! quote ""
