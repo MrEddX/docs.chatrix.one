@@ -125,6 +125,7 @@ nav:
   - Условия: 'terms.md'
   - Поверителност: 'privacy.md'
   - Статус: 'status.md'
+  - Блог: 'blog.md'
   - За Мен: 'about.md'
 
 # Plugins
@@ -156,6 +157,7 @@ plugins:
             Регистрация: Account Registration
             Смяна на парола: Change Password
             Статус: Status
+            Блог: Blog
             Условия: Terms
             Форма за регистрация: Registration Form
             ЧЗВ: FAQ
