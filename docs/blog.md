@@ -2,7 +2,7 @@
 
 <figure markdown>
    ![Chatrix.One - Блог](resources/img/blog.jpeg){ width="800" }
-   <figcaption>Статии свързани с XMPP, системна администрация, софтуер.</figcaption>
+   <figcaption>XMPP, системна администрация, софтуер и хардуер.</figcaption>
 </figure>
 
 ## Последно от блога
