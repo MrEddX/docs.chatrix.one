@@ -7,6 +7,10 @@
 
 ## Последно от блога
 
+### 2024
+
+- 23.01.2024г. - [SSH-Audit - Инструмент за проверка на сигурността](https://blog.chatrix.one/posts/SSH-Audit/)
+
 ### 2023
 
 - 30.11.2023г. - [Линукс терминал - любими инструменти](https://blog.chatrix.one/posts/LInux-CLI-Tools/)
