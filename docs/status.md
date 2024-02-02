@@ -17,7 +17,7 @@
 
 | Показател                  |Стойност                                             |
 |:---------------------------|:---------------------------------------------------:|
-| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/120/ping?label=) |
+| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/137/ping?label=) |
 | Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24?label=)|
 | Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/168?label=)|
 | Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=)|

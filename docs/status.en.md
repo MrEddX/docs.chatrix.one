@@ -17,7 +17,7 @@
 
 | Indicator |Value |
 |:---------------------------|:---------------------------------------------------:|
-| Average ping for the last 24 hours|![Ping Average](https://uptime.tinyserver.eu/api/badge/120/ping?label=) |
+| Average ping for the last 24 hours|![Ping Average](https://uptime.tinyserver.eu/api/badge/137/ping?label=) |
 | Uptime for the last 24 hours |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24?label=)|
 | Uptime for the last 7 days |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/168?label=)|
 | Uptime for the last 30 days |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=)|
