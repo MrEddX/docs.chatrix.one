@@ -80,4 +80,4 @@ To get registration in **Chatrix.One** it is not necessary to use any of the men
          ```
          Thanks.
          ```
-If you already have an account, the next step is to install the [necessary software (client)](https://docs.chatrix.one/clients/) for communication.
+If you already have an account, the next step is to install the [necessary software (client)](https://docs.chatrix.one/en/clients/) for communication.
