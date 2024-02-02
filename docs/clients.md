@@ -17,21 +17,21 @@
 
 | Клиент   |Безплатен           |  Отворен код       | Линк                                        |
 |:---------|:------------------:|:------------------:|:-------------------------------------------:|
-|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download) |
+|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download){:target="_blank"} |
 
 ### :fontawesome-brands-linux: Linux
 
 | Клиент   | Безплатен          |  Отворен код       | Линк                                         |
 |:---------|:------------------:|:------------------:|:--------------------------------------------:|
-|**Gajim** | :fontawesome-solid-check: |  :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download) |
-|**Dino**  | :fontawesome-solid-check: |  :fontawesome-solid-check: | [**Dino.im**](https://dino.im/#download)    |
+|**Gajim** | :fontawesome-solid-check: |  :fontawesome-solid-check: | [**Gajim.org**](https://gajim.org/download){:target="_blank"} |
+|**Dino**  | :fontawesome-solid-check: |  :fontawesome-solid-check: | [**Dino.im**](https://dino.im/#download){:target="_blank"}    |
 
 ### :fontawesome-brands-apple: macOS
 
 | Клиент   | Безплатен          |  Отворен код       | Линк                                                                           |
 |:---------|:------------------:|:------------------:|:------------------------------------------------------------------------------:|
-|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS) |
-|**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Mac App Store**](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494)|
+|**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Gajim.org**](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS){:target="_blank"} |
+|**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Mac App Store**](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494){:target="_blank"}|
 
 !!! warning "Внимание"
 
@@ -41,24 +41,24 @@
 
 | Клиент           | Безплатен          |  Отворен код       | Линк                                                                |
 |:-----------------|:------------------:|:------------------:|:-------------------------------------------------------------------:|
-|**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**F-droid**](https://f-droid.org/packages/eu.siacs.conversations/) |
-|**Conversations** | **7.79лв**         | :fontawesome-solid-check: | [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
+|**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**F-droid**](https://f-droid.org/packages/eu.siacs.conversations/){:target="_blank"} |
+|**Conversations** | **7.79лв**         | :fontawesome-solid-check: | [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations){:target="_blank"} |
 
 !!! tip "Съвет"
 
-    В случай, че решите да инсталирате **Conversations** от свободния магазин [**F-droid**](https://f-droid.org), можете преди това да инсталирате едноименното  безплатно приложение с отворен код от [официалната страница](https://f-droid.org/F-Droid.apk). По този начин, не само ще можете по-лесно да инсталирате и деинсталирате приложенията, но и ще получавате известие винаги, когато е налична нова версия.
+    В случай, че решите да инсталирате **Conversations** от свободния магазин [**F-droid**](https://f-droid.org){:target="_blank"}, можете преди това да инсталирате едноименното  безплатно приложение с отворен код от [официалната страница](https://f-droid.org/F-Droid.apk){:target="_blank"}. По този начин, не само ще можете по-лесно да инсталирате и деинсталирате приложенията, но и ще получавате известие винаги, когато е налична нова версия.
 
 ### :fontawesome-brands-apple: iOS
 
 | Клиент   | Безплатен          |  Отворен код       | Линк                                                                       |
 |:---------|:------------------:|:------------------:|:--------------------------------------------------------------------------:|
-|**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**App Store**](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) |
+|**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**App Store**](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500){:target="_blank"} |
 
 ### :fontawesome-brands-firefox: Уеб базиран
 
 | Клиент         | Безплатен          |  Отворен код       | Линк                                                         |
 |:---------------|:------------------:|:------------------:|:------------------------------------------------------------:|
-|**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Conversejs.org**](https://conversejs.org/fullscreen.html) |
+|**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Conversejs.org**](https://conversejs.org/fullscreen.html){:target="_blank"} |
 
 !!! info "Информация"
 
@@ -68,14 +68,14 @@
 
 | Клиент       | Безплатен          |  Отворен код       | Линк                                                                       |
 |:-------------|:------------------:|:------------------:|:---------------------------------------------------:|
-|**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Profanity-IM**](https://profanity-im.github.io/) |
+|**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**Profanity-IM**](https://profanity-im.github.io/){:target="_blank"} |
 
 !!! info "Информация"
 
     Терминалният клиент **Profanity** е наличен за: **Linux, FreeBSD, OpenBSD, OSX, Windows и Android**[^1].
 
-[^1]: Под **Android** това става чрез приложението [**Termux**](https://play.google.com/store/apps/details?id=com.termux).
+[^1]: Под **Android** това става чрез приложението [**Termux**](https://play.google.com/store/apps/details?id=com.termux){:target="_blank"}.
 
-Списък с клиенти, за различни операционни системи, е наличен на официалната страница на [**XMPP**](https://xmpp.org/software/). Имайте предвид, че не всички клиенти са напълно съвместими с последните стандарти на протокола. Актуална информация относно съвместимостта на клиентите, с метода на криптиране **ОМЕМО**, е достъпна на страницата [**Are we OMEMO yet?**](https://omemo.top/)
+Списък с клиенти, за различни операционни системи, е наличен на официалната страница на [**XMPP**](https://xmpp.org/software/){:target="_blank"}. Имайте предвид, че не всички клиенти са напълно съвместими с последните стандарти на протокола. Актуална информация относно съвместимостта на клиентите, с метода на криптиране **ОМЕМО**, е достъпна на страницата [**Are we OMEMO yet?**](https://omemo.top/){:target="_blank"}
 
 Статията [Често задавани въпроси](https://docs.chatrix.one/faq/) е допълнителен ресурс, за потребителите желаещи да се запознаят с повече подробности, относно предлаганата **XMPP** услуга на **Chatrix.One**.

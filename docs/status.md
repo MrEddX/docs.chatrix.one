@@ -26,7 +26,7 @@
 
 | Тест                 |Резултат                                                                   |
 |:---------------------|--------------------------------------------------------------------------:|
-| **XMPP** Съответствие| ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
+| **XMPP** Съответствие| ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one){:target="_blank"} |
 |**SRV** Записи / Достъп| <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height='18px' alt='xmpp.love score'></a> |
 
 ## Достъпност - Интернет страница
@@ -74,26 +74,26 @@
 
 ### 14.11.2023
 
-#### Обновяване на Ejabberd до версия [23.10](https://github.com/processone/ejabberd/releases/tag/23.10)
+#### Обновяване на Ejabberd до версия [23.10](https://github.com/processone/ejabberd/releases/tag/23.10){:target="_blank"}
 
 - Добавена е поддръжка за **XEP-0402: PEP Native Bookmarks**, което е значително подобрение спрямо **XEP-0048: Bookmark Storage**. Определя начина, по който се съхраняват отметките.
 - Ново: `mod_muc_occupantid` с поддръжка за **XEP-0421: Occupant Id**. Използва се за анонимни стаи **MUC**, коригиране на съобщения и оттегляне на съобщения. В момента единственият клиент, за който е установено, че поддържа **XEP-0421**, е **Dino** - версия 0.4 и по-нови.
-- Много нови опции и функции. За повече информация, вижте официалната статия в сайта на [**ProcessOne**](https://www.process-one.net/) за новостите във версия [23.10](https://www.process-one.net/blog/ejabberd-23-10/)
+- Много нови опции и функции. За повече информация, вижте официалната статия в сайта на [**ProcessOne**](https://www.process-one.net/){:target="_blank"} за новостите във версия [23.10](https://www.process-one.net/blog/ejabberd-23-10/){:target="_blank"}
 
 ### 26.04.2023
 
-#### Обновяване на Ejabberd до версия [23.04](https://github.com/processone/ejabberd/releases/tag/23.04)
+#### Обновяване на Ejabberd до версия [23.04](https://github.com/processone/ejabberd/releases/tag/23.04){:target="_blank"}
 
 - Много подобрения в **SQL** базата данни
-- Ново: `mod_mam` поддръжка на **[XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html)**
+- Ново: `mod_mam` поддръжка на **[XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html){:target="_blank"}**
 - Ново: `mod_muc_rtbl` поддръжка на **Real-Time Block List for MUC rooms**
 
 ### 20.01.2023
 
-#### Обновяване на Ejabberd до версия [23.01](https://github.com/processone/ejabberd/releases/tag/23.01)
+#### Обновяване на Ejabberd до версия [23.01](https://github.com/processone/ejabberd/releases/tag/23.01){:target="_blank"}
 
 - Ново: Отворена е регистрацията, посредством онлайн формата или инсталиран клиент, защитена чрез **CAPTCHA** предизвикателство
 
 ### 30.10.2022
 
-#### Обновяване на Ejabberd до версия [22.10](https://github.com/processone/ejabberd/releases/tag/22.10)
+#### Обновяване на Ejabberd до версия [22.10](https://github.com/processone/ejabberd/releases/tag/22.10){:target="_blank"}
