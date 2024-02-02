@@ -26,7 +26,7 @@
 
 ## Защо **Chatrix.One?**
 
-- [x] Използва утвърдена [**XMPP**](https://xmpp.org/about/technology-overview/){:target="_blank"} технология;
+- [x] Използва утвърдена [**XMPP**](https://xmpp.org/about/technology-overview/) технология;
 - [x] Възможност за криптиране от край до край с **OMEMO** или **OpenPGP**;[^1]
 - [x] Криптирани аудио и видео разговори (**DTLS-SRTP**);
 - [x] **ЦЕНИ** и **УВАЖАВА** личното пространство;[^2]
