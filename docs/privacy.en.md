@@ -35,7 +35,7 @@ As an operator of service representing an alternative to the available methods o
 
 - **IP** address of newly registered customer - for one hour in order to limit the number of registrations;
 - **IP** addresses of incorrect access attempts - up to six hours;
-- Message history - four weeks, but you can disable from your application (software) settings. For more information, see [How do I turn off message archiving?](https://docs.chatrix.one/en/faq/#how-do-i-turn-off-message-archiving);
+- Message history - four weeks, but you can disable from your application (software) settings. For more information, see [How do I turn off message archiving?](https://docs.chatrix.one/faq/#_28);
 - Time of the last login to the system (to detect inactive users);
 - Profile information and avatar;
 - Contacts and **MUC** added to profile;
