@@ -28,7 +28,7 @@ In case of technical problems, as well as if you need help in connection with th
 
      **XMPP** - **Ex**tensible **M**essaging and **P**resence **P**rotocol
 
-The easiest way to explain the principle and advantages of the **XMPP**, is to compare it to email. If you want to create your own email address, it is enough to choose a provider (server) and register a profile (account). For example, in *yahoo.com*, *gmail.com*, *hotmail.com* or another. The name of your chosen profile together with the address of the provider connected by the symbol :fontawesome-solid-at: forms your email address. For example *james@yahoo.com*. From now on, you can now exchange emails with users registered on different servers without a problem. A user of *yahoo.com* can write an email to a user of *gmail.com* or any other provider. This is possible because providers exchange messages with each other without the user being involved in any way. The advantages are obvious. Users are free to choose their provider and yet anyone can communicate with anyone. Sending messages requires nothing more than an email account with any provider and a recipient address. **XMPP** also works on a similar principle. You choose a server and get the freedom to communicate with users from other servers. In addition to being able to create multiple accounts with one provider, it is also possible to create multiple accounts with different providers. Whether it makes sense is another matter. It is possible for the **XMPP** service to be limited only within an organization's internal network. Direct access via the Internet to such a server is not possible. Communication takes place only between employees and if they are connected to the internal network, either directly or via [VPN](https://en.wikipedia.org/wiki/Virtual_private_network){:target="_blank"}.
+The easiest way to explain the principle and advantages of the **XMPP**, is to compare it to email. If you want to create your own email address, it is enough to choose a provider (server) and register a profile (account). For example, in *yahoo.com*, *gmail.com*, *hotmail.com* or another. The name of your chosen profile together with the address of the provider connected by the symbol :fontawesome-solid-at: forms your email address. For example *james@yahoo.com*. From now on, you can now exchange emails with users registered on different servers without a problem. A user of *yahoo.com* can write an email to a user of *gmail.com* or any other provider. This is possible because providers exchange messages with each other without the user being involved in any way. The advantages are obvious. Users are free to choose their provider and yet anyone can communicate with anyone. Sending messages requires nothing more than an email account with any provider and a recipient address. **XMPP** also works on a similar principle. You choose a server and get the freedom to communicate with users from other servers. In addition to being able to create multiple accounts with one provider, it is also possible to create multiple accounts with different providers. Whether it makes sense is another matter. It is possible for the **XMPP** service to be limited only within an organization's internal network. Direct access via the Internet to such a server is not possible. Communication takes place only between employees and if they are connected to the internal network, either directly or via [VPN](https://en.wikipedia.org/wiki/Virtual_private_network).
 
 The diagram below shows the working principle of **XMPP** communication.
 
@@ -76,13 +76,13 @@ flowchart RL
      - Server-server communication (**s2s**) takes place on port 5269;<br>
      - Subscribers can have more than one profile, both with one and with several **XMPP** providers.
 
-A list of free **XMPP** servers can be found on the folowing pages [XMPP Compliance Tester](https://compliance.conversations.im/){:target="_blank"} and [Jabber.at](https://list.jabber.at/){:target="_blank"}. You can also read more information about the **XMPP** protocol in [Wikipedia](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol){:target="_blank"}.
+A list of free **XMPP** servers can be found on the folowing pages [XMPP Compliance Tester](https://compliance.conversations.im/) and [Jabber.at](https://list.jabber.at/). You can also read more information about the **XMPP** protocol in [Wikipedia](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
 * * *
 
 ## How long has **XMPP** been around?
 
-The protocol was born in 1998, but it actually started functioning as a platform in 1999. The history is available on the official page of [XMPP](https://xmpp.org/about/history/){:target="_blank"}.
+The protocol was born in 1998, but it actually started functioning as a platform in 1999. The history is available on the official page of [XMPP](https://xmpp.org/about/history/).
 
 * * *
 
@@ -105,13 +105,13 @@ More prominent organizations using **XMPP** on a daily basis are:
 | GMX | - | - | - |
 | Orange | - | - | - |
 
-For more details, see [RST Software](https://www.rst.software/blog/22-companies-using-xmpp-and-ejabberd-to-build-instant-messaging-services){:target="_blank"} page.
+For more details, see [RST Software](https://www.rst.software/blog/22-companies-using-xmpp-and-ejabberd-to-build-instant-messaging-services) page.
 
 * * *
 
 ## What is **OMEMO**?
 
-**OMEMO** is a method of double encryption of end-to-end communication. Encryption keys are automatically generated for each message, making communication even more secure. In other words, even if one message is compromised, the rest of the communication remains unaffected. Additional information about the method can be found on [Wikipedia](https://en.wikipedia.org/wiki/OMEMO){:target="_blank"} and on the **Conversations** website under the [OMEMO]( https://conversations.im/omemo/){:target="_blank"}.
+**OMEMO** is a method of double encryption of end-to-end communication. Encryption keys are automatically generated for each message, making communication even more secure. In other words, even if one message is compromised, the rest of the communication remains unaffected. Additional information about the method can be found on [Wikipedia](https://en.wikipedia.org/wiki/OMEMO) and on the **Conversations** website under the [OMEMO]( https://conversations.im/omemo/).
 
 * * *
 
@@ -141,7 +141,7 @@ I use **Gajim** under **Windows** and **Linux**. For **Android** I use **Convers
 
 ## Why choose a paid version when there is a free one?
 
-Personally, I have chosen the paid version of **Conversations** because in this way I support the developer of the application [Daniel Gultsch](https://gultsch.de/){:target="_blank"} who contributed a lot to the development of **XMPP** in recent years. He is also credited with implementing **OMEMO** as a standard in **XMPP** communication. Ultimately, the choice is entirely yours.
+Personally, I have chosen the paid version of **Conversations** because in this way I support the developer of the application [Daniel Gultsch](https://gultsch.de/) who contributed a lot to the development of **XMPP** in recent years. He is also credited with implementing **OMEMO** as a standard in **XMPP** communication. Ultimately, the choice is entirely yours.
 
 * * *
 
@@ -153,46 +153,46 @@ Detailed information about the clients available for working with **Chatrix.One*
 
      | Client |Free | Open Source | Link |
      |:---------|:------------------:|:------------------:|:-------------------------------------------:|
-     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download){:target="_blank"} |
+     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
 
 === ":fontawesome-brands-linux: Linux"
 
      | Client | Free | Open Source | Link |
      |:---------|:------------------:|:------------------:|:---------------------------------------------------------: |
-     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download){:target="_blank"} |
-     |**Dino** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Dino.im](https://dino.im/#download){:target="_blank"} |
+     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://gajim.org/download) |
+     |**Dino** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Dino.im](https://dino.im/#download) |
 
 === ":fontawesome-brands-apple: macOS"
 
      | Client | Free | Open Source | Link |
      |:---------|:------------------:|:------------------:|------------------------------------------------ ---------------------------:|
-     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS){:target="_blank"} |
-     |**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Mac App Store](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494){:target="_blank"} |
+     |**Gajim** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Gajim.org](https://dev.gajim.org/gajim/gajim/-/wikis/help/Gajim-on-macOS) |
+     |**Beagle IM** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Mac App Store](https://apps.apple.com/us/app/beagleim-by-tigase-inc/id1445349494) |
 
 === ":fontawesome-brands-google-play: Android"
 
      | Client | Free | Open Source | Link |
      |:-----------------|:------------------:|:------------------:|:-------------------------------------- ------------------------------:|
-     |**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [F-droid](https://f-droid.org/packages/eu.siacs.conversations/){:target="_blank"} |
-     |**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations){:target="_blank"} |
+     |**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [F-droid](https://f-droid.org/packages/eu.siacs.conversations/) |
+     |**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
 
 === ":fontawesome-brands-apple: iOS"
 
      | Client | Free | Open Source | Link |
      |:---------|:------------------:|:------------------:|:------------------------------------------------ -----------------------------:|
-     |**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [App Store](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500){:target="_blank"} |
+     |**Monal** | :fontawesome-solid-check: | :fontawesome-solid-check: | [App Store](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) |
 
 === ":fontawesome-brands-firefox: Web"
 
      | Client | Free | Open Source | Link |
      |:--------------|:------------------:|:------------------:|:---------------------------------------- ---------------------:|
-     |**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Conversejs.org](https://conversejs.org/fullscreen.html){:target="_blank"} |
+     |**Converse.js** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Conversejs.org](https://conversejs.org/fullscreen.html) |
 
 === ":fontawesome-solid-terminal: CLI"
 
      | Client | Free | Open Source | Link |
      |:-------------|:------------------:|:------------------:|:-------------------------------------------------- ----------:|
-     |**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Profanity-IM](https://profanity-im.github.io/){:target="_blank"} |
+     |**Profanity** | :fontawesome-solid-check: | :fontawesome-solid-check: | [Profanity-IM](https://profanity-im.github.io/) |
 
 * * *
 
@@ -214,7 +214,7 @@ Customers with 100% OMEMO compatibility:
 - **Chat Secure**;
 - **Profanity**.
 
-The ones listed above have been tested with the exception of **Monal** and **Chat Secure**. A detailed list of clients and their compatibility is available at [Are We OMEMO Yet?](https://omemo.top/){:target="_blank"}.
+The ones listed above have been tested with the exception of **Monal** and **Chat Secure**. A detailed list of clients and their compatibility is available at [Are We OMEMO Yet?](https://omemo.top/).
 
 * * *
 
@@ -230,13 +230,13 @@ If messages in **Conversations** are accompanied by *"shield with a checkmark"* 
 
 ## Can I use another encryption method?
 
-You can also use **OpenPGP**, but I recommend that you familiarize yourself with the possible security issues of this method first. For more information see the module page - [XEP-0027: Current Jabber OpenPGP Usage](https://xmpp.org/extensions/xep-0027.html){:target="_blank"} and specifically the [Security Considerations](https://xmpp.org/extensions/xep-0027.html#security){:target="_blank"}.
+You can also use **OpenPGP**, but I recommend that you familiarize yourself with the possible security issues of this method first. For more information see the module page - [XEP-0027: Current Jabber OpenPGP Usage](https://xmpp.org/extensions/xep-0027.html) and specifically the [Security Considerations](https://xmpp.org/extensions/xep-0027.html#security).
 
 * * *
 
 ## Can I use **OTR** encryption?
 
-Support for the **OTR** encryption method has been discontinued due to its vulnerability to [Man-In-The-Middle](https://en.wikipedia.org/wiki/Man-in- the-middle_attack){:target="_blank"}. For more information see the module page - [XEP-0364: Current Off-the-Record Messaging Usage](https://xmpp.org/extensions/xep-0364.html){:target="_blank"} and specifically the part [Security Considerations](https://xmpp.org/extensions/xep-0364.html#security){:target="_blank"}.
+Support for the **OTR** encryption method has been discontinued due to its vulnerability to [Man-In-The-Middle](https://en.wikipedia.org/wiki/Man-in- the-middle_attack). For more information see the module page - [XEP-0364: Current Off-the-Record Messaging Usage](https://xmpp.org/extensions/xep-0364.html) and specifically the part [Security Considerations](https://xmpp.org/extensions/xep-0364.html#security).
 
 * * *
 
@@ -258,7 +258,7 @@ If I don't know you personally, you will have to remember it. Otherwise, registe
 
 !!! tip "Tip"
 
-      Next time, use password management software (**Password Manager**). I would recommend [Bitwarden](https://bitwarden.com/){:target="_blank"}.
+      Next time, use password management software (**Password Manager**). I would recommend [Bitwarden](https://bitwarden.com/).
 
 * * *
 
@@ -282,7 +282,7 @@ You can also change your password using the online password change form [here](h
 
 ## Is two-factor authentication supported?
 
-[Second Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication){:target="_blank"}, also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [Registration](https://docs.chatrix.one/en/account/registration/) section.
+[Second Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication), also known as **Multi Factor Authentication** (**2FA**, **MFA**), is currently not integrated into the **XMPP** service offered by **Chatrix.One**. Authentication is done with username and password only. It is for this reason that I advise you to be judicious in choosing a password. Advice on choosing a password can be found in the [Registration](https://docs.chatrix.one/en/account/registration/) section.
 
 * * *
 
@@ -311,13 +311,13 @@ You can write in any language you want, as long as you follow the [Terms](https:
 
 ## On how many devices can I use the service?
 
-You have virtually no limits. Just keep in mind that adding each new device leads to a loss of trust in your correspondents. In other words, they will have to trust you again, either by "blind trust" or by scanning a [QR](https://en.wikipedia.org/wiki/QR_code){:target="_blank"} code from the screen of one of your active devices.
+You have virtually no limits. Just keep in mind that adding each new device leads to a loss of trust in your correspondents. In other words, they will have to trust you again, either by "blind trust" or by scanning a [QR](https://en.wikipedia.org/wiki/QR_code) code from the screen of one of your active devices.
 
 * * *
 
 ## What does **Blind Trust** mean?
 
-In short, it's a way to trust a device owned by the person you're communicating with, without being 100% sure that it's really them on the other end. The most secure way to trust is by scanning the **QR** code from the screen of a device owned by your correspondent. It is enough to scan only one of the devices. You'll notice that the more devices you own, the more complex the **QR** code becomes. This is because it contains the IDs of all the devices on your account. Detailed information can be found in the publication [Blind Trust Before Verification](https://gultsch.de/trust.html){:target="_blank"} by **Daniel Gultsch**.
+In short, it's a way to trust a device owned by the person you're communicating with, without being 100% sure that it's really them on the other end. The most secure way to trust is by scanning the **QR** code from the screen of a device owned by your correspondent. It is enough to scan only one of the devices. You'll notice that the more devices you own, the more complex the **QR** code becomes. This is because it contains the IDs of all the devices on your account. Detailed information can be found in the publication [Blind Trust Before Verification](https://gultsch.de/trust.html) by **Daniel Gultsch**.
 
 * * *
 
@@ -415,7 +415,7 @@ You are probably using a device with an outdated operating system (**Android** 6
 
 !!! warning "Caution"
 
-     Before manually accepting a certificate, you **must** pay attention and make sure it is registered for the following domains: `chatrix.one`, `conference.chatrix.one`, `pubsub.chatrix.one`, `proxy.chatrix .one` and `upload.chatrix.one`. Otherwise, you may become a victim of the so-called [Man-In-The-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack){:target="_blank"} hacking attack.
+     Before manually accepting a certificate, you **must** pay attention and make sure it is registered for the following domains: `chatrix.one`, `conference.chatrix.one`, `pubsub.chatrix.one`, `proxy.chatrix .one` and `upload.chatrix.one`. Otherwise, you may become a victim of the so-called [Man-In-The-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) hacking attack.
 
 * * *
 
@@ -449,7 +449,7 @@ Detailed information can be found in the [Privacy](https://docs.chatrix.one/en/p
 
 ## What data is transferred to enable **Push Notifications**?
 
-You can read a detailed description on the **Github** application page [Conversations](https://github.com/iNPUTmice/p2/blob/master/README.md#conversations-push-proxy){:target="_blank"}.
+You can read a detailed description on the **Github** application page [Conversations](https://github.com/iNPUTmice/p2/blob/master/README.md#conversations-push-proxy).
 
 * * *
 
@@ -511,32 +511,32 @@ Because at the moment I can afford it.
 
 ## How secure is the service?
 
-The current **XMPP** standards allow very secure messaging - you just have to use them! I always use the latest encryption methods on the server and block connection establishment through insecure channels. In order to reduce the scope for hackers, I have disabled **SSH** access as well as web-based server administration. The firewall is set as restrictive as possible. Communication is secured by **TLS** certificate from [ZeroSSL](https://zerossl.com/){:target="_blank"} and [Let's Encrypt](https://letsencrypt.org/){:target="_blank"}. Key exchange is via [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie-Hellman){:target="_blank"}.
+The current **XMPP** standards allow very secure messaging - you just have to use them! I always use the latest encryption methods on the server and block connection establishment through insecure channels. In order to reduce the scope for hackers, I have disabled **SSH** access as well as web-based server administration. The firewall is set as restrictive as possible. Communication is secured by **TLS** certificate from [ZeroSSL](https://zerossl.com/) and [Let's Encrypt](https://letsencrypt.org/). Key exchange is via [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie-Hellman).
 
 * * *
 
 ## How stable is the service?
 
-My observations on **XMPP** based service since 2018. to date show that the service is extremely stable. At the moment, the system has enough [RAM](https://en.wikipedia.org/wiki/Random-access_memory){:target="_blank"} memory, so that it can accommodate several thousand active users at the same time.
+My observations on **XMPP** based service since 2018. to date show that the service is extremely stable. At the moment, the system has enough [RAM](https://en.wikipedia.org/wiki/Random-access_memory) memory, so that it can accommodate several thousand active users at the same time.
 
 * * *
 
 ## Are you up to date with the latest developments 
 in **XMPP**?
 
-As soon as it is technically possible and reasonable, new **XMPP** extensions and best practices will be implemented on this server. For me, full compatibility with the flagship **Conversations** project, which has undoubtedly helped **XMPP** reach new heights in recent years, is important. **Chatrix.One** test result can be seen online [XMPP Compliance Report](https://compliance.conversations.im/server/chatrix.one/){:target="_blank"}.
+As soon as it is technically possible and reasonable, new **XMPP** extensions and best practices will be implemented on this server. For me, full compatibility with the flagship **Conversations** project, which has undoubtedly helped **XMPP** reach new heights in recent years, is important. **Chatrix.One** test result can be seen online [XMPP Compliance Report](https://compliance.conversations.im/server/chatrix.one/).
 
 * * *
 
 ## What database are you using?
 
-I am using [PostgreSQL](https://www.postgresql.org/){:target="_blank"}.
+I am using [PostgreSQL](https://www.postgresql.org/).
 
 * * *
 
 ## Are passwords stored in readable form?
 
-No. Passwords are encrypted using the [SCRAM-SHA1](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)){:target="_blank"} mechanism.
+No. Passwords are encrypted using the [SCRAM-SHA1](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)) mechanism.
 
 * * *
 
@@ -561,7 +561,7 @@ At the moment I am the only person, which has its advantages and disadvantages.
 
 !!! warning "Caution!"
 
-     Main Drawback: [Bus Factor](https://en.wikipedia.org/wiki/Bus_factor){:target="_blank"} = 1
+     Main Drawback: [Bus Factor](https://en.wikipedia.org/wiki/Bus_factor) = 1
 
 * * *
 
@@ -580,16 +580,16 @@ There are many reasons for my decision to choose **Ejabberd**. Most of them are 
 - Cannot be upgraded in a cluster;
 - In the future, if there is a need, I would not be able to provide a service of the **High Availability** type;
 - Sometimes not keeping up with the new **XMPP** standards required by the **Conversations** app for **Android**;
-- For voice and video connection requires installation of additional [STUN](https://en.wikipedia.org/wiki/STUN){:target="_blank"}/[TURN](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT){:target="_blank"} server.
+- For voice and video connection requires installation of additional [STUN](https://en.wikipedia.org/wiki/STUN)/[TURN](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT) server.
 
 **Ejabberd** has some advantages over **Prosody**:
 
 - Developers have many years of experience with **XMPP** - **Ejabberd** is a very mature platform;
-- The [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)){:target="_blank"} language, in which **Ejabberd** is written, was created exactly for this kind of applications and is known for its high performance;
+- The [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) language, in which **Ejabberd** is written, was created exactly for this kind of applications and is known for its high performance;
 - **Ejabberd** uses all available CPU cores;
 - Can be integrated into a cluster;
-- It has been used for many years by large [corporations](https://www.rst.software/blog/22-companies-using-xmpp-and-ejabberd-to-build-instant-messaging-services){:target="_blank"}, which confirms its stability;
-- Supported by the company [ProcessOne](https://www.process-one.net/){:target="_blank"} which has a clear funding mechanism;
+- It has been used for many years by large [corporations](https://www.rst.software/blog/22-companies-using-xmpp-and-ejabberd-to-build-instant-messaging-services), which confirms its stability;
+- Supported by the company [ProcessOne](https://www.process-one.net/) which has a clear funding mechanism;
 - **Conversation.im** uses **Ejabberd** and in development the vendor refers to it instead of **Prosody**.
 
 Do not get me wrong. I still see in **Prosody** a wonderful opportunity to create an **XMPP** server. I even still maintain and use one. It is an indisputable fact that it is extremely easy to work with.
@@ -616,7 +616,7 @@ At the moment, the following services are functioning on this domain:
 
 ## Are you planning to have a a free **Matrix** server with public access?
 
-Currently [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)){:target="_blank"} is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
+Currently [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
 
 * * *
 
@@ -656,7 +656,7 @@ The service is monitored around the clock on many different indicators. Besides,
 
 ## Is the service available outside Bulgaria?
 
-You can use **Chatrix.One** from anywhere in the world. There are currently no [GeoIP](https://en.wikipedia.org/wiki/Geo-blocking){:target="_blank"} traffic blocking rules applied.
+You can use **Chatrix.One** from anywhere in the world. There are currently no [GeoIP](https://en.wikipedia.org/wiki/Geo-blocking) traffic blocking rules applied.
 
 * * *
 

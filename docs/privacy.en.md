@@ -19,7 +19,7 @@ As an operator of service representing an alternative to the available methods o
 
 !!! tip "Tip"
 
-     Use password management software (**Password Manager**). I would recommend [Bitwarden](https://bitwarden.com/){:target="_blank"}.
+     Use password management software (**Password Manager**). I would recommend [Bitwarden](https://bitwarden.com/).
 
 - In order to maintain synchronization of messages between several devices and to exchange messages even when two subscribers are not online at the same time, messages are stored on the server for a period of up to 4 weeks. This feature is called **MAM** (**M**essage **A**rchive **M**anagement) and is enabled by default, both for individual calls and **MUC** (**M**ulti **U**ser **C**hats) also known as **Chatrooms** to offer a commercial messenger-like user experience, especially to inexperienced **XMPP** users. For your own security, you can use **OMEMO** (end-to-end encryption) to keep your conversations safe even if my server's security systems become compromised. If you do not want your data to be stored on the server, see the section [Frequently Asked Questions](https://docs.chatrix.one/en/faq/) and specifically the part [How do I turn off message archiving?](https://docs.chatrix.one/en/faq/#how-do-i-turn-off-message-archiving);
 

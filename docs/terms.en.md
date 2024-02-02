@@ -5,7 +5,7 @@
 
 In general, I am far from the thought of imposing any restrictions. However, practice has shown that in order for a community to exist and function, the presence and observance of certain rules is mandatory. The **XMPP** service offered by **Chatrix.One** is no exception. Precisely for this reason, I recommend that you familiarize yourself with the rules that **every** user, moderator or administrator must follow.
 
-## [TL;DR](https://bg.wikipedia.org/wiki/TL;DR){:target="_blank"}
+## [TL;DR](https://bg.wikipedia.org/wiki/TL;DR)
 
 - Do not exercise unauthorized access;
 - Respect other users and be tolerant;
@@ -20,7 +20,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Illegal access to the service;
 - Messages containing offensive and obscene phrases, racist or other similar definitions, leading to harassment of other users of the service;
 - The publication of advertising articles and materials without the approval of an administrator;
-- Sending [Spam](https://en.wikipedia.org/wiki/Spam){:target="_blank"} messages;
+- Sending [Spam](https://en.wikipedia.org/wiki/Spam) messages;
 - Registration of more than one profile for one individual, without permission from an administrator;
 - Registering an account whose name resembles an administrator account;
 - Publication of pornographic content - especially that involving minors[^1];
@@ -41,7 +41,7 @@ Your account will be marked for deletion if any of the following events occur:
 
 ## Reporting a violation
 
-In case you wish to report a violation, please send an email or **XMPP** message to an administrator. The report must be accompanied by proof in the form of a screenshot - [Screenshot](https://en.wikipedia.org/wiki/Screenshot){:target="_blank"}, which unequivocally shows the violation you described.
+In case you wish to report a violation, please send an email or **XMPP** message to an administrator. The report must be accompanied by proof in the form of a screenshot - [Screenshot](https://en.wikipedia.org/wiki/Screenshot), which unequivocally shows the violation you described.
 
 !!! warning "Caution"
 

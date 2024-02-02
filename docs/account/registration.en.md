@@ -5,7 +5,7 @@
    <figcaption>Account registration on <b>Chatrix.One</b></figcaption>
 </figure>
 
-Personal data is **not** required to register a **Chatrix.One** account. You don't need to provide a phone number, credit card details or address. If you choose to register by email using a temporary email service such as [10 Minute mail](https://10minutemail.com/){:target="_blank"} or [Temp Mail](https://temp-mail.org/){:target="_blank"}, please note that I may not always be able to respond to the moment. For this very reason, it would be more practical to use a real email address. It will not be stored in a database, nor will it be used for advertising campaigns or any other purpose. **Chatrix.One** **does not** sell and **does not** provide information to third parties! You will only receive an email with a password for the username you have chosen.
+Personal data is **not** required to register a **Chatrix.One** account. You don't need to provide a phone number, credit card details or address. If you choose to register by email using a temporary email service such as [10 Minute mail](https://10minutemail.com/) or [Temp Mail](https://temp-mail.org/), please note that I may not always be able to respond to the moment. For this very reason, it would be more practical to use a real email address. It will not be stored in a database, nor will it be used for advertising campaigns or any other purpose. **Chatrix.One** **does not** sell and **does not** provide information to third parties! You will only receive an email with a password for the username you have chosen.
 
 !!! info "Information"
 
@@ -20,12 +20,12 @@ After a successful initial login to the system, I recommend that you change the 
      Avoid hard to remember but easy to crack passwords!
      For example: `Sq@-!@#!`. Such a password is cracked in **minutes** or **hours**!
 
-To test the strength of your password, you can use online tools such as [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/){:target="_blank"} and [ Have i been pwned?](https://haveibeenpwned.com/){:target="_blank"}. They are useful in case you want to find out how long does it take for your chosen password to be cracked, as well as to check if it has already been compromised in a previous password breach.
+To test the strength of your password, you can use online tools such as [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) and [ Have i been pwned?](https://haveibeenpwned.com/). They are useful in case you want to find out how long does it take for your chosen password to be cracked, as well as to check if it has already been compromised in a previous password breach.
 
 !!! tip "Tip"
 
      Avoid using one password for everything!
-     Use password management software (**Password Manager**). This way, you will be able to easily generate different passwords for each account or application. Most importantly, you won't need to remember them. I would recommend [Bitwarden](https://bitwarden.com/){:target="_blank"}.
+     Use password management software (**Password Manager**). This way, you will be able to easily generate different passwords for each account or application. Most importantly, you won't need to remember them. I would recommend [Bitwarden](https://bitwarden.com/).
 
 ## Ways to register an account
 
