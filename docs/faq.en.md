@@ -443,7 +443,7 @@ For other customers, the procedure is similar.
 
 ## What data do you store on the server?
 
-Detailed information can be found in the [Privacy](https://docs.chatrix.one/en/privacy/#overview-of-the-stored-data) article.
+Detailed information can be found in the [Privacy](https://docs.chatrix.one/en/privacy/#view-stored-data) article.
 
 * * *
 
