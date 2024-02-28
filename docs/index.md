@@ -55,8 +55,8 @@
 ## Използвани технологии
 
 <figure markdown>
-  ![Technologies](resources/img/technologies_light.png#only-light){ width="450" }
-  ![Technologies](resources/img/technologies_dark.png#only-dark){ width="450" }
+  ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }
+  ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
 </figure>
 
 ## Как да използвам **Chatrix.One**?
