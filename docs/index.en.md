@@ -52,7 +52,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
   ![Gajim Demo](resources/img/gajim.png){ width=600}
 </figure>
 
-## Technologies Used
+## Which technologies does the service rely on?
 
 <figure markdown>
   ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }

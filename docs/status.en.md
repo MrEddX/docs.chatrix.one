@@ -72,6 +72,18 @@
 
 ## Update history
 
+### 29.02.2023
+
+#### Update Ejabberd to version [24.02](https://github.com/processone/ejabberd/releases/tag/24.02)
+
+- New: Matrix Federation - Provides the ability to connect to Matrix servers.
+- Improved communication security by supporting TLS 1.3 and SASL2.
+- Improved performance by implementing Bind 2.
+- Better message control: Support for XEP-0424 (message retraction). It allows users to manage their message history and remove anything they posted by mistake.
+- Optimized server ping via XEP-0198.
+- Streamlined API versioning.
+- Enhanced Elixir, Mix and Rebar3 Support.
+
 ### 14.11.2023
 
 #### Updated Ejabberd to version [23.10](https://github.com/processone/ejabberd/releases/tag/23.10)
