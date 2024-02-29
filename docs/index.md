@@ -52,7 +52,7 @@
   ![Gajim Demo](resources/img/gajim.png){ width=600}
 </figure>
 
-## На кои технологии разчита услугата?
+## Технологии стоящи зад услугата
 
 <figure markdown>
   ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }
