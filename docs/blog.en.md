@@ -13,6 +13,8 @@
 
 ### 2024
 
+- 02.04.2024г. - [Chatrix.One is not affected by CVE-2024-3094](https://blog.chatrix.one/posts/ChatrixOne-CVE-2024-3094/)
+
 - 23.01.2024 - [SSH-Audit - Security Audit Tool](https://blog.chatrix.one/posts/SSH-Audit/)
 
 ### 2023
