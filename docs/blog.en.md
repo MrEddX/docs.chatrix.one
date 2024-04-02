@@ -20,6 +20,7 @@
 ### 2023
 
 - 30.11.2023 - [Linux Terminal - Favorite Tools](https://blog.chatrix.one/posts/LInux-CLI-Tools/)
+- 25.10.2023 - [MITM attack against Jabber.ru](https://blog.chatrix.one/posts/MITM-Attack/)
 
 ### 2022
 

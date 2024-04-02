@@ -17,6 +17,8 @@
 
 - 30.11.2023г. - [Линукс терминал - любими инструменти](https://blog.chatrix.one/posts/LInux-CLI-Tools/)
 
+- 25.10.2023г. - [MITM атаката спрямо Jabber.ru](https://blog.chatrix.one/posts/MITM-Attack/)
+
 ### 2022
 
 - 09.06.2022г. - [Онлайн инструменти за оператори на XMPP сървър](https://blog.chatrix.one/posts/%D0%9Enline-tools-for-XMPP-server-operators/)
