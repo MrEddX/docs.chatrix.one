@@ -109,3 +109,10 @@
 ### 30.10.2022
 
 #### Обновяване на Ejabberd до версия [22.10](https://github.com/processone/ejabberd/releases/tag/22.10)
+
+### 16.08.2022
+
+#### Мигриране на услугата от Prosody [0.12.1](https://prosody.im/doc/release/0.12.1)] към EJabberd [22.05](https://github.com/processone/ejabberd/releases/tag/22.05)
+
+- Нов виртуален сървър в швейцарския център за данни на ORACLE Cloud
+- Нов домейн

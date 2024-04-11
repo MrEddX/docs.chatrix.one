@@ -111,7 +111,7 @@ For more details, see [RST Software](https://www.rst.software/blog/22-companies-
 
 ## What is **OMEMO**?
 
-**OMEMO** is a method of double encryption of end-to-end communication. Encryption keys are automatically generated for each message, making communication even more secure. In other words, even if one message is compromised, the rest of the communication remains unaffected. Additional information about the method can be found on [Wikipedia](https://en.wikipedia.org/wiki/OMEMO) and on the **Conversations** website under the [OMEMO]( https://conversations.im/omemo/).
+**OMEMO** is a method of double encryption of end-to-end communication. Encryption keys are automatically generated for each message, making communication even more secure. In other words, even if one message is compromised, the rest of the communication remains unaffected. Additional information about the method can be found on [Wikipedia](https://en.wikipedia.org/wiki/OMEMO) and on the **Conversations** website under the [OMEMO]( https://conversations.im/omemo/). The audit results of the protocol, by **Radically Open Security BV**, is available on the page of [**Conversations.im**](https://conversations.im/omemo/audit.pdf).
 
 * * *
 
@@ -198,7 +198,7 @@ Detailed information about the clients available for working with **Chatrix.One*
 
 ## Can I have multiple accounts registered on different servers?
 
-You can have as many accounts as you want, both on one and on different servers. It is even possible to control them from the same device. You will only have to log in with each individual account separately in the settings of the software you are using.
+You can have as many accounts as you want, both on one and on different servers. It is even possible to control them from the same device. You will only have to log in with each individual account separately in the settings of the software you are using. Please note that registration of more than one account per user in **Chatrix.One**is not allowed. For more information, please read the rules in the [Terms](https://docs.chatrix.one/en/terms/#they-are-forbidden) section.
 
 * * *
 

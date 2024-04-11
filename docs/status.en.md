@@ -109,3 +109,10 @@
 ### 30.10.2022
 
 #### Updated Ejabberd to version [22.10](https://github.com/processone/ejabberd/releases/tag/22.10)
+
+### 16.08.2022
+
+#### Service migration from Prosody [0.12.1](https://prosody.im/doc/release/0.12.1)] to EJabberd [22.05](https://github.com/processone/ejabberd/ releases/tag/22.05)
+
+- New virtual server in the Swiss data center of ORACLE Cloud
+- New domain
