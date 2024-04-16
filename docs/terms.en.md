@@ -10,7 +10,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Do not exercise unauthorized access;
 - Respect other users and be tolerant;
 - Do not use the service to organize and carry out illegal activities;
-- - For persons under 16 years of age, registration must be done with the consent of a parent or guardian.
+- For persons under 16 years of age, registration must be done with the consent of a parent or guardian.
 
 !!! warning "Warning"
 
