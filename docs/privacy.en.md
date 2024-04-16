@@ -15,7 +15,11 @@ As an operator of service representing an alternative to the available methods o
 ## Things to keep in mind
 
 - **IP** addresses of users are **not** recorded by default. Exceptions are cases when an attempt to illegally access the system is detected. In such situations, the **IP** address is recorded to prevent attacks against the respective profile or profiles;
-- Personal data is **not** required for registration. This unfortunately complicates proving account ownership in cases where the password needs to be reset or changed by an administrator.
+- Personal data is **not** required for registration. This unfortunately complicates proving account ownership in cases where the password needs to be reset or changed by an administrator;
+- Your account identifier (**Jabber ID**) is only shared with **XMPP** users with whom you interact;
+- Your contact list (**roster, chatroom bookmarks**) is not shared with other parties (participants in **XMPP** communication) unless you give express permission;
+- Your availability (presence) information is stored in memory and automatically shared with your contacts and the chat rooms you enter;
+- Date and time of last login from an account is stored to identify inactive accounts.
 
 !!! tip "Tip"
 
@@ -44,3 +48,22 @@ As an operator of service representing an alternative to the available methods o
 !!! tip "Tip"
 
      You can protect your private messages by enabling **OMEMO** end-to-end encryption.
+
+## Correction and deletion
+
+Using an **XMPP** service-compatible client, after logging into your profile, you have the option to change and delete the following information:
+
+- List of contacts and bookmarks in chat room;
+- **vCard** and avatar;
+- Offline messages;
+- Message archives.
+
+You can delete your personal profile at any time from the [**Delete Profile**](https://chatrix.one/user/delete/) page. Instructions for filling in the fields are available in the [**Unregister Account**](https://docs.chatrix.one/en/account/delete-account/) section.
+
+!!! warning "Warning!"
+
+     The action of deleting a profile is irreversible! There is no built-in mechanism for this action to be reversed.
+
+For all other types of personal data stored by **Chatrix.One** please contact the representative posted in the [**Contacts**](https://docs.chatrix.one/en/about/#contacts) section.
+
+To obtain information about the data processed and stored by other **XMPP** servers with which you have interacted, it is necessary to contact their respective representative.
