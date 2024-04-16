@@ -78,7 +78,7 @@ flowchart RL
 
 A list of free **XMPP** servers can be found on the pages of [**XMPP Compliance Tester**](https://compliance.conversations.im/) and [**Jabber.at**](https://list.jabber.at/).
 
-More information about the **XMPP** protocol is available in the article [**XMPP** - Communicate freely!](https://blog.chatrix.one/posts/XMPP-communication/)[^1] as well as in [**Wikipedia **](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
+More information about the **XMPP** protocol is available in the article [**XMPP** - Communicate freely!](https://blog.chatrix.one/posts/XMPP-communication/)[^1] as well as in [**Wikipedia**](https://en.wikipedia.org/wiki/XMPP).
 
 [^1]: The article is only available in Bulgarian language.
 
