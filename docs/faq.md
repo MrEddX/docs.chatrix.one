@@ -78,7 +78,7 @@ flowchart RL
 
 Списък с безплатни **XMPP** сървъри, можете да намерите на страниците на [**XMPP Compliance Tester**](https://compliance.conversations.im/) и [**Jabber.at**](https://list.jabber.at/).
 
-Повече информация за **XMPP** протокола е налична в статията [**XMPP** - Комуникирай свободно!](https://blog.chatrix.one/posts/XMPP-communication/), както и в [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
+Повече информация, относно **XMPP** протокола, е налична в статията [**XMPP** - Комуникирай свободно!](https://blog.chatrix.one/posts/XMPP-communication/), както и в [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
 * * *
 
