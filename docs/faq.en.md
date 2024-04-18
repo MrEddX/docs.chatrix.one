@@ -82,6 +82,16 @@ More information about the **XMPP** protocol is available in the article [**XMPP
 
 [^1]: The article is only available in Bulgarian language.
 
+### Terminology
+
+| Term                            | Meaning                                                |
+|---------------------------------|--------------------------------------------------------|
+| MUC, Room, Chatroom, Conference | Group chat, Channel or Multi-user Chat                 |
+| Occupant                        | Participant                                            |
+| JID                             | Address or XMPP address                                |
+| Roster                          | Contact list                                           |
+| Avatar                          | Profile picture                                        |
+
 * * *
 
 ## How long has **XMPP** been around?

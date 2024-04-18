@@ -80,6 +80,16 @@ flowchart RL
 
 Повече информация, относно **XMPP** протокола, е налична в статията [**XMPP** - Комуникирай свободно!](https://blog.chatrix.one/posts/XMPP-communication/), както и в [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
+### Терминология
+
+| Термин                          | Значение                                               |
+|---------------------------------|--------------------------------------------------------|
+| MUC, Room, Chatroom, Conference | Групов чат, стая, конференция, чат с много потребители |
+| Occupant                        | Участник                                               |
+| JID                             | Адрес или XMPP адрес                                   |
+| Roster                          | Списък с контакти                                      |
+| Avatar                          | Профилна снимка                                        |
+
 * * *
 
 ## От колко време съществува XMPP?
