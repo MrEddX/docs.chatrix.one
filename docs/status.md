@@ -72,7 +72,7 @@
 
 ## История на актуализациите
 
-### 29.02.2023
+### 29.02.2024
 
 #### Обновяване на Ejabberd до версия [24.02](https://github.com/processone/ejabberd/releases/tag/24.02)
 

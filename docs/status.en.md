@@ -72,7 +72,7 @@
 
 ## Update history
 
-### 29.02.2023
+### 29.02.2024
 
 #### Update Ejabberd to version [24.02](https://github.com/processone/ejabberd/releases/tag/24.02)
 
