@@ -9,6 +9,7 @@
 
 ### 2024
 
+- 22.05.2024г. - [Сбогом ICQ!](https://blog.chatrix.one/posts/RIP-ICQ/)
 - 22.04.2024г. - [Как да премахнем Google от нашия личен живот?](https://blog.chatrix.one/posts/How-To-DeGoogle-Our-Life/)
 - 02.04.2024г. - [Chatrix.One не е засегнат от CVE-2024-3094](https://blog.chatrix.one/posts/ChatrixOne-CVE-2024-3094/)
 - 23.01.2024г. - [SSH-Audit - Инструмент за проверка на сигурността](https://blog.chatrix.one/posts/SSH-Audit/)
