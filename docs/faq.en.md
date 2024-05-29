@@ -340,9 +340,9 @@ In short, it's a way to trust a device owned by the person you're communicating 
 Yes, if the user is among your trusted contacts. A :material-check: symbol will appear below the message.
 In the newer versions of the client software, the following indications are available:
 
-- :material-check: - The message was successfully sent by the sender's server
-- :material-check-all: - The message was successfully received by the recipient's server or **MUC**
-- :material-check-all:{ .received} - The message was successfully received by the recipient
+- :material-check: - The message was successfully sent by the sender's server;
+- :material-check-all: - The message was successfully received by the recipient's server or **MUC**;
+- :material-check-all:{ .received} - The message was successfully received by the recipient.
 
 * * *
 
