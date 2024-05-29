@@ -2,7 +2,7 @@
 
 <figure markdown>
    ![Chatrix.One - Блог](resources/img/blog.jpeg){ width="800" }
-   <figcaption>XMPP, system administration, software and hardware.</figcaption>
+   <figcaption>XMPP, News, System Administration, Software and Hardware.</figcaption>
 </figure>
 
 ## Latest articles
