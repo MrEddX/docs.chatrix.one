@@ -17,3 +17,7 @@
 .width {
     width: 800;
 }
+
+.received {
+    color: hsl(121, 79%, 53%);
+  }
