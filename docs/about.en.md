@@ -4,7 +4,7 @@ Over the years, the service has migrated multiple times across different hardwar
 
 | Year | Event | Hardware | Platform |
 |:--------------|:-----------------|:------------ ------------|:----------|
-|2015 | Home | Raspberry Pi 3 | Prosody |
+|2015 | Beginning | Raspberry Pi 3 | Prosody |
 |2016 | First upgrade | Odroid C2 | Prosody |
 |2018 | Second Upgrade | Intel NUC 7P | Prosody |
 |2019 | Third upgrade | Asus VIVO UN68U | Prosody |
