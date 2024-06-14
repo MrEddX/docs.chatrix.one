@@ -234,7 +234,14 @@ The ones listed above have been tested with the exception of **Monal** and **Cha
 
 ## How do I know if I'm using  **OMEMO**?
 
-If messages in **Conversations** are accompanied by *"shield with a checkmark"* indicator :material-shield-check: this is a sure sign that you are using **OMEMO**. In **Gajim**, check for a green colored *"shield"* symbol :material-shield: next to the date and time of the messages. It will be fully colored when you have trusted the device. In case you have not added the device to the list of trusted devices, the "shield" symbol will be half colored green. The situation is similar for all other applications.
+If messages in **Conversations** are accompanied by a *"checkmark shield"* indicator :material-shield-check:, this is a sure sign that the communication is **OMEMO** encrypted.
+
+In case you are using **Gajim**, there are two possible scenarios.
+
+- :material-shield-half-full:{ .received} - A green colored *shield* symbol next to the date and time of the messages which is half colored. It means that the communication is **OMEMO** encrypted, but the device you are communicating with is not verified. In other words, you have made a so-called *blind trust*;
+- :material-shield:{ .received} - A green colored *shield* symbol next to the date and time of messages that is fully colored. It means that the communication is **OMEMO** encrypted and the device you are communicating with has been verified and added to the list of trusted devices.
+
+The situation is similar for all other applications.
 
 !!! warning "Caution"
 
