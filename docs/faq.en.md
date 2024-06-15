@@ -236,16 +236,16 @@ The ones listed above have been tested with the exception of **Monal** and **Cha
 
 If messages in **Conversations** are accompanied by a *"checkmark shield"* indicator :material-shield-check:, this is a sure sign that the communication is **OMEMO** encrypted.
 
-In case you are using **Gajim**, there are two possible scenarios.
+In case you are using **Gajim**, there are two possible scenarios:
 
-- :material-shield-half-full:{ .received} - A green colored *shield* symbol next to the date and time of the messages which is half colored. It means that the communication is **OMEMO** encrypted, but the device you are communicating with is not verified. In other words, you have made a so-called *blind trust*;
-- :material-shield:{ .received} - A green colored *shield* symbol next to the date and time of messages that is fully colored. It means that the communication is **OMEMO** encrypted and the device you are communicating with has been verified and added to the list of trusted devices.
+- :material-shield-half-full:{ .green} - A green colored *shield* symbol next to the date and time of the messages which is half colored. It means that the communication is **OMEMO** encrypted, but the device you are communicating with is not verified. In other words, you have made a so-called *blind trust*;
+- :material-shield:{ .green} - A green colored *shield* symbol next to the date and time of messages that is fully colored. It means that the communication is **OMEMO** encrypted and the device you are communicating with has been verified and added to the list of trusted devices.
 
 The situation is similar for all other applications.
 
 !!! warning "Caution"
 
-     In case the messages are not encrypted in **Conversations** they will be written on a red background. In **Gajim** you will see an unlocked padlock with an orange `!` symbol on it. It is located to the right of the ribbon in which you are typing.
+     In case the messages are **not** encrypted in **Conversations** they will be written on a red background. In **Gajim** you will see an unlocked padlock with an orange `!` symbol on it. It is located to the right of the ribbon in which you are typing.
 
 * * *
 
@@ -263,13 +263,13 @@ Support for the **OTR** encryption method has been discontinued due to its vulne
 
 ## Is the voice communication encrypted?
 
-In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the audio communication will also be encrypted. In the **Conversations** app, this will be marked with green *"shield with a checkmark"* :material-shield-check: symbol in the upper left corner of the screen.
+In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the audio communication will also be encrypted. In the **Conversations** app, this will be marked with green *shield with a checkmark* :material-shield-check:{ .green} symbol in the upper left corner of the screen.
 
 * * *
 
 ## Is the video communication encrypted?
 
-In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the video communication will also be encrypted. In the **Conversations** app, this will be marked with green *"shield with a checkmark"* :material-shield-check: symbol in the upper left corner of the screen.
+In case you have enabled an encryption method (**OMEMO** or **OpenPGP**) the video communication will also be encrypted. In the **Conversations** app, this will be marked with green *shield with a checkmark* :material-shield-check:{ .green} symbol in the upper left corner of the screen.
 
 * * *
 
@@ -349,7 +349,7 @@ In the newer versions of the client software, the following indications are avai
 
 - :material-check: - The message was successfully sent by the sender's server;
 - :material-check-all: - The message was successfully received by the recipient's server or **MUC**;
-- :material-check-all:{ .received} - The message was successfully received by the recipient.
+- :material-check-all:{ .green} - The message was successfully received by the recipient.
 
 * * *
 
