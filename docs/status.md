@@ -13,28 +13,6 @@
 | Онлайн форма      |До една регистрация на час                 |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
 | Инсталиран клиент |До една регистрация на час от **IP** адрес |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=ОТВОРЕНА&downLabel=ЗАТВОРЕНА) |
 
-## Информация за XEPs
-
-| XEP                                   | Статус                         |
-|:--------------------------------------|:------------------------------:|
-| XEP-0045: Multi-User Chat             | :material-check-bold:{ .green} |
-| XEP-0054: vcard-temp                  | :material-check-bold:{ .green} |
-| XEP-0077: In-Band Registration        | :material-check-bold:{ .green} |
-| XEP-0163: PEP (Avatars / OMEMO)       | :material-check-bold:{ .green} |
-| XEP-0191: Blocking Command            | :material-check-bold:{ .green} |
-| XEP-0198: Stream Management           | :material-check-bold:{ .green} |
-| XEP-0215: External Service Discovery  | :material-check-bold:{ .green} |
-| XEP-0258: Security Labels in XMPP     | :octicons-x-12:{ .red}         |
-| XEP-0237: Roster Versioning           | :material-check-bold:{ .green} |
-| XEP-0280: Message Carbons             | :material-check-bold:{ .green} |
-| XEP-0313: Message Archive Management  | :material-check-bold:{ .green} |
-| XEP-0352: Client State Indication     | :material-check-bold:{ .green} |
-| XEP-0357: Push                        | :material-check-bold:{ .green} |
-| XEP-0363: HTTP File Upload            | :material-check-bold:{ .green} |
-| XEP-0398: Avatar Conversion           | :material-check-bold:{ .green} |
-| XEP-0402: Bookmarks Compat / PEP      | :material-check-bold:{ .green} |
-| XEP-0411: Bookmarks Conversion        | :material-check-bold:{ .green} |
-
 ## Достъпност - **XMPP**
 
 | Показател                  |Стойност                                             |
@@ -71,9 +49,40 @@
 | Дисково пространство | 64GB                           |
 | Файлова система      | ext4                           |
 | Операционна система  | Ubuntu 22.04 (Jammy Jellyfish) |
-| Ejabberd версия      | 24.2.0                        |
+| Ejabberd версия      | 24.2.0                         |
 | Архивиране           | Ежеседмично                    |
 | Локация              | Швейцария                      |
+
+#### Информация за XEPs
+
+| XEP                                   | Статус                         |
+|:--------------------------------------|:------------------------------:|
+| XEP-0045: Multi-User Chat             | :material-check-bold:{ .green} |
+| XEP-0054: vcard-temp                  | :material-check-bold:{ .green} |
+| XEP-0077: In-Band Registration        | :material-check-bold:{ .green} |
+| XEP-0163: PEP (Avatars / OMEMO)       | :material-check-bold:{ .green} |
+| XEP-0191: Blocking Command            | :material-check-bold:{ .green} |
+| XEP-0198: Stream Management           | :material-check-bold:{ .green} |
+| XEP-0215: External Service Discovery  | :material-check-bold:{ .green} |
+| XEP-0258: Security Labels in XMPP     | :octicons-x-12:{ .red}         |
+| XEP-0237: Roster Versioning           | :material-check-bold:{ .green} |
+| XEP-0280: Message Carbons             | :material-check-bold:{ .green} |
+| XEP-0313: Message Archive Management  | :material-check-bold:{ .green} |
+| XEP-0352: Client State Indication     | :material-check-bold:{ .green} |
+| XEP-0357: Push                        | :material-check-bold:{ .green} |
+| XEP-0363: HTTP File Upload            | :material-check-bold:{ .green} |
+| XEP-0398: Avatar Conversion           | :material-check-bold:{ .green} |
+| XEP-0402: Bookmarks Compat / PEP      | :material-check-bold:{ .green} |
+| XEP-0411: Bookmarks Conversion        | :material-check-bold:{ .green} |
+
+#### Лимити за файлове
+
+| Тип                          | Стойност |
+|:-----------------------------|:--------:|
+| Максимален размер за качване | 100MB    |
+| Общ обем - мек лимит         | 950 MB   |
+| Общ обем - твърд лимит       | 1000 MB  |
+| Период за съхранение         | 28 дни   |
 
 ### Бекъп сървър
 

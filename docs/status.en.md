@@ -13,28 +13,6 @@
 | Online            |One per hour            |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 | Installed Client  |One per hour from an IP |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 
-## Information about XEPs
-
-| XEP                                   | Статус                         |
-|:--------------------------------------|:------------------------------:|
-| XEP-0045: Multi-User Chat             | :material-check-bold:{ .green} |
-| XEP-0054: vcard-temp                  | :material-check-bold:{ .green} |
-| XEP-0077: In-Band Registration        | :material-check-bold:{ .green} |
-| XEP-0163: PEP (Avatars / OMEMO)       | :material-check-bold:{ .green} |
-| XEP-0191: Blocking Command            | :material-check-bold:{ .green} |
-| XEP-0198: Stream Management           | :material-check-bold:{ .green} |
-| XEP-0215: External Service Discovery  | :material-check-bold:{ .green} |
-| XEP-0258: Security Labels in XMPP     | :octicons-x-12:{ .red}         |
-| XEP-0237: Roster Versioning           | :material-check-bold:{ .green} |
-| XEP-0280: Message Carbons             | :material-check-bold:{ .green} |
-| XEP-0313: Message Archive Management  | :material-check-bold:{ .green} |
-| XEP-0352: Client State Indication     | :material-check-bold:{ .green} |
-| XEP-0357: Push                        | :material-check-bold:{ .green} |
-| XEP-0363: HTTP File Upload            | :material-check-bold:{ .green} |
-| XEP-0398: Avatar Conversion           | :material-check-bold:{ .green} |
-| XEP-0402: Bookmarks Compat / PEP      | :material-check-bold:{ .green} |
-| XEP-0411: Bookmarks Conversion        | :material-check-bold:{ .green} |
-
 ## Accessibility - **XMPP**
 
 | Indicator |Value |
@@ -74,6 +52,37 @@
 | Ejabberd version | 24.2.0                        |
 | Backup           | Weekly                         |
 | Location         | Switzerland                    |
+
+#### Information about XEPs
+
+| XEP                                   | Статус                         |
+|:--------------------------------------|:------------------------------:|
+| XEP-0045: Multi-User Chat             | :material-check-bold:{ .green} |
+| XEP-0054: vcard-temp                  | :material-check-bold:{ .green} |
+| XEP-0077: In-Band Registration        | :material-check-bold:{ .green} |
+| XEP-0163: PEP (Avatars / OMEMO)       | :material-check-bold:{ .green} |
+| XEP-0191: Blocking Command            | :material-check-bold:{ .green} |
+| XEP-0198: Stream Management           | :material-check-bold:{ .green} |
+| XEP-0215: External Service Discovery  | :material-check-bold:{ .green} |
+| XEP-0258: Security Labels in XMPP     | :octicons-x-12:{ .red}         |
+| XEP-0237: Roster Versioning           | :material-check-bold:{ .green} |
+| XEP-0280: Message Carbons             | :material-check-bold:{ .green} |
+| XEP-0313: Message Archive Management  | :material-check-bold:{ .green} |
+| XEP-0352: Client State Indication     | :material-check-bold:{ .green} |
+| XEP-0357: Push                        | :material-check-bold:{ .green} |
+| XEP-0363: HTTP File Upload            | :material-check-bold:{ .green} |
+| XEP-0398: Avatar Conversion           | :material-check-bold:{ .green} |
+| XEP-0402: Bookmarks Compat / PEP      | :material-check-bold:{ .green} |
+| XEP-0411: Bookmarks Conversion        | :material-check-bold:{ .green} |
+
+#### File upload limits
+
+| Type                      | Value   |
+|:--------------------------|:-------:|
+| Maximum upload size       | 100MB   |
+| Total volume - soft limit | 950 MB  |
+| Total volume - hard limit | 1000MB  |
+| Storage period            | 28 days |
 
 ### Backup server
 
