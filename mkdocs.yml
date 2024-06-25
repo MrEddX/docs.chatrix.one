@@ -141,7 +141,7 @@ plugins:
           default: true
           name: Български
           build: true
-          site_name: "Chatrix.One | Документация"
+          site_name: "Chatrix.One XMPP Server | Документация"
         - locale: en
           name: English
           build: true
