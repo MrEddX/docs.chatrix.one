@@ -77,12 +77,12 @@
 
 #### File upload limits
 
-| Limit                     | Value   |
-|:--------------------------|:-------:|
-| Maximum upload size       | 100MB   |
-| Total volume - soft limit | 950 MB  |
-| Total volume - hard limit | 1000MB  |
-| Storage period            | 28 days |
+| Limit                     | Value    |
+|:--------------------------|:--------:|
+| Maximum upload size       | 100 MB   |
+| Total volume - soft limit | 950 MB   |
+| Total volume - hard limit | 1000 MB  |
+| Storage period            | 28 days  |
 
 ### Backup server
 
