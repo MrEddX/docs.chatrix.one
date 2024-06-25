@@ -77,7 +77,7 @@
 
 #### File upload limits
 
-| Type                      | Value   |
+| Limit                     | Value   |
 |:--------------------------|:-------:|
 | Maximum upload size       | 100MB   |
 | Total volume - soft limit | 950 MB  |
