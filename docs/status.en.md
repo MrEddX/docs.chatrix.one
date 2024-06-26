@@ -55,31 +55,42 @@
 
 #### Information about XEPs
 
-| XEP                                   | Статус                         |
-|:--------------------------------------|:------------------------------:|
-| XEP-0045: Multi-User Chat             | :material-check-bold:{ .green} |
-| XEP-0054: vcard-temp                  | :material-check-bold:{ .green} |
-| XEP-0077: In-Band Registration        | :material-check-bold:{ .green} |
-| XEP-0163: PEP (Avatars / OMEMO)       | :material-check-bold:{ .green} |
-| XEP-0191: Blocking Command            | :material-check-bold:{ .green} |
-| XEP-0198: Stream Management           | :material-check-bold:{ .green} |
-| XEP-0215: External Service Discovery  | :material-check-bold:{ .green} |
-| XEP-0258: Security Labels in XMPP     | :octicons-x-12:{ .red}         |
-| XEP-0237: Roster Versioning           | :material-check-bold:{ .green} |
-| XEP-0280: Message Carbons             | :material-check-bold:{ .green} |
-| XEP-0313: Message Archive Management  | :material-check-bold:{ .green} |
-| XEP-0352: Client State Indication     | :material-check-bold:{ .green} |
-| XEP-0357: Push                        | :material-check-bold:{ .green} |
-| XEP-0363: HTTP File Upload            | :material-check-bold:{ .green} |
-| XEP-0398: Avatar Conversion           | :material-check-bold:{ .green} |
-| XEP-0402: Bookmarks Compat / PEP      | :material-check-bold:{ .green} |
-| XEP-0411: Bookmarks Conversion        | :material-check-bold:{ .green} |
+| XEP                                        | Availability                   |
+|:-------------------------------------------|:------------------------------:|
+| XEP-0045: Multi-User Chat                  | :material-check-bold:{ .green} |
+| XEP-0054: vcard-temp                       | :material-check-bold:{ .green} |
+| XEP-0065: SOCKS5 Bytestreams (Proxy)       | :material-check-bold:{ .green} |
+| XEP-0077: In-Band Registration             | :material-check-bold:{ .green} |
+| XEP-0115: Entity Capabilities              | :material-check-bold:{ .green} |
+| XEP-0153: vCard-Based Avatar (MUC)         | :material-check-bold:{ .green} |
+| XEP-0156: Discovering Alternative XMPP Connection Methods (HTTP) | :material-check-bold:{ .green} |
+| XEP-0157: Contact Addresses for XMPP Services (Abuse) | :material-check-bold:{ .green} |
+| XEP-0160: Best Practices for Handling Offline Messages | :material-check-bold:{ .green} |
+| XEP-0163: PEP (Avatars / OMEMO)            | :material-check-bold:{ .green} |
+| XEP-0191: Blocking Command                 | :material-check-bold:{ .green} |
+| XEP-0198: Stream Management                | :material-check-bold:{ .green} |
+| XEP-0215: External Service Discovery STUN  | :material-check-bold:{ .green} |
+| XEP-0215: External Service Discovery TURN  | :material-check-bold:{ .green} |
+| XEP-0258: Security Labels in XMPP          | :octicons-x-12:{ .red}         |
+| XEP-0237: Roster Versioning                | :material-check-bold:{ .green} |
+| XEP-0280: Message Carbons                  | :material-check-bold:{ .green} |
+| XEP-0313: Message Archive Management       | :material-check-bold:{ .green} |
+| XEP-0313: Message Archive Management - MUC | :material-check-bold:{ .green} |
+| XEP-0313: Message Archive Management (extended usage) | :octicons-x-12:{ .red} |
+| XEP-0352: Client State Indication          | :material-check-bold:{ .green} |
+| XEP-0357: Push Notifications               | :material-check-bold:{ .green} |
+| XEP-0363: HTTP File Upload                 | :material-check-bold:{ .green} |
+| XEP-0368: SRV records for XMPP over TLS    | :material-check-bold:{ .green} |
+| XEP-0384: OMEMO Encryption                 | :material-check-bold:{ .green} |
+| XEP-0398: Avatar Conversion                | :material-check-bold:{ .green} |
+| XEP-0402: PEP Native Bookmarks             | :material-check-bold:{ .green} |
+| XEP-0411: Bookmarks Conversion             | :material-check-bold:{ .green} |
 
 #### File upload limits
 
 | Limit                     | Value    |
 |:--------------------------|:--------:|
-| Maximum upload size       | 100 MB   |
+| Single file upload        | 100 MB   |
 | Total volume - soft limit | 950 MB   |
 | Total volume - hard limit | 1000 MB  |
 | Storage period            | 28 days  |
