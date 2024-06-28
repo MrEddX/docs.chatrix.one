@@ -642,19 +642,19 @@ At the moment, the following services are functioning on this domain:
 
 ## Are you planning to have a a free **Matrix** server with public access?
 
-Currently [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time and :octicons-heart-fill-24:{ .heart .red }. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
+Currently [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) is functional but not publicly accessible. The maintenance of this platform is much more complex and time-consuming, and therefore costs more personal time. It also requires more hardware and financial resources. In any case, I will need at least one more volunteer, experienced in **Linux** system administration, willing to invest **for free** some of their free time and a lot of :octicons-heart-fill-24:{ .heart .red } in the name of the cause.
 
 * * *
 
 ## Are you planning to have a free, publicly accessible email service?
 
-Email is currently functional but not publicly accessible. The maintenance of this type of service is associated with a significantly greater responsibility to the end user. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. It is complex to integrate, but maintenance is even more complex and time-consuming, and therefore costs much more personal time and :octicons-heart-fill-24:{ .heart .red }. It requires a large hardware and financial resource. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
+Email is currently functional but not publicly accessible. The maintenance of this type of service is associated with a significantly greater responsibility to the end user. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. It is complex to integrate, but maintenance is even more complex and time-consuming, and therefore costs much more personal time. It requires a large hardware and financial resource. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time and a lot of :octicons-heart-fill-24:{ .heart .red } in the name of the cause.
 
 * * *
 
 ## Are you planning to have a free publicly accessible file storage cloud?
 
-Currently, cloud file storage is operational, but not publicly accessible. The maintenance of this type of service is related to the provision of an array to store a significant amount of data. Responsibility to the end user is a serious part of this business. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. Maintenance is labor-intensive, and therefore costs much more personal time and :octicons-heart-fill-24:{ .heart .red }. It requires a serious investment in hardware. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time in the name of the cause.
+Currently, cloud file storage is operational, but not publicly accessible. The maintenance of this type of service is related to the provision of an array to store a significant amount of data. Responsibility to the end user is a serious part of this business. Of utmost importance is the round-the-clock monitoring of the system in order to prevent security-related incidents. Maintenance is labor-intensive, and therefore costs much more personal time. It requires a serious investment in hardware. In any case, I will need at least one or two more volunteers, experienced in **Linux** system administration, willing to invest **for free** some of their free time and a lot of :octicons-heart-fill-24:{ .heart .red } in the name of the cause.
 
 * * *
 
