@@ -29,7 +29,9 @@
 | **XMPP** Съответствие| ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
 |**SRV** Записи / Достъп| <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height='18px' alt='xmpp.love score'></a> |
 
-## Достъпност - Интернет страница
+## Достъпност - Интернет страници
+
+### [Документация](https://docs.chatrix.one)
 
 | Показател                  |Стойност                                             |
 |:---------------------------|:---------------------------------------------------:|
@@ -37,6 +39,16 @@
 | Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/24?label=)|
 | Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/135/uptime/168?label=)|
 | Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/135/uptime/720?label=)|
+
+### [Блог](https://blog.chatrix.one)
+
+| Показател                  |Стойност                                             |
+|:---------------------------|:---------------------------------------------------:|
+| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/124/ping?label=) |
+| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/124/uptime/24?label=)|
+| Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/124/uptime/168?label=)|
+| Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/124/uptime/720?label=)|
+
 
 ## Технически данни
 
