@@ -29,7 +29,9 @@
 | **XMPP** Compliance| ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
 |**SRV** Records / Access| <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height= '18px' alt='xmpp.love score'></a> |
 
-## Accessibility - Website
+## Accessibility - Websites
+
+### [Documentation](https://docs.chatrix.one)
 
 | Indicator                  | Value                                                 |
 |:---------------------------|:-----------------------------------------------------:|
@@ -37,6 +39,15 @@
 | Uptime for the last 24 hours |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/24?label=)|
 | Uptime for the last 7 days |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/168?label=)|
 | Uptime for the last 30 days |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/135/uptime/720?label=)|
+
+### [Blog](https://blog.chatrix.one)
+
+| Indicator                  |Value                                                |
+|:---------------------------|:---------------------------------------------------:|
+| Среден пинг за последните 24 часа|![Ping Average](https://uptime.tinyserver.eu/api/badge/124/ping?label=) |
+| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/124/uptime/24?label=)|
+| Достъпност за последните 7 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/124/uptime/168?label=)|
+| Достъпност за последните 30 дни  |![Uptime 7 days](https://uptime.tinyserver.eu/api/badge/124/uptime/720?label=)|
 
 ## Technical data
 
