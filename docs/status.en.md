@@ -125,39 +125,46 @@
 
 ## Update history
 
+### 29.06.2024
+
+#### Update Ejabberd to version [24.06](https://github.com/processone/ejabberd/releases/tag/24.06)
+
+- Improved Web-based administration;
+- Improved architecture and **API**.
+
 ### 29.02.2024
 
 #### Update Ejabberd to version [24.02](https://github.com/processone/ejabberd/releases/tag/24.02)
 
-- New: Matrix Federation - Provides the ability to connect to Matrix servers.
-- Improved communication security by supporting TLS 1.3 and SASL2.
-- Improved performance by implementing Bind 2.
-- Better message control: Support for XEP-0424 (message retraction). It allows users to manage their message history and remove anything they posted by mistake.
-- Optimized server ping via XEP-0198.
-- Streamlined API versioning.
+- New: Matrix Federation - Provides the ability to connect to Matrix servers;
+- Improved communication security by supporting TLS 1.3 and SASL2;
+- Improved performance by implementing Bind 2;
+- Better message control: Support for XEP-0424 (message retraction). It allows users to manage their message history and remove anything they posted by mistake;
+- Optimized server ping via XEP-0198;
+- Streamlined API versioning;
 - Enhanced Elixir, Mix and Rebar3 Support.
 
 ### 14.11.2023
 
 #### Updated Ejabberd to version [23.10](https://github.com/processone/ejabberd/releases/tag/23.10)
 
-- Added support for XEP-0402: PEP Native Bookmarks, which is a significant improvement over XEP-0048: Bookmark Storage. Defines how bookmarks are stored.
-- New: `mod_muc_occupantid` with support for XEP-0421: Occupant Id. Used for MUC anonymous rooms, fixing messages and withdrawing messages. Currently, the only client found to support XEP-0421 is Dino - version 0.4 and above.
-- Many new options and features. For more information, see the official article on the [ProcessOne](https://www.process-one.net/) web site about what's new in version [23.10](https://www.process-one.net/blog/ejabberd-23-10/)
+- Added support for XEP-0402: PEP Native Bookmarks, which is a significant improvement over XEP-0048: Bookmark Storage. Defines how bookmarks are stored;
+- New: `mod_muc_occupantid` with support for XEP-0421: Occupant Id. Used for MUC anonymous rooms, fixing messages and withdrawing messages. Currently, the only client found to support XEP-0421 is Dino - version 0.4 and above;
+- Many new options and features. For more information, see the official article on the [ProcessOne](https://www.process-one.net/) web site about what's new in version [23.10](https://www.process-one.net/blog/ejabberd-23-10/).
 
 ### 26.04.2023
 
 #### Updated Ejabberd to version [23.04](https://github.com/processone/ejabberd/releases/tag/23.04)
 
-- Many improvements in SQL databases
-- New: `mod_mam` support for [XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html)
-- New: `mod_muc_rtbl` support for **Real-Time Block List for MUC rooms**
+- Many improvements in SQL databases;
+- New: `mod_mam` support for [XEP-0425: Message Moderation](https://xmpp.org/extensions/xep-0425.html);
+- New: `mod_muc_rtbl` support for **Real-Time Block List for MUC rooms**.
 
 ### 20.01.2023
 
 #### Updated Ejabberd to version [23.01](https://github.com/processone/ejabberd/releases/tag/23.01)
 
-- New: Registrations are open, using the online form or an installed client, protected by a **CAPTCHA** challenge
+- New: Registrations are open, using the online form or an installed client, protected by a **CAPTCHA** challenge.
 
 ### 30.10.2022
 
@@ -167,5 +174,5 @@
 
 #### Service migration from Prosody [0.12.1](https://prosody.im/doc/release/0.12.1) to EJabberd [22.05](https://github.com/processone/ejabberd/ releases/tag/22.05)
 
-- New virtual server in the Swiss data center of **ORACLE Cloud**
-- New domain
+- New virtual server in the Swiss data center of **ORACLE Cloud**;
+- New domain.
