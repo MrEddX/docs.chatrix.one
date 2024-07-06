@@ -26,6 +26,10 @@
     color: hsl(0, 89%, 46%);
   }
 
+  .rose {
+    color: hsl(0, 100%, 71%);
+  }
+
 .gray {
     color: hsla(0, 0%, 59%, 0.842);
   }
