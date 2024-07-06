@@ -441,7 +441,6 @@ In the event that you cannot send any messages, the reasons may be as follows:
     !!! success "Solution"
 
          - Wait for the address to be automatically removed (the time depends on the number of illegal attempts to access the service);
-         - Turn off and on the connection to the wireless network;
          - If possible, change the network through which you connect to the Internet;
          - If you are on a mobile device - try a connection via mobile data.
 
