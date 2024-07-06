@@ -106,6 +106,13 @@
 | Total volume - hard limit | 1000 MB  |
 | Storage period            | 28 days  |
 
+#### Offline Message limits
+
+| User           | Total |
+|:---------------|:-----:|
+| Standard       | 100   |
+| Sponsor :star: | 1000  |
+
 ### Backup server
 
 | Parameter        | Value                |
