@@ -421,6 +421,38 @@ No, but if you contact me I can create one. This way, there will be no need to i
 
 * * *
 
+## Why can't I send messages?
+
+In case you cannot send messages to a particular user (subscriber, contact), it is likely that he has been offline for a long time and has reached the server's offline message storage limit. In the **Conversations** app, you'll see a rose-red :fontawesome-solid-circle-exclamation:{ .rose } symbol below the messages. You will also notice a change in the color of the message encryption indicator from gray to a rose-red color :material-shield-check:{ .gray } :octicons-arrow-right-24: :material-shield-check:{ .rose }. You can get up-to-date information about offline message limits in the [Status](https://docs.chatrix.one/status/) section and more specifically in the [Offline Message Limits](https://docs.chatrix.one/en/status/#offline-message-limits).
+
+In the event that you cannot send any messages, the reasons may be as follows:
+
+- You are not connected to the Internet.
+
+    !!! success "Solution"
+
+         - Make sure you have access to the Internet;
+         - Turn off and on the connection to the wireless network;
+         - If possible, change the network through which you connect to the Internet;
+         - If you are on a mobile device - try a mobile data connection.
+
+- You have entered the list of blocked **IP** addresses.
+
+    !!! success "Solution"
+
+         - Wait for the address to be automatically removed (the time depends on the number of illegal attempts to access the service);
+         - Turn off and on the connection to the wireless network;
+         - If possible, change the network through which you connect to the Internet;
+         - If you are on a mobile device - try a connection via mobile data.
+
+- The server is down.
+
+    !!! success "Solution"
+
+         Wait for the problem to be fixed. You can monitor the availability of the service in the [Status](https://docs.chatrix.one/status/) section and more precisely in the [Availability - XMPP](https://docs.chatrix.one/en/status/#accessibility-xmpp).
+
+* * *
+
 ## Why do I get an error message when trying to register?
 
 In order to protect the service from bots and abuse, the following restrictions have been introduced:
