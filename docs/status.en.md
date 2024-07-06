@@ -13,7 +13,7 @@
 | Online            |One per hour            |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 | Installed Client  |One per hour from an IP |![Registration Status](https://uptime.tinyserver.eu/api/badge/141/status?label=&upLabel=OPEN&downLabel=CLOSED) |
 
-## Accessibility - **XMPP**
+## Availability - **XMPP**
 
 | Indicator                          | Value                                                                          |
 |:-----------------------------------|:------------------------------------------------------------------------------:|
@@ -29,7 +29,7 @@
 | **XMPP** Compliance     | ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
 |**SRV** Records / Access | <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height= '18px' alt='xmpp.love score'></a> |
 
-## Accessibility - Websites
+## Availability - Websites
 
 ### [Documentation](https://docs.chatrix.one)
 
