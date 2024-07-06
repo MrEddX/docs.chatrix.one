@@ -106,7 +106,7 @@
 | Total volume - hard limit | 1000 MB  |
 | Storage period            | 28 days  |
 
-#### Offline Message limits
+#### Offline message limits
 
 | User           | Total |
 |:---------------|:-----:|

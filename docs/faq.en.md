@@ -690,7 +690,7 @@ You can use **Chatrix.One** from anywhere in the world. There are currently no [
 
 ## Where can I track incidents?
 
-Information about incidents, service interruptions and upcoming maintenance will be published in the [Status](https://docs.chatrix.one/en/status/) page and more specifically in the [Incident Information](https://docs.chatrix.one/en/status/#information-about-occurred-incidents) section.
+Information about incidents, service interruptions and upcoming maintenance will be published in the [Status](https://docs.chatrix.one/en/status/) page and more specifically in the [Information about occurred incidents](https://docs.chatrix.one/en/status/#information-about-occurred-incidents) section.
 
 * * *
 
