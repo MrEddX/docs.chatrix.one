@@ -57,6 +57,7 @@
 <figure markdown>
   ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }
   ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
+  <figcaption>Предпочитаме технологии с отворен код</figcaption>
 </figure>
 
 ## Как да използвам **Chatrix.One**?
