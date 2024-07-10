@@ -19,6 +19,7 @@ theme:
   font: false
   icon:
     logo: material/book-open-page-variant
+    annotation: material/plus-circle
   features:
     - navigation.tabs
     - navigation.sections
