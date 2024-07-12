@@ -9,7 +9,9 @@ The page allows you to self-register an **XMPP** account on this server. Your **
 
 ## Username
 
-The username **JID** (**Jabber ID**) is **not** case sensitive. It is recommended to use only lowercase letters. The usernames `TestUser@chatrix.one`, `testUser@chatrix.one`, `TESTuser@chatrix.one`, etc. will be interpreted as: `testuser@chatrix.one`. Special characters `"` `&` `'` `/` `:` `<` `>` `@` are not allowed in the profile name. To separate the names, you can use the characters: `.` `_` `-`. For example: `test.user@chatrix.one` or `test_user@chatrix.one` etc.
+The username **JID** (**Jabber ID**) is **not** case sensitive. It is recommended to use only lowercase letters. The usernames `TestUser`, `testUser`, `TESTuser`, etc. will be interpreted as: `testuser@chatrix.one`. Special characters `"` `&` `'` `/` `:` `<` `>` `@` are not allowed in the profile name. To separate the names, you can use the characters: `.` `_` `-`. For example: `test.user` or `test_user` etc.
+
+Only the username is entered, without the server part. For example: If the user is `john@chatrix.one` you enter just `john`.
 
 !!! failure "Important"
 

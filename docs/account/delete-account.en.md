@@ -7,9 +7,9 @@
 
 This page allows you to **irreversibly** delete your account and the information associated with it. Please read the instructions carefully to fill in the fields correctly.
 
-!!! warning "Warning!"
+!!! danger "Warning!"
 
-     The action of deleting a profile is irreversible! There is no built-in undo mechanism for this action.
+     The action of deleting a profile is **irreversible**! There is no built-in undo mechanism. After pressing the ++"Unregister"++ button, the action is performed instantly, without the need for additional confirmation.
 
 ## Username
 

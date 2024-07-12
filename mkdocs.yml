@@ -20,6 +20,8 @@ theme:
   icon:
     logo: material/book-open-page-variant
     annotation: material/plus-circle
+    admonition:
+      danger: octicons/alert-16
   features:
     - navigation.tabs
     - navigation.sections
