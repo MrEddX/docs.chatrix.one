@@ -31,6 +31,7 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
+    - content.tooltips
     - search.highlight
     - search.share
     - search.suggest
@@ -78,6 +79,10 @@ extra:
   #     - reject
   generator: false
 
+# When the glossary file is updated, the project is automatically reloaded on `mkdocs serve`
+watch:
+  - includes
+
 # Extra CSS code
 extra_css:
   - stylesheets/extra.css
@@ -114,8 +119,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 
