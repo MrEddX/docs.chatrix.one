@@ -87,6 +87,7 @@ markdown_extensions:
   - admonition
   - footnotes
   - def_list
+  - abbr
   - attr_list
   - md_in_html
   - pymdownx.inlinehilite
