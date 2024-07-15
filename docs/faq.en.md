@@ -593,7 +593,7 @@ I am using [PostgreSQL](https://www.postgresql.org/).
 
 ## Are passwords stored in readable form?
 
-No. Passwords are encrypted using the [SCRAM-SHA1](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)) mechanism.
+No. Passwords are encrypted using the [SCRAM-SHA-1](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)) mechanism.
 
 * * *
 
@@ -635,7 +635,7 @@ There are many reasons for my decision to choose **Ejabberd**. Most of them are 
 - **Prosody** consumes more system memory. The situation has improved a bit with `mod_external_upload` and the new versions of the **PostgreSQL** binding code, but there is still a lot to be desired;
 - **Prosody** uses only one CPU core;
 - Cannot be upgraded in a cluster;
-- In the future, if there is a need, I would not be able to provide a service of the **High Availability** type;
+- In the future, if there is a need, I would not be able to provide a service of the [**High Availability**](https://en.wikipedia.org/wiki/High_availability) type;
 - Sometimes not keeping up with the new **XMPP** standards required by the **Conversations** app for **Android**;
 - For voice and video connection requires installation of additional [STUN](https://en.wikipedia.org/wiki/STUN)/[TURN](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT) server.
 

@@ -590,7 +590,7 @@ flowchart RL
 
 ## В четим вид ли се съхраняват паролите?
 
-Не. Паролите са криптирани посредством [**SCRAM-SHA1**](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)) механизъм.
+Не. Паролите са криптирани посредством [**SCRAM-SHA-1**](https://wiki.xmpp.org/web/SASL_Authentication_and_SCRAM#SCRAM-SHA-1(-PLUS)) механизъм.
 
 * * *
 
@@ -632,7 +632,7 @@ flowchart BT
 - **Prosody** изразходва повече системна памет. Положението се подобри малко с `mod_external_upload` и новите версии на кода за свързване с **PostgreSQL**, но все още има какво да се желае;
 - **Prosody** използва само едно ядро на процесора;
 - Не може да бъде надграждан в клъстър;
-- В бъдеще, ако има нужда не бих могъл да предоставя услуга от типа **High Availability**;
+- В бъдеще, ако има нужда не бих могъл да предоставя услуга от типа [**High Availability**](https://en.wikipedia.org/wiki/High_availability);
 - Понякога не е в крак с новите **XMPP** стандарти, изисквани от приложението **Conversations** за **Android**;
 - За гласова и видео връзка изисква инсталиране на допълнителен [**STUN**](https://en.wikipedia.org/wiki/STUN)/[**TURN**](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT) сървър.
 
