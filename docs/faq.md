@@ -255,7 +255,7 @@ flowchart RL
 
 ## Мога ли да използвам **OTR** криптиране?
 
-Поддръжката на **OTR** методът на криптиране е преустановена, поради неговата уязвимост към атаки от типа [**Man-In-The-Middle**](https://en.wikipedia.org/wiki/Man-in-the-middle_attack). За повече информация вижте страницата на модула - [**XEP-0364: Current Off-the-Record Messaging Usage**](https://xmpp.org/extensions/xep-0364.html) и по-точно частта [**Security Considerations**](https://xmpp.org/extensions/xep-0364.html#security).
+Поддръжката, на **OTR** метода за криптиране, е преустановена. Причината е, неговата уязвимост към атаки от типа [**Man-In-The-Middle**](https://en.wikipedia.org/wiki/Man-in-the-middle_attack). За повече информация вижте страницата на модула - [**XEP-0364: Current Off-the-Record Messaging Usage**](https://xmpp.org/extensions/xep-0364.html) и по-точно частта [**Security Considerations**](https://xmpp.org/extensions/xep-0364.html#security).
 
 * * *
 
