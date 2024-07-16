@@ -121,7 +121,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
 # Page tree
 nav:
   - Начало: 'index.md'
@@ -173,6 +178,7 @@ plugins:
             ЧЗВ: FAQ
   - git-revision-date-localized:
       type: date
+      enable_creation_date: true
   - git-committers:
       repository: ChatrixOne/docs.chatrix.one
       branch: main
