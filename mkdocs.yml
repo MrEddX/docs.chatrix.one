@@ -179,9 +179,9 @@ plugins:
   - git-revision-date-localized:
       type: date
       enable_creation_date: true
-# - git-committers:
-#     repository: ChatrixOne/docs.chatrix.one
-#     branch: main
+  - git-committers:
+      repository: ChatrixOne/docs.chatrix.one
+      branch: main
 # - glightbox
 # - tags
 
