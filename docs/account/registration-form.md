@@ -1,3 +1,8 @@
+---
+title: Форма за онлайн регистрация
+icon: material/file-document-edit
+---
+
 # Форма за онлайн регистрация
 
 <figure markdown>

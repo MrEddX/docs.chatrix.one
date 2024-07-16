@@ -1,3 +1,8 @@
+---
+title: Премахване на профил
+icon: material/delete
+---
+
 # Премахване на профил
 
 <figure markdown>

@@ -1,3 +1,8 @@
+---
+title: Unregister Account
+icon: material/delete
+---
+
 # Unregister Account
 
 <figure markdown>

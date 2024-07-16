@@ -1,3 +1,8 @@
+---
+title: Смяна на парола
+icon: material/key-change
+---
+
 # Смяна на парола
 
 <figure markdown>

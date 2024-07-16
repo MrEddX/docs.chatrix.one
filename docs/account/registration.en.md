@@ -1,3 +1,8 @@
+---
+title: Registration
+icon: material/account-plus
+---
+
 # Registration
 
 <figure markdown>

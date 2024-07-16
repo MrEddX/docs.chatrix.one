@@ -1,3 +1,8 @@
+---
+title: Регистрация
+icon: material/account-plus
+---
+
 # Регистрация
 
 <figure markdown>

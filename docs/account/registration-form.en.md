@@ -1,3 +1,8 @@
+---
+title: Online Registration
+icon: material/file-document-edit
+---
+
 # Online Registration
 
 <figure markdown>

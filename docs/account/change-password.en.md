@@ -1,3 +1,8 @@
+---
+title: Change password
+icon: material/key-change
+---
+
 # Change password
 
 <figure markdown>
