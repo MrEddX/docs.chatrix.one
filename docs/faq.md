@@ -76,9 +76,17 @@ flowchart RL
     - Комуникацията сървър-сървър (**s2s**) се осъществява на порт 5269;<br>
     - Абонатите могат да притежават повече от един профил, както при един, така и при няколко **XMPP** доставчика.
 
-Списък с безплатни **XMPP** сървъри, можете да намерите на страниците на [**XMPP Compliance Tester**](https://compliance.conversations.im/) и [**Jabber.at**](https://list.jabber.at/).
+Списъци с безплатни **XMPP** сървъри, можете да намерите на:
 
-Повече информация, относно **XMPP** протокола, е налична в статията [**XMPP** - Комуникирай свободно!](https://blog.chatrix.one/posts/XMPP-communication/), както и в [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
+- [**XMPP Compliance Tester**](https://compliance.conversations.im/)
+- [**Jabber.at**](https://list.jabber.at/)
+- [**XMPP Providers**](https://providers.xmpp.net/)
+
+Повече информация, относно **XMPP** протокола, е налична на:
+
+- [**XMPP** - Комуникирай свободно!](https://blog.chatrix.one/posts/XMPP-communication/)
+- [**XMPP Providers**](https://providers.xmpp.net/about/)
+- [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)
 
 ### Терминология
 

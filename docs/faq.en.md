@@ -76,9 +76,18 @@ flowchart RL
      - Server-server communication (**s2s**) takes place on port 5269;<br>
      - Subscribers can have more than one profile, both with one and with several **XMPP** providers.
 
-A list of free **XMPP** servers can be found on the pages of [**XMPP Compliance Tester**](https://compliance.conversations.im/) and [**Jabber.at**](https://list.jabber.at/).
 
-More information about the **XMPP** protocol is available in the article [**XMPP** - Communicate freely!](https://blog.chatrix.one/posts/XMPP-communication/)[^1] as well as in [**Wikipedia**](https://en.wikipedia.org/wiki/XMPP).
+Lists of free **XMPP** servers can be found on:
+
+- [**XMPP Compliance Tester**](https://compliance.conversations.im/)
+- [**Jabber.at**](https://list.jabber.at/)
+- [**XMPP Providers**](https://providers.xmpp.net/)
+
+More information about the **XMPP** protocol is available on:
+
+- [**XMPP** - Communicate freely!](https://blog.chatrix.one/posts/XMPP-communication/)[^1]
+- [**XMPP Providers**](https://providers.xmpp.net/about/)
+- [**Wikipedia**](https://bg.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)
 
 [^1]: The article is only available in Bulgarian language.
 
