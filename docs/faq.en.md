@@ -137,13 +137,13 @@ Full information about registering a **Chatrix.One** account is available in the
 
 ## Is there a registration email template posted?
 
-A sample registration email template is available in the [Registration](https://docs.chatrix.one/en/account/registration/#example-templates-when-registering-an-account) tab.
+A sample registration email template is available in the [Registration](https://docs.chatrix.one/en/account/registration/#__tabbed_1_1) tab.
 
 * * *
 
 ## Is there a **XMPP** registration message template published?
 
-A sample **XMPP** registration message template is available in the [Registration](https://docs.chatrix.one/en/account/registration/#example-templates-when-registering-an-account) tab.
+A sample **XMPP** registration message template is available in the [Registration](https://docs.chatrix.one/en/account/registration/#__tabbed_1_2) tab.
 
 * * *
 
@@ -456,13 +456,13 @@ In the event that you cannot send any messages, the reasons may be as follows:
 
 In order to protect the service from bots and abuse, the following restrictions have been introduced:
 
-- It is possible that the registration is temporarily prohibited at the moment. Please check [status](https://docs.chatrix.one/en/status/#account-registrations). In the "Account Registration" section, it must be marked as **OPEN**;
+- It is possible that the registration is temporarily prohibited at the moment. Please check the [Status](https://docs.chatrix.one/en/status/) section and specifically the [Account Registration](http://127.0.0.1:8000/en/status/#account-registrations). It must be marked as ++"OPEN"++;
 - Only one registration per hour is allowed through the online registration form regardless of the **IP** address;
 - Only one registration is allowed through the installed applications within one hour from the same **IP** address;
 - With a large number of requests to generate **CAPTCHA** codes, the page blocks access for about a minute. This protects the service from a **CAPTCHA DoS** attack;
 - With multiple attempts to illegally access the service, the **IP** address is blocked for six hours.
 
-If the status of the registrations is marked as **CLOSED**, you will need to use one of the other possible methods of registering an account described in the section "Registration" and precisely the part [Ways to register an account](https://docs.chatrix.one/en/account/registration/#ways-to-register-an-account). For all other cases, the solution is to try again later.
+If the status of the registrations is marked as ++"CLOSED"++, you will need to use one of the other possible methods of registering an account described in the section "Registration" and precisely the part [Ways to register an account](https://docs.chatrix.one/en/account/registration/#ways-to-register-an-account). For all other cases, the solution is to try again later.
 
 * * *
 
@@ -727,7 +727,7 @@ Information about incidents, service interruptions and upcoming maintenance will
 
 ## Is technical information available for the service?
 
-Check in the [Status](https://docs.chatrix.one/en/status/#technical-data) section.
+Check in the [Status](https://docs.chatrix.one/en/status/) and more specifically in the [Technical data](https://docs.chatrix.one/en/status/#technical-data) section.
 
 * * *
 
