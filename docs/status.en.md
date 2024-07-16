@@ -27,6 +27,7 @@
 | Test                    |Result                                                                     |
 |:------------------------|--------------------------------------------------------------------------:|
 | **XMPP** Compliance     | ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
+|**XMPP Providers**    | <a href="https://providers.xmpp.net/provider/chatrix.one/"><img alt="chatrix.one badge" src="https://data.xmpp.net/providers/v2/badges/chatrix.one.svg"></a> |
 |**SRV** Records / Access | <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height= '18px' alt='xmpp.love score'></a> |
 
 ## Availability - Websites
