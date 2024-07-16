@@ -16,7 +16,7 @@ After a successful initial login to the system, I recommend that you change the 
 !!! tip "Tip"
 
      Create passwords that are easy to remember but hard to crack.
-     For example: `Favorite-Phrases-From-Favorite-Verse` or `Keep-Expectations-Low`.
+     For example: `2Favorite-Phrases-From-Favorite-Verse` or `Keep-Expectations-2Low`.
      Avoid hard to remember but easy to crack passwords!
      For example: `Sq@-!@#!`. Such a password is cracked in **minutes** or **hours**!
 
