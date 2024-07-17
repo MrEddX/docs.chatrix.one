@@ -60,9 +60,9 @@ Using an **XMPP** service-compatible client, after logging into your profile, yo
 
 You can delete your personal profile at any time from the [**Delete Profile**](https://chatrix.one/user/delete/) page. Instructions for filling in the fields are available in the [**Unregister Account**](https://docs.chatrix.one/en/account/delete-account/) section.
 
-!!! warning "Warning!"
+!!! danger "Warning!"
 
-     The action of deleting a profile is irreversible! There is no built-in mechanism for this action to be reversed.
+     The action of deleting a profile is **irreversible**! There is no built-in undo mechanism. After pressing the ++"Unregister"++ button, the action is performed instantly, without the need for additional confirmation.
 
 For all other types of personal data stored by **Chatrix.One** please contact the representative posted in the [**Contacts**](https://docs.chatrix.one/en/about/#contacts) section.
 
