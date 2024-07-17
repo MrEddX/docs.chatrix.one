@@ -43,7 +43,8 @@ As an operator of service representing an alternative to the available methods o
 - Time of the last login to the system (to detect inactive users);
 - Profile information and avatar;
 - Contacts and **MUC** added to profile;
-- Uploaded files - four weeks.
+- Offline messages - deleted as soon as they are delivered to the user;
+- Uploaded files - four weeks in anonymized form.
 
 !!! tip "Tip"
 
