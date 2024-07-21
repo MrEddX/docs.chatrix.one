@@ -45,6 +45,11 @@ To test the strength of your password, you can use online tools such as [How Sec
 
      At the moment, account registration, through the registration form and applications, is temporarily **suspended**! This is done in order to protect the service from bots and unscrupulous users creating multiple invalid spam profiles, which negatively affects the overall user experience. -->
 
+!!! info "Information"
+
+     After successful registration, you will receive a system message to welcome you to the **Chatrix.One** server.
+     In cases where the account is suspected to be a **Bot**, you will see a new system message prompting you to answer a question. This is done to protect the service.
+
 ## Example templates when registering an account
 
 To get registration in **Chatrix.One** it is not necessary to use any of the mentioned templates. It is enough to send a request in free text to an administrator. The important thing is to write the username you would like to use and whether you want to be included in a **Shared Roster Group** group. Two templates are available for your convenience. One for email and one for **XMPP** messages.
