@@ -32,7 +32,8 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 
 Your account will be marked for deletion if any of the following events occur:
 
-- Only registered and not used for more than 14 days;
+- Only registered and not used for more than 7 days;
+- After registration, you have not answered the "Bot or Not" test;
 - It was last used more than 365 days ago;
 - Violation warning received.
 
