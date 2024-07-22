@@ -13,6 +13,7 @@
 
 ### 2024
 
+- 22.07.2024 - [Chatrix.One - Provider Category A](https://blog.chatrix.one/posts/CharixOne-Category-A-XMPP-Provider/)
 - 22.05.2024 - [Rest In Peace ICQ!](https://blog.chatrix.one/posts/RIP-ICQ/)
 - 22.04.2024 - [How To DeGoogle Our Life?](https://blog.chatrix.one/posts/How-To-DeGoogle-Our-Life/)
 - 02.04.2024 - [Chatrix.One is not affected by CVE-2024-3094](https://blog.chatrix.one/posts/ChatrixOne-CVE-2024-3094/)
