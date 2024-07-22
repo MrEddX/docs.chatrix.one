@@ -36,7 +36,7 @@
 - [x] **Децентрализирана** архитектура;
 - [x] Сървър локализиран в **Швейцария** - достъпен от цял свят;
 - [x] Използва **Ejabberd** - платформа с [**отворен код**](https://bg.wikipedia.org/wiki/Софтуер_с_отворен_код)[^4];
-- [x] **100%** съвместимост с наличните **XEPs**[^5].
+- [x] **100%** съвместимост с наличните **XEPs**.
 
 [^1]: За криптиране от край до край е необходимо да активирате [**OMEMO**](https://docs.chatrix.one/faq/#omemo) или [**OpenPGP**](https://bg.wikipedia.org/wiki/Достатъчно_добра_поверителност) във вашия **XMPP** клиент.
 
@@ -45,8 +45,6 @@
 [^3]: *"Съгласен съм с правилата и условията за ползване"* е [**най-голямата лъжа в Интернет**](https://www.biggestlieonline.com/)!
 
 [^4]: [**Сорс кодът**](https://bg.wikipedia.org/wiki/Изходен_код) е публично достъпен в [**Github**](https://github.com/processone/ejabberd).
-
-[^5]: XMPP Extension Protocols.
 
 <figure markdown>
   ![Gajim Demo](resources/img/gajim.png){ width=600}
