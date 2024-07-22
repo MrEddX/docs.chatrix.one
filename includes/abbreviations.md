@@ -8,6 +8,7 @@
 *[DNS]: Domain Name System
 *[DoS]: Denial-of-service
 *[DTLS]: Datagram Transport Layer Security
+*[GeoIP]: Restrict access, based on geographical location
 *[HTTP]: Hypertext Transfer Protocol
 *[HTTPS]: Hypertext Transfer Protocol Secure
 *[EET]: Eastern European Time
