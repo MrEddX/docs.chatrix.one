@@ -712,6 +712,18 @@ See the [Terms](https://docs.chatrix.one/en/terms/) section and specifically the
 
 * * *
 
+## Why was my account deleted?
+
+Read the [Terms](https://docs.chatrix.one/en/terms/) section and more specifically the [Additional](https://docs.chatrix.one/en/terms/#additional) part.
+
+* * *
+
+## How to restore a deleted profile?
+
+No such option exists. Once deleted, the profile cannot be recovered. Read the [Terms](https://docs.chatrix.one/terms/) section and specifically the [Additional](https://docs.chatrix.one/en/terms/#additional).
+
+* * *
+
 ## Will you know if the service becomes unavailable?
 
 The service is monitored around the clock on many different indicators. Besides, I personally use it daily. In case of a problem I will be known within seconds. Therefore, you should not have to contact me to let me know that something is wrong. I will make sure that the problem is fixed as soon as possible.
