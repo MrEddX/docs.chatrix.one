@@ -41,6 +41,10 @@ Your account will be marked for deletion if any of the following events occur:
 
      In the event that your profile is marked for deletion, you will receive a system message warning you of the upcoming event. You will be given an opportunity to take action if you wish to have the deletion canceled.
 
+!!! danger "Warning!"
+
+     The action of automated profile deletion is **irreversible**! There is no undo mechanism. The only thing you can do is create a new registration and start over.
+
 ## Reporting a violation
 
 In case you wish to report a violation, please send an email or **XMPP** message to an administrator. The report must be accompanied by proof in the form of a screenshot - [Screenshot](https://en.wikipedia.org/wiki/Screenshot), which unequivocally shows the violation you described.
