@@ -720,7 +720,7 @@ Read the [Terms](https://docs.chatrix.one/en/terms/) section and more specifical
 
 ## How to restore a deleted profile?
 
-No such option exists. Once deleted, the profile cannot be recovered. Read the [Terms](https://docs.chatrix.one/terms/) section and specifically the [Additional](https://docs.chatrix.one/en/terms/#additional).
+No such option exists. Once deleted, the profile cannot be recovered. Read the [Terms](https://docs.chatrix.one/terms/) section and more specifically the [Additional](https://docs.chatrix.one/en/terms/#additional).
 
 * * *
 
