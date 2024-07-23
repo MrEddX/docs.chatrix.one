@@ -475,6 +475,12 @@ If the status of the registrations is marked as ++"CLOSED"++, you will need to u
 
 * * *
 
+## Why is **CAPTCHA** partially rendered?
+
+The server has detected attempts for **Bot** registrations. Please try again later or contact an administrator for assistance.
+
+* * *
+
 ## Why do I get an invalid **SSL/TLS** certificate message?
 
 You are probably using a device with an outdated operating system (**Android** 6 or 7). You can manually accept the certificate.
