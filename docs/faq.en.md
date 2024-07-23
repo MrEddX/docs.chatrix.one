@@ -475,7 +475,7 @@ If the status of the registrations is marked as ++"CLOSED"++, you will need to u
 
 * * *
 
-## Why is **CAPTCHA** partially rendered?
+## Why **CAPTCHA** is only partially rendered?
 
 The server has detected attempts for **Bot** registrations. Please try again later or contact an administrator for assistance.
 
