@@ -14,7 +14,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 
 !!! warning "Warning"
 
-     Please be aware that Chatrix.One is not responsible for the actions of its registered users. Each user is solely responsible for their own actions and behavior while using the service.
+     Please be aware that **Chatrix.One** is not responsible for the actions of its registered users. Each user is solely responsible for their own actions and behavior while using the service.
 
 ## They are forbidden
 
@@ -27,6 +27,8 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 - Publication of pornographic content - especially that involving minors[^1];
 - Publication of Internet links to articles and photo material containing scenes of child pornography and violence[^1];
 - Use of the service for organizing and carrying out activities prohibited by the law.
+
+[^1]: Upon reporting a violation accompanied by proof, the account distributing the content will be closed **without** warning!
 
 ## Additional
 
@@ -53,6 +55,16 @@ In case you wish to report a violation, please send an email or **XMPP** message
 
      Submitting a false report may result in your account being deleted **without** warning!
 
-[^1]: Upon reporting a violation accompanied by proof, the account distributing the content will be closed **without** warning!
+## No warranty
+
+The Service is offered as is, without liability to you. Despite my best efforts, I cannot guarantee reliability, availability, continuity or quality. You agree that you assume all risks related to the use of the service!
+
+At any time, you have the full right to withdraw if you do not agree with the published terms. For this purpose, it is sufficient to delete your account(s) from **Chatrix.One**. In this way, your use of the service will be terminated. Removing a profile results in the automatic deletion of the related data stored on the server.
+
+!!! info "Information"
+
+     Deleting an account can be done through a client installed by you, as well as online in the [Account](https://docs.chatrix.one/en/account/registration/) section and more specifically the part [Unregister Account](https://docs.chatrix.one/en/account/delete-account/).
+
+The published information can be updated at any time. Users undertake to monitor for changes. Anyone who uses the **XMPP** service offered by **Chatrix.One** is deemed to agree to the posted terms.
 
 I recommend that you familiarize yourself with the [Privacy policy](https://docs.chatrix.one/en/privacy/) of **Chatrix.One**.
