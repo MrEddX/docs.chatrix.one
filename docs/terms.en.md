@@ -59,7 +59,7 @@ In case you wish to report a violation, please send an email or **XMPP** message
 
 The Service is offered as is, without liability to you. Despite my best efforts, I cannot guarantee reliability, availability, continuity or quality. You agree that you assume all risks related to the use of the service!
 
-At any time, you have the full right to withdraw if you do not agree with the published terms. For this purpose, it is sufficient to delete your account(s) from **Chatrix.One**. In this way, your use of the service will be terminated. Removing a profile results in the automatic deletion of the related data stored on the server.
+At any time, you have the full right to withdraw if you do not agree with the published terms. For this purpose, it is sufficient to delete your account from **Chatrix.One**. In this way, your use of the service will be terminated. Removing a profile results in the automatic deletion of the related data stored on the server.
 
 !!! info "Information"
 
