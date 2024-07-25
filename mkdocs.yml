@@ -177,8 +177,8 @@ plugins:
             Форма за регистрация: Registration Form
             ЧЗВ: FAQ
   - git-revision-date-localized:
-      type: date
-      # enable_creation_date: true
+      type: timeago
+      enable_creation_date: true
   - git-committers:
       repository: ChatrixOne/docs.chatrix.one
       branch: main
