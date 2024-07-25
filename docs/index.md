@@ -50,6 +50,61 @@
   ![Gajim Demo](resources/img/gajim.png){ width=600}
 </figure>
 
+## Как да използвам Chatrix.One?
+
+<div class="grid cards" markdown>
+
+-   :material-account:{ .lg .middle } __Профил__
+
+    ---
+
+    Подробна информация относно регистрация, промяна на парола и изтриване на профил.
+
+    [:octicons-arrow-right-24: Настройка на профил](https://docs.chatrix.one/account/registration/)
+
+-   :material-apps:{ .lg .middle } __Софтуер__
+
+    ---
+
+    Софтуерът с който използваме **XMPP** услугата предлагана от **Chatrix.One**, се нарича клиент.
+
+    [:octicons-arrow-right-24: Инсталиране](https://docs.chatrix.one/clients/)
+
+-   :material-exclamation-thick:{ .lg .middle } __Условия__
+
+    ---
+
+    Моля, да се запознаете с правилата, които задължително всеки потребител трябва да спазва.
+
+    [:octicons-arrow-right-24: Правила](https://docs.chatrix.one/terms/)
+
+-   :material-shield-account:{ .lg .middle } __Поверителност__
+
+    ---
+
+    Политика за поверителност, какво трябва да имате предвид и какви данни за колко време се съхраняват.
+
+    [:octicons-arrow-right-24: Поверителност](https://docs.chatrix.one/privacy/)
+
+
+-   :material-head-question:{ .lg .middle } __Често задавани въпроси__
+
+    ---
+
+    Разполагате с ресурс от 70+ въпроса и отговори към тях, възникващи при използване на услугата.
+
+    [:octicons-arrow-right-24: ЧЗВ](https://docs.chatrix.one/faq/)
+
+-   :material-contacts:{ .lg .middle } __Контакти__
+
+    ---
+
+    При проблеми, свързани с използване на **XMPP** услугата предлагана от **Chatrix.One**.
+
+    [:octicons-arrow-right-24: Контакти](https://docs.chatrix.one/about/#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8)
+
+</div>
+
 ## Технологии стоящи зад услугата
 
 <figure markdown>
@@ -57,17 +112,3 @@
   ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
   <figcaption>Предпочитаме технологии с отворен код</figcaption>
 </figure>
-
-## Как да използвам **Chatrix.One**?
-
-За удобство на потребителите са достъпни следните статии:
-
-- [Регистрация](https://docs.chatrix.one/account/registration/)
-
-- [Необходим софтуер (клиенти)](https://docs.chatrix.one/clients/)
-
-- [Често задавани въпроси](https://docs.chatrix.one/faq/)
-
-- [Условия за ползване](https://docs.chatrix.one/terms/)
-
-- [Поверителност](https://docs.chatrix.one/privacy/)

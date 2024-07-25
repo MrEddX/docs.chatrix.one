@@ -50,6 +50,61 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
   ![Gajim Demo](resources/img/gajim.png){ width=600}
 </figure>
 
+## How do I use **Chatrix.One**?
+
+<div class="grid cards" markdown>
+
+-   :material-account:{ .lg .middle } __Account__
+
+    ---
+
+    Detailed information on registration, password change and account deletion.
+
+    [:octicons-arrow-right-24: Profile setup](https://docs.chatrix.one/en/account/registration/)
+
+-   :material-apps:{ .lg .middle } __Software__
+
+    ---
+
+    The software with which we use the **XMPP** service offered by **Chatrix.One** is called a client.
+
+    [:octicons-arrow-right-24: Install](https://docs.chatrix.one/en/clients/)
+
+-   :material-exclamation-thick:{ .lg .middle } __Rules__
+
+    ---
+
+    Please familiarize yourself with the rules that every user must follow.
+
+    [:octicons-arrow-right-24: Terms](https://docs.chatrix.one/en/terms/)
+
+-   :material-shield-account:{ .lg .middle } __Privacy__
+
+    ---
+
+    Privacy policy, what you should keep in mind, what data is stored and for how long.
+
+    [:octicons-arrow-right-24: Privacy](https://docs.chatrix.one/en/privacy/)
+
+
+-   :material-head-question:{ .lg .middle } __Frequently Asked Questions__
+
+    ---
+
+    You have a resource of 70+ questions and answers to them that arise when using the service.
+
+    [:octicons-arrow-right-24: FAQ](https://docs.chatrix.one/en/faq/)
+
+-   :material-contacts:{ .lg .middle } __Contacts__
+
+    ---
+
+    For problems related to the use of the **XMPP** service offered by **Chatrix.One**.
+
+    [:octicons-arrow-right-24: Contacts](https://docs.chatrix.one/en/about/#contacts)
+
+</div>
+
 ## Technologies behind the service
 
 <figure markdown>
@@ -57,17 +112,3 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
   ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
   <figcaption>We prefer open source technologies</figcaption>
 </figure>
-
-## How do I use **Chatrix.One**?
-
-The following articles are available for user convenience:
-
-- [Account Registration](https://docs.chatrix.one/en/account/registration/)
-
-- [Required Software (Clients)](https://docs.chatrix.one/en/clients/)
-
-- [Frequently Asked Questions](https://docs.chatrix.one/en/faq/)
-
-- [Terms of Use](https://docs.chatrix.one/en/terms/)
-
-- [Privacy](https://docs.chatrix.one/en/privacy/)
