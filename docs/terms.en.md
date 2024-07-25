@@ -35,7 +35,7 @@ In general, I am far from the thought of imposing any restrictions. However, pra
 Your account will be marked for deletion if any of the following events occur:
 
 - Only registered and not used for more than 7 days;
-- After registration, you have not answered the "Bot or Not" test;
+- After registration, you have not answered the **Bot or Not** test;
 - It was last used more than 365 days ago;
 - Violation warning received.
 
@@ -59,11 +59,15 @@ In case you wish to report a violation, please send an email or **XMPP** message
 
 The Service is offered as is, without liability to you. Despite my best efforts, I cannot guarantee reliability, availability, continuity or quality. You agree that you assume all risks related to the use of the service!
 
+## Rights
+
 At any time, you have the full right to withdraw if you do not agree with the published terms. For this purpose, it is sufficient to delete your account from **Chatrix.One**. In this way, your use of the service will be terminated. Removing a profile results in the automatic deletion of the related data stored on the server.
 
 !!! info "Information"
 
      Deleting an account can be done through a client installed by you, as well as online in the [Account](https://docs.chatrix.one/en/account/registration/) section and more specifically the part [Unregister Account](https://docs.chatrix.one/en/account/delete-account/).
+
+## Obligations
 
 The published information can be updated at any time. Users undertake to monitor for changes. Anyone who uses the **XMPP** service offered by **Chatrix.One** is deemed to agree to the posted terms.
 
