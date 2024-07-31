@@ -26,7 +26,7 @@
 
 Dear users,
 
-Currently, new registrations for our **XMPP** service are temporarily suspended. This is due to reaching the maximum storage capacity of the data storage. Unfortunately, this is the only way we can guarantee quality service to current users.
+Currently, new registrations for our **XMPP** service are temporarily suspended. This is due to reaching the maximum storage capacity of the data storage. Unfortunately, this is the only way we can guarantee quality service to our current users.
 
 We are working on removing the limitation, but we cannot commit to a time frame for implementation. Please check back periodically for updates on the possibility of new registrations. Until then, you can register an account on one of the many publicly available [**XMPP** servers](https://docs.chatrix.one/en/faq/#lists-of-free-xmpp-servers).
 
