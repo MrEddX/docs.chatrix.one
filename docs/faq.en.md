@@ -76,14 +76,17 @@ flowchart RL
      - Server-server communication (**s2s**) takes place on port 5269;<br>
      - Subscribers can have more than one profile, both with one and with several **XMPP** providers.
 
+### Terminology
 
-Lists of free **XMPP** servers can be found on:
+| Term                                | Meaning                                                |
+|-------------------------------------|--------------------------------------------------------|
+| **MUC, Room, Chatroom, Conference** | Group chat, Channel or Multi-user Chat                 |
+| **Occupant**                        | Participant                                            |
+| **JID**                             | Address or XMPP address                                |
+| **Roste**r                          | Contact list                                           |
+| **Avatar**                          | Profile picture                                        |
 
-- [**XMPP Compliance Tester**](https://compliance.conversations.im/)
-- [**Jabber.at**](https://list.jabber.at/)
-- [**XMPP Providers**](https://providers.xmpp.net/)
-
-More information about the **XMPP** protocol is available on:
+### More information about the **XMPP** protocol
 
 - [**XMPP** - Communicate freely!](https://blog.chatrix.one/posts/XMPP-communication/)[^1]
 - [**XMPP Providers**](https://providers.xmpp.net/about/)
@@ -91,15 +94,11 @@ More information about the **XMPP** protocol is available on:
 
 [^1]: The article is only available in Bulgarian language.
 
-### Terminology
+### Lists of free **XMPP** servers
 
-| Term                            | Meaning                                                |
-|---------------------------------|--------------------------------------------------------|
-| MUC, Room, Chatroom, Conference | Group chat, Channel or Multi-user Chat                 |
-| Occupant                        | Participant                                            |
-| JID                             | Address or XMPP address                                |
-| Roster                          | Contact list                                           |
-| Avatar                          | Profile picture                                        |
+- [**XMPP Compliance Tester**](https://compliance.conversations.im/)
+- [**Jabber.at**](https://list.jabber.at/)
+- [**XMPP Providers**](https://providers.xmpp.net/#category-a)
 
 * * *
 
