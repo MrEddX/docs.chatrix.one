@@ -154,11 +154,11 @@ plugins:
       languages:
         - locale: bg
           default: true
-          name: Български
+          name: 🇧🇬 Български
           build: true
           site_name: "Chatrix.One | Документация"
         - locale: en
-          name: English
+          name: 🇬🇧 English
           build: true
           site_name: "Chatrix.One | Documentation"
           default: false
