@@ -760,3 +760,7 @@ Check in the [Status](https://docs.chatrix.one/en/status/) and more specifically
 ## How can I contact you?
 
 Contacts are available at the bottom of the page, as well as in the [About](https://docs.chatrix.one/en/about/#contacts) tab. If you are using a mobile device please check the :material-menu: menu.
+
+## Why don't you answer my question?
+
+I've probably already answered that question in the lines above.
