@@ -14,6 +14,7 @@
 *[EET]: Eastern European Time
 *[Elixir]: Dynamic, functional language for building scalable and maintainable applications that runs on the Erlang VM
 *[Email]: Electronic mail
+*[IM]: Instant messaging
 *[IP]:  Internet Protocol
 *[JID]: Jabber Identity, Username or Account name used to access a Jabber service
 *[MAM]: XEP-0313: Message Archive Management
