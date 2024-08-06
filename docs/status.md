@@ -26,9 +26,10 @@
 
 | Тест                 |Резултат                                                                   |
 |:---------------------|--------------------------------------------------------------------------:|
-| **XMPP** Съответствие| ![Compliance Test](https://compliance.conversations.im/badge/chatrix.one) |
-|**XMPP Providers**    | <a href="https://providers.xmpp.net/provider/chatrix.one/"><img alt="chatrix.one badge" src="https://data.xmpp.net/providers/v2/badges/chatrix.one.svg"></a> |
-|**SRV** Записи / Достъп| <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height='18px' alt='xmpp.love score'></a> |
+| **XMPP** Съответствие  | <a href='https://compliance.conversations.im/server/chatrix.one'><img src='https://compliance.conversations.im/badge/chatrix.one'></a> |
+|**XMPP Providers**      | <a href="https://providers.xmpp.net/provider/chatrix.one/"><img alt="chatrix.one badge" src="https://data.xmpp.net/providers/v2/badges/chatrix.one.svg"></a> |
+| **IM Observatory**     | <a href='https://xmpp.net/result.php?domain=chatrix.one&type=client'><img src='https://chatrix.one/badge.svg'></a> |
+|**SRV** Записи / Достъп | <a href='https://xmpp.love/servers/chatrix.one/results'><img src='https://xmpp.love/servers/chatrix.one/badge' width='201px' height='18px' alt='xmpp.love score'></a> |
 
 ## Достъпност - Интернет страници
 
