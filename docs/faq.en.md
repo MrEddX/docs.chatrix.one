@@ -397,7 +397,24 @@ Yes. You can create rooms and invite friends to a shared chat.
 
 * * *
 
-## Can I create a **Shared Rooster Group**?
+## What is **Shared Roster Group**?
+
+In short, it is a list of shared contacts. They can be useful in different situations.
+
+- Corporate environment;
+
+!!! example "Example"
+
+    Imagine that *Alice* is hired by the marketing department of *Company X*. It will be useful for her to automatically receive the contacts of other colleagues from the marketing department the first time she logs into the system. For the rest of the marketing department, it also makes sense to get *Alice's* contact on their lists as soon as her profile is created. Likewise, when *James* from accounting department is fired, it makes sense that he would disappear from the contact lists of all other accounting employees.
+
+- Academic environment;
+- Social network applications;
+- User **IM** services;
+- Wherever it is important to build and manage small communities of users.
+
+* * *
+
+## Can I create a **Shared Roster Group**?
 
 No, but if you contact me I can create one. This way, there will be no need to invite all the members separately. The group will be immediately visible in the application to everyone included in it. For connection, it is best to send an **XMPP** message to an administrator.
 
