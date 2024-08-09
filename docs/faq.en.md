@@ -580,8 +580,37 @@ This service is not currently scheduled to be discontinued. Until I run into fin
 - Internet costs - generated traffic;
 - Electricity costs;
 - Second server - to store backup copies of critical information;
-- Hardware;
-- Personal time.
+- Hardware - upgrades and replacement of defective parts;
+- Personal time - daily.
+
+* * *
+
+## How can I become a sponsor?
+
+It is enough to help pay one monthly bill, for any of the specified costs listed in [What costs does this type of service generate?](https://docs.chatrix.one/en/faq/#what-costs-does-this-type-of-service-generate).
+
+* * *
+
+## Can I help pay more than one monthly bill?
+
+Yes. Any kind of help is always welcome.
+
+* * *
+
+## Are there perks for sponsors?
+
+Of course! Each sponsor receives:
+
+- Ability to register more than one account;
+- Ten times more offline messages;
+- Larger file storage volume;
+- Advantage over other users if they need customer support.
+
+* * *
+
+## Will my name be listed on this website if I am a sponsor?
+
+Only if you insist on it.
 
 * * *
 
