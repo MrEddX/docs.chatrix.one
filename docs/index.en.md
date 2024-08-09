@@ -91,7 +91,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
     ---
 
-    You have a resource of 70+ questions and answers to them that arise when using the service.
+    You have a resource of 80+ questions and answers to them that arise when using the service.
 
     [:octicons-arrow-right-24: FAQ](https://docs.chatrix.one/en/faq/)
 
