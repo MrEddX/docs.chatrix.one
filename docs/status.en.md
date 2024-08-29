@@ -4,7 +4,7 @@
 
      | Date        | Time interval    | Note                                        |
      |:------------|:----------------:|:-------------------------------------------:|
-     | 31.08.2024  |05:30 - 6:30 EET  | **XMPP** service interruptions are possible |
+     | 28.09.2024  |05:30 - 6:30 EET  | **XMPP** service interruptions are possible |
 
 ## Account Registrations
 
