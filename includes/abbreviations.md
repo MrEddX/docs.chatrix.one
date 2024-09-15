@@ -2,7 +2,7 @@
 *[API]: Application Programming Interface
 *[ARM]: Formerly Advanced RISC Machines and originally Acorn RISC Machine
 *[Bind]: Berkeley Internet Name Domain
-*[Bot]: Abbreviation of robot - software application that runs automated tasks (scripts) on the Internet, usually with the intent to imitate human activity, such as messaging, on a large scale.
+*[Bot]: Abbreviation of robot - software application that runs automated tasks (scripts) on the Internet, usually with the intent to imitate human activity, such as messaging, on a large scale
 *[CAPTCHA]: Challenge–response Test
 *[CLI]: Command-line interface
 *[DNS]: Domain Name System
@@ -33,7 +33,7 @@
 *[Rebar3]: Erlang tool that makes it easy to create, develop, and release Erlang libraries, applications, and systems in a repeatable manner
 *[SASL]: Simple Authentication and Security Layer
 *[SCRAM-SHA-1]: Salted Challenge Response Authentication Mechanism encrypted with Secure Hash Algorithm 1
-*[Screenshot]: Aalso known as screen capture or screen grab is a digital image that shows the contents of a device display.
+*[Screenshot]: Aalso known as screen capture or screen grab is a digital image that shows the contents of a device display
 *[SQL]: Structured Query Language
 *[SRTP]: Secure Real-time Transport Protocol
 *[SRV]: Service record
@@ -44,9 +44,9 @@
 *[TURN]: Traversal Using Relays around NAT
 *[vCard]: VCF (Virtual Contact File)
 *[VPN]: Virtual private network
-*[XEP]: XMPP Extension Protocol.
-*[XEPs]: XMPP Extension Protocols.
-*[XMPP]: Extensible Messaging and Presence Protocol.
+*[XEP]: XMPP Extension Protocol
+*[XEPs]: XMPP Extension Protocols
+*[XMPP]: Extensible Messaging and Presence Protocol
 *[ZFS]: File system with volume management capabilities
 *[Спонсор]: Всеки потребител направил поне едно дарение
 *[ЧЗВ]: Често Задавни Въпроси
