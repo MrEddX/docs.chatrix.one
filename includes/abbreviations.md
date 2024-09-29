@@ -21,6 +21,7 @@
 *[MFA]: Multi-factor authentication
 *[Mix]: A build automation tool for working with applications written in the Elixir programming language
 *[MUC]: XEP-0045: Multi-User Chat
+*[NTP]: Network Time Protocol for clock synchronization between computer systems
 *[OMEMO]: Multi-End Message and Object Encryption
 *[OpenPGP]: Open Pretty Good Privacy
 *[OTR]: Off-the-record

@@ -718,6 +718,7 @@ Do not get me wrong. I still see in **Prosody** a wonderful opportunity to creat
 At the moment, the following services are functioning on this domain:
 
 - [x] **XMPP** - `chatrix.one`
+- [x] **NTP Server** `time.chatrix.one`
 - [x] **Online Documentation** - `https://docs.chatrix.one`
 - [x] **Blog** - `https://blog.chatrix.one`
 - [ ] **DNS**
@@ -727,7 +728,7 @@ At the moment, the following services are functioning on this domain:
 
 !!! info "Information"
 
-     Only **XMPP** is a publicly available service. The rest are in the experimental phase. If any of them do become publicly accessible, this will be announced on the web page. You will also notice the change in color of the *circle with a checkmark* symbol, in front of the corresponding service from gray :material-checkbox-marked-circle:{ .gray } to green :material-checkbox-marked-circle:{ .green }. The URL address will be written next to the relevant service.
+     Only **XMPP** and **NTP** are publicly available services. The rest are in the experimental phase. If any of them do become publicly accessible, this will be announced on the web page. You will also notice the change in color of the *circle with a checkmark* symbol, in front of the corresponding service from gray :material-checkbox-marked-circle:{ .gray } to green :material-checkbox-marked-circle:{ .green }. The URL address will be written next to the relevant service.
 
 !!! tip "Tip"
 
