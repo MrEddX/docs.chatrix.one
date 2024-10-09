@@ -718,7 +718,7 @@ Do not get me wrong. I still see in **Prosody** a wonderful opportunity to creat
 At the moment, the following services are functioning on this domain:
 
 - [x] **XMPP** - `chatrix.one`
-- [x] **NTP Server** `time.chatrix.one`
+- [x] **NTP Server** - `time.chatrix.one`
 - [x] **Online Documentation** - `https://docs.chatrix.one`
 - [x] **Blog** - `https://blog.chatrix.one`
 - [ ] **DNS**
