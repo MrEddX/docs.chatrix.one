@@ -715,7 +715,7 @@ flowchart BT
 Към момента на този домейн функционират услугите:
 
 - [x] **XMPP** - `chatrix.one`
-- [x] **NTP Server** `time.chatrix.one`
+- [x] **NTP Server** - `time.chatrix.one`
 - [x] Онлайн документация - `https://docs.chatrix.one`
 - [x] Блог - `https://blog.chatrix.one`
 - [ ] **DNS**
