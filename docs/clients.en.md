@@ -42,7 +42,7 @@ Client is the application (software) through which we use the service. It is imp
 | Client | Free | Open Source | Link |
 |:-----------------|:------------------:|:-------- ----------:|:-------------------------------------- ------------------------------:|
 |**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [F-droid](https://f-droid.org/packages/eu.siacs.conversations/) |
-|**Conversations** | **7.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
+|**Conversations** | **9.79 BGN** | :fontawesome-solid-check: | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
 
 !!! tip "Tip"
 

@@ -194,7 +194,7 @@ flowchart RL
     | Клиент           | Безплатен          |  Отворен код       | Линк                                                                |
     |:-----------------|:------------------:|:------------------:|:-------------------------------------------------------------------:|
     |**Conversations** | :fontawesome-solid-check: | :fontawesome-solid-check: | [**F-droid**](https://f-droid.org/packages/eu.siacs.conversations/) |
-    |**Conversations** | **7.79лв**         | :fontawesome-solid-check: | [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
+    |**Conversations** | **9.79лв**         | :fontawesome-solid-check: | [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations) |
 
 === ":fontawesome-brands-apple: iOS"
 
