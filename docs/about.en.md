@@ -1,5 +1,10 @@
 # About Me
 
+<figure markdown>
+   ![Chatrix.One - About](resources/img/renewable-energy_en.jpeg){ width="800" }
+   <figcaption>Chatrix.One is powered by 100% renewable energy!</figcaption>
+</figure>
+
 Over the years, the service has migrated multiple times across different hardware. The aim has always been minimal power consumption and maximum service stability.
 
 | Year | Event | Hardware | Platform |
