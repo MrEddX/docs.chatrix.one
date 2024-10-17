@@ -9,7 +9,7 @@
 
 <figure markdown>
 ![Chatrix.One - Green XMPP Server](https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true)
-  <figcaption markdown>Проверен от [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fchatrix.one)</figcaption>
+  <figcaption markdown>Проверен от [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=chatrix.one)</figcaption>
 </figure>
 
 ## Функции

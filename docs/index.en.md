@@ -9,7 +9,7 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 
 <figure markdown>
 ![Chatrix.One - Green XMPP Server](https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true)
-  <figcaption markdown>Verified by the [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fchatrix.one)</figcaption>
+  <figcaption markdown>Verified by the [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=chatrix.one)</figcaption>
 </figure>
 
 ## Features
