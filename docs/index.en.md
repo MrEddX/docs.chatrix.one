@@ -116,5 +116,5 @@ Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-
 <figure markdown>
   ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }
   ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
-  <figcaption>We prefer open source technologies</figcaption>
+  <figcaption markdown>We prefer [open source](https://en.wikipedia.org/wiki/Open_source) technologies</figcaption>
 </figure>

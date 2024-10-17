@@ -116,5 +116,5 @@
 <figure markdown>
   ![Technologies](resources/img/technologies_light.png#only-light){ width="640" }
   ![Technologies](resources/img/technologies_dark.png#only-dark){ width="640" }
-  <figcaption>Предпочитаме технологии с отворен код</figcaption>
+  <figcaption markdown>Предпочитаме технологии с [отворен код](https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD_%D0%BA%D0%BE%D0%B4)</figcaption>
 </figure>
