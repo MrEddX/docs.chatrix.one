@@ -8,13 +8,12 @@
 Здравейте и добре дошли в **Chatrix.One**! Български **XMPP** сървър за безплатна, криптирана от край до край комуникация, без телеметрия и без реклами. Изпращайте свободно съобщения, емотикони, снимки, файлове и локации. Насладете се на качествена гласова комуникация и видео в реално време. Пожелавам Ви приятни мигове с вашето семейство, близки и приятели!
 
 <figure markdown>
-![Chatrix.One - Green XMPP Server](https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true)
-  <figcaption markdown>Проверен от [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=chatrix.one)</figcaption>
+  ![Chatrix.One - Green XMPP Server](https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true)
 </figure>
 
 ## Функции
 
-- [x] Незабавни съобщения с поддръжка реакции и емотикони;
+- [x] Незабавни съобщения с поддръжка на реакции и емотикони;
 - [x] Споделяне на изображения и файлове от различен тип;
 - [x] Споделяне на местоположение;
 - [x] Аудио и видео разговори;
