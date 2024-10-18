@@ -1,7 +1,7 @@
 # Клиенти
 
 <figure markdown>
-  ![Клиенти](resources/img/clients.jpeg){ width="800" }
+  ![Клиенти](resources/img/clients.png){ width="800" }
   <figcaption>Софтуерът за работа с <b>Chatrix.One</b> се нарича клиент</figcaption>
 </figure>
 

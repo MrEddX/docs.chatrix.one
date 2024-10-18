@@ -1,6 +1,6 @@
 # Съобщение
 <figure markdown>
-  ![STOP](resources/img/notice.jpeg){: width="800" }
+  ![STOP](resources/img/notice.png){: width="800" }
   <figcaption>Важно съобщение!</figcaption>
 </figure>
 

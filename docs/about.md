@@ -1,7 +1,7 @@
 # За Мен
 
 <figure markdown>
-   ![Chatrix.One - За Мен](resources/img/renewable-energy_bg.jpeg){ width="800" }
+   ![Chatrix.One - За Мен](resources/img/renewable-energy_bg.png){ width="800" }
    <figcaption>Chatrix.One се захранва 100% с възобновяема енергия!</figcaption>
 </figure>
 

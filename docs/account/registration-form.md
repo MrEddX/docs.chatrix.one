@@ -6,7 +6,7 @@ icon: material/file-document-edit
 # Форма за онлайн регистрация
 
 <figure markdown>
-   ![Register New Account](../resources/img/register.jpeg){: width="800" }
+   ![Register New Account](../resources/img/register.png){: width="800" }
    <figcaption>Форма за онлайн регистрация в <b>Chatrix.One</b></figcaption>
 </figure>
 

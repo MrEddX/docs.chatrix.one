@@ -6,7 +6,7 @@ icon: material/account-plus
 # Registration
 
 <figure markdown>
-   ![Registration](../resources/img/registration.jpeg){: width="800" }
+   ![Registration](../resources/img/registration.png){: width="800" }
    <figcaption>Account registration on <b>Chatrix.One</b></figcaption>
 </figure>
 

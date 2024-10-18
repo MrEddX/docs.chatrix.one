@@ -1,7 +1,7 @@
 # Privacy
 
 <figure markdown>
-   ![Privacy](resources/img/privacy.jpeg){ width="800" }
+   ![Privacy](resources/img/privacy.png){ width="800" }
    <figcaption>Privacy Policy of <b>Chatrix.One</b></figcaption>
 </figure>
 

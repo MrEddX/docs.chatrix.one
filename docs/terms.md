@@ -1,7 +1,7 @@
 # Условия
 
 <figure markdown>
-  ![Правила](resources/img/tos.jpeg){: width="800" }
+  ![Правила](resources/img/tos.png){: width="800" }
   <figcaption>Условия за ползване на <b>Chatrix.One</b></figcaption>
 </figure>
 

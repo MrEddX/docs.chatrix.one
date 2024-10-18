@@ -1,7 +1,7 @@
 # About Me
 
 <figure markdown>
-   ![Chatrix.One - About](resources/img/renewable-energy_en.jpeg){ width="800" }
+   ![Chatrix.One - About](resources/img/renewable-energy_en.png){ width="800" }
    <figcaption>Chatrix.One is powered by 100% renewable energy!</figcaption>
 </figure>
 
