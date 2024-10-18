@@ -98,9 +98,12 @@
 | XEP-0363: HTTP File Upload                 | :material-check-bold:{ .green} |
 | XEP-0368: SRV records for XMPP over TLS    | :material-check-bold:{ .green} |
 | XEP-0384: OMEMO Encryption                 | :material-check-bold:{ .green} |
+| XEP-0386: Bind 2                           | :material-check-bold:{ .green} |
+| XEP-0388: Extensible SASL Profile          | :material-check-bold:{ .green} |
 | XEP-0398: Avatar Conversion                | :material-check-bold:{ .green} |
 | XEP-0402: PEP Native Bookmarks             | :material-check-bold:{ .green} |
 | XEP-0411: Bookmarks Conversion             | :material-check-bold:{ .green} |
+| XEP-0444: Message Reactions                | :material-check-bold:{ .green} |
 
 #### Лимити за файлове
 
