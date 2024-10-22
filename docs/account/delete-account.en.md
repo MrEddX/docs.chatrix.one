@@ -6,7 +6,7 @@ icon: material/delete
 # Unregister Account
 
 <figure markdown>
-   ![Delete Account](../resources/img/delete.png){: width="800" }
+   ![Delete Account](../resources/img/delete.svg){: width="800" }
    <figcaption>Remove a Profile in <b>Chatrix.One</b></figcaption>
 </figure>
 

@@ -6,7 +6,7 @@ icon: material/key-change
 # Change password
 
 <figure markdown>
-   ![Registration](../resources/img/change.png){: width="800" }
+   ![Registration](../resources/img/change.svg){: width="800" }
    <figcaption>Change Password in <b>Chatrix.One</b></figcaption>
 </figure>
 

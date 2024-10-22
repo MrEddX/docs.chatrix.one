@@ -1,5 +1,5 @@
 <figure markdown>
-   ![Terms](resources/img/tos.png){: width="800" }
+   ![Terms](resources/img/tos.svg){: width="800" }
    <figcaption>Terms and Conditions of <b>Chatrix.One</b></figcaption>
 </figure>
 

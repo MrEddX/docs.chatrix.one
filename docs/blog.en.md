@@ -1,7 +1,7 @@
 # Blog
 
 <figure markdown>
-   ![Chatrix.One - Блог](resources/img/blog.png){ width="800" }
+   ![Chatrix.One - Блог](resources/img/blog.svg){ width="800" }
    <figcaption>XMPP, News, System Administration, Software and Hardware.</figcaption>
 </figure>
 

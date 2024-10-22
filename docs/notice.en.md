@@ -1,6 +1,6 @@
 # Notice
 <figure markdown>
-  ![STOP](resources/img/notice.png){: width="800" }
+  ![STOP](resources/img/notice.svg){: width="800" }
   <figcaption>Important Notice!</figcaption>
 </figure>
 

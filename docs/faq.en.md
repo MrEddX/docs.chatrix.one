@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 <figure markdown>
-   ![FAQ](resources/img/faq.png){ width="800" }
+   ![FAQ](resources/img/faq.svg){ width="800" }
    <figcaption>Frequently asked questions when using <b>Chatrix.One</b></figcaption>
 </figure>
 

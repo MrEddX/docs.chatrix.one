@@ -1,7 +1,7 @@
 # Поверителност
 
 <figure markdown>
-  ![Поверителност](resources/img/privacy.png){ width="800" }
+  ![Поверителност](resources/img/privacy.svg){ width="800" }
   <figcaption>Политика за поверителност на <b>Chatrix.One</b></figcaption>
 </figure>
 
