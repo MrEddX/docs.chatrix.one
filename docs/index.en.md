@@ -7,9 +7,9 @@
 
 Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice and video calls in real time. Wishing you pleasant moments with your family, friends and loved ones!
 
-<figure markdown>
+<!-- <figure markdown>
   ![Chatrix.One - Green XMPP Server](https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true)
-</figure>
+</figure> -->
 
 ## Features
 

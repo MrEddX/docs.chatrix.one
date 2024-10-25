@@ -67,7 +67,7 @@
 | Location         | Switzerland                    |
 | Powered with     | 100% Renewable energy          |
 
-[<img src="https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px">](https://www.thegreenwebfoundation.org/green-web-check/?url=chatrix.one)
+<!-- [<img src="https://app.greenweb.org/api/v3/greencheckimage/chatrix.one?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px">](https://www.thegreenwebfoundation.org/green-web-check/?url=chatrix.one) -->
 
 #### Information about XEPs
 
