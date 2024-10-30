@@ -142,6 +142,16 @@
 
 ## Update history
 
+### 30.10.2024
+
+#### Update Ejabberd to version [24.10](https://github.com/processone/ejabberd/releases/tag/24.10)
+
+- XEP-0288: Bidirectional Server-to-Server Connections;
+- XEP-0480: SASL Upgrade Tasks;
+- IQ permission in privileged entities;
+- PubSub varied fixes;
+- WebAdmin improvements.
+
 ### 22.07.2024
 
 #### Update Ejabberd to version [24.07](https://github.com/processone/ejabberd/releases/tag/24.07)
