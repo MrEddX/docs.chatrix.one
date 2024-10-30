@@ -27,6 +27,7 @@
 *[OTR]: Off-the-record
 *[PEP]: Personal Eventing Protocol
 *[ping]: Packet Internet or Inter-Network Groper allows a user to test and verify if a particular destination IP address exists and can accept requests in computer network administration
+*[PubSub]: Publish-Subscribe
 *[QR]: Quick-Response code
 *[RAID]: Redundant Array of Independent Disks or Redundant Array of Inexpensive Disks
 *[RAIDZ-1]: Similar to RAID 5, allows one disk to fail
