@@ -90,6 +90,7 @@
 | XEP-0258: Security Labels in XMPP          | :octicons-x-12:{ .red}         |
 | XEP-0237: Roster Versioning                | :material-check-bold:{ .green} |
 | XEP-0280: Message Carbons                  | :material-check-bold:{ .green} |
+| XEP-0288: Bidirectional Server-to-Server Connections | :material-check-bold:{ .green} |
 | XEP-0313: Message Archive Management       | :material-check-bold:{ .green} |
 | XEP-0313: Message Archive Management - MUC | :material-check-bold:{ .green} |
 | XEP-0313: Message Archive Management (extended usage) | :octicons-x-12:{ .red} |
@@ -104,6 +105,7 @@
 | XEP-0402: PEP Native Bookmarks             | :material-check-bold:{ .green} |
 | XEP-0411: Bookmarks Conversion             | :material-check-bold:{ .green} |
 | XEP-0444: Message Reactions                | :material-check-bold:{ .green} |
+| XEP-0480: SASL Upgrade Tasks               | :material-check-bold:{ .green} |
 
 #### File upload limits
 
