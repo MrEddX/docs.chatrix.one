@@ -1,8 +1,8 @@
 # Добре дошли
 
 <figure markdown>
-  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="450" }
-  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="450" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="300" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="300" }
 </figure>
 
 Здравейте и добре дошли в **Chatrix.One**! Български **XMPP** сървър за безплатна, криптирана от край до край комуникация, без телеметрия и без реклами. Изпращайте свободно съобщения, емотикони, снимки, файлове и локации. Насладете се на качествена гласова комуникация и видео в реално време. Пожелавам Ви приятни мигове с вашето семейство, близки и приятели!

@@ -1,8 +1,8 @@
 # Welcome
 
 <figure markdown>
-  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="450" }
-  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="450" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-white.png#only-dark){ width="300" }
+  ![Chatrix.One Logo](resources/img/chatrix-logo-blue.png#only-light){ width="300" }
 </figure>
 
 Hello and welcome to **Chatrix.One**! A Bulgarian **XMPP** server for free, end-to-end encrypted communication, without telemetry and no ads. Freely send messages, emojis, pictures, files and locations. Enjoy quality voice and video calls in real time. Wishing you pleasant moments with your family, friends and loved ones!
