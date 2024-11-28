@@ -142,6 +142,10 @@
 
 ## Update history
 
+### 27-11-2024
+
+#### New Logo
+
 ### 30.10.2024
 
 #### Update Ejabberd to version [24.10](https://github.com/processone/ejabberd/releases/tag/24.10)
