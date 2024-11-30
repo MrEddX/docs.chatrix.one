@@ -175,12 +175,12 @@ plugins:
             Условия: Terms
             Форма за регистрация: Registration Form
             ЧЗВ: FAQ
-# - git-revision-date-localized:
-#     type: timeago
-#     enable_creation_date: true
-# - git-committers:
-#     repository: ChatrixOne/docs.chatrix.one
-#     branch: main
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+  - git-committers:
+      repository: ChatrixOne/docs.chatrix.one
+      branch: main
 # - glightbox
 # - tags
 
